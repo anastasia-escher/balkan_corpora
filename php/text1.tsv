@@ -1,0 +1,3336 @@
+source	cyrillic	diplomatic	lemma	PoS_tag	PoS_ext	sent_id	UD_id	UD_ncy	UD_type	UD_ext	translation
+											
+odevme	odevme	odi	оди	Vmia1pi		1	1	0	root		We went like that.
+taka	taka	taka	така	R		1	2	1	advmod		
+na	na	na	на	Sa		1	3	1	orph		
+											
+i	i	i	и	C		2	1	9	cc		And then, that time I really like.
+togaš	togaš	togaš	тогаш	R		2	2	9	advmod		
+toa	toa	toa	тоа	Pd-nsn		2	3	5	det	ext	
+to	to	toa	тоа	Pd-nsn		2	4	5	rep	ext	
+vreme	vreme	vreme	време	Nnsnn		2	5	9	nsubj		
+mnogu	mnogu	mnogu	многу	R		2	6	9	advmod		
+mi	mi	јas	јас	Pp1-sd		2	7	9	obl	iobj	
+se	se	se	се	Px---a		2	8	9	expl		
+dopaѓat	dopaѓat	dopaѓa	допаѓа	Vmip3si		2	9	0	root		
+											
+i	i	i	и	C		3	1	4	cc		And there we had a really nice friendship with all the children.
+tamu	tamu	tamu	таму	R		3	2	4	advmod		
+družba	družba	družba	дружба	Nfsnn		3	3	4	obj		
+imavme	imavme	ima	има	Vmii1pi		3	4	0	root		
+mnogu	mnogu	mnogu	многу	R		3	5	4	advmod		
+ubava	ubava	ubav	убав	Afsn		3	6	3	amod		
+so	so	so	со	S		3	7	9	case		
+site	site	siot	сиот	A-pn		3	8	9	amod		
+deca	deca	dete	дете	Nnpny		3	9	4	obl		
+											
+se	se	se	се	Px---a		4	1	2	expl		We hang out, ate.
+druževme	druževme	druži	дружи	Vmii1pi		4	2	0	root		
+jadevme	jadevme	јade	јаде	Vmii1pi		4	3	2	conj		
+											
+па	pa	pa	па	C		5	1	4	cc		So they would prepare us the food.
+ќе	ќe	ќe	ќе	Vaip		5	2	4	aux	hab	
+ни	ni	nie	ние	Pp1-pd		5	3	4	obl	iobj	
+напраеја	napraeјa	napravi	направи	Vmia3pe		5	4	0	root		
+јадење+	јadenje+	јadenje	јадење	Nnsnn		5	5	4	obj		
+то	to	toј	тој	Pd-nsn		5	6	5	det	p_nom	
+											
+nie	nie	nie	ние	Pp1-pn		6	1	7	nsubj		We at home could not eat it.
+doma	doma	doma	дома	R		6	2	7	advmod		
+ne	ne	ne	не	Qz		6	3	4	advmod		
+moževme	moževme	može	може	Vaii1pi		6	4	7	aux		
+da	da	da	da	C		6	5	4	fixed	inf	
+go	go	toa	тоа	Pp3nsa		6	6	7	obj		
+jadime	jadime	јade	јаде	Vmip1pi		6	7	0	root		
+,	,			Z		6	8	7	punct		
+											
+mnogu	mnogu	mnogu	многу	R		7	1	4	advmod		We really liked the food there.
+ni	ni	nie	ние	Pp1-pn		7	2	4	obl	iobj	
+se	se	se	се	Px---a		7	3	4	expl		
+bendisvaše	bendisvaše	bendisuva	бендисува	Vmii3si		7	4	0	root		
+jadenje+	jadenje+	јadenje	јадење	Nnsnn		7	5	4	nsubj		
+to	to	toj	тоj	Pd-nsn		7	6	5	det	p_nom	
+tamu	tamu	tamu	таму	R		7	7	4	advmod		
+,	,	,	,	Z		7	8	4	punct		
+											
+ko	ko	koga	кога	Pq		8	1	3	mark		When we would sit to eat meat,
+ќe	ќe	ќe	ќе	Vaip		8	2	3	aux	hab	
+sednevme	sednevme	sedne	седне	Vmii1pe		8	3	0	root		
+da	da	da	да	C		8	4	5	fixed	inf	
+ručame	ručame	ruča	руча	Vmip1pi		8	5	3	xcomp		
+meso	meso	meso	месо	Nmsnn		8	6	5	obj		
+											
+ќe	ќe	ќe	ќе	Vaip		9	1	2	aux	hab	There would have been some richer meal.
+imaše	imaše	ima	има	Vmii3si		9	2	0	root		
+nešto	nešto	nešto	нешто	Pi		9	3	2	obj		
+taka	taka	taka	така	R		9	4	7	advmod		
+po+	po+	po	po	Qc		9	5	6	advmod		
+bogato	bogato	bogat	богат	Ansn		9	6	7	amod		
+jadejne	jadejne	јadenje	јадење	Nnsnn		9	7	2	conj		
+											
+i	i	i	и	C		10	1	5	cc		And we liked that a lot.
+to	to	toa	тоа	Pp3nsn		10	2	5	nsubj		
+ni	ni	nie	ние	Pp1-pd		10	3	5	obl	iobj	
+se	se	se	се	Px---a		10	4	5	expl		
+bendisveše	bendisveše	bendisuva	бендисува	Vmii3si		10	5	0	root		
+mnogu	mnogu	mnogu	многу	R		10	6	5	advmod		
+.	.			Z		10	7	5	punct		
+											
+da	da	da	да	Q		11	1	8	discourse		Yes, from the childhood I remember really well.
+od	od	od	од	Sg		11	2	3	case		
+detstvo+	detstvo+	detstvo	детство	Nnsnn		11	3	8	obl		
+to	to	toј	тој	Pd-nsn		11	4	3	det		
+mnogu	mnogu	mnogu	многу	R		11	5	6	advmod		
+dobro	dobro	dobro	добро	R		11	6	8	advmod		
+se	se	se	се	Px---a		11	7	8	expl		
+seќavam	seќavam	seќava	сеќава	Vmip1si		11	8	0	root		
+,	,			Z		11	9	8	punct		
+											
+поминав	pominav	pomine	помине	Vmia1sе		12	1	0	root		I had a really nice childhood.
+многу	mnogu	mnogu	многу	R		12	2	3	advmod		
+убо	ubo	ubavo	убаво	Ansn		12	3	4	amod		
+детство	detstvo	detstvo	детство	Nnsnn		12	4	1	obj		
+,	,			Z		12	5	1	punct		
+											
+се	se	se	се	Px---a		13	1	2	expl		We had friendship with all of the children.
+дружевме	druževme	druži	дружи	Vmia1pi		13	2	0	root		
+со	so	so	со	S		13	3	5	case		
+сите	site	siot	сиот	A-pn		13	4	5	amod		
+деца	deca	dete	дете	Nnpn		13	5	2	obl		
+,	,			Z		13	6	2	punct		
+											
+во	vo	vo	во	S		14	1	2	case		In the village where we lived, there were many children.
+мала+	mala+	maalo	маало	Nnpnn		14	2	8	obl		
+та	ta	toa	тоа	Pd-npn		14	3	2	det	p_nom	
+кај	kaј	kade	каде	Pq		14	4	6	mark		
+шо	šo	što	што	Pr		14	5	6	mark		
+живеевме	živeevme	živee	живее	Vmia1pi		14	6	2	acl		
+,	,			Z		14	7	6	punct		
+имаше	imaše	ima	има	Vmii3si		14	8	0	root		
+многу	mnogu	mnogu	многу	R		14	9	8	advmod		
+деца	deca	dete	дете	Nnpn		14	10	8	obj		
+,	,			Z		14	11	8	punct		
+											
+живеевме	živeevme	živee	живее	Vmii1pi		15	1	0	root		We lived freely.
+слободно	slobodno	slobodno	слободно	R		15	2	1	advmod		
+,	,			Z		15	3	1	punct		
+											
+не	ne	ne	не	Qz		16	1	3	advmod		We were not afraid of anything.
+се	se	se	се	Px---a		16	2	3	expl		
+плашевме	plaševme	plaši	плаши	Vmii1pi		16	3	0	root		
+од	od	od	од	S		16	4	5	case		
+ништо	ništo	ništo	ништо	Pz		16	5	3	obl		
+.	.			Z		16	6	3	punct		
+											
+ко	ko	kako	како	Pq		17	1	2	case		Like nowadays, for example, they go and steal children.
+денеска	deneska	deneska	денеска	R		17	2	5	advmod		
+на	na	na	на	S		17	3	4	case		
+пример	primer	primer	пример	Nmsnn		17	4	5	obl		
+одат	odat	odi	оди	Vmip3pi		17	5	0	root		
+крадат	kradat	kradi	кради	Vmip3pi		17	6	5	conj		
+деца	deca	dete	дете	Nnpny		17	7	6	obj		
+,	,			Z		17	8	5	punct		
+											
+ги	gi	tie	тие	Pp3-pa		18	1	2	obj		They sell them and all that stuff.
+продаваат	prodavaat	prodava	продава	Vmip3pi		18	2	0	root		
+и	i	i	и	C		18	3	2	cc		
+сите	site	siot	сиот	A-pn		18	4	6	amod		
+тие	tie	tie	тие	Pd3-pn		18	5	6	det	ext	
+работи	raboti	rabota	работа	Nfpnn		18	6	2	conj		
+,	,			Z		18	7	2	punct		
+											
+значи	znači	znači	значи	Qo		19	1	3	discourse		So there were no such things before.
+порано	porano	porano	порано	R		19	2	3	advmod		
+немаше	nemaše	nema	нема	Vmii3si		19	3	0	root		
+такви	takvi	takov	таков	A-pn		19	4	5	amod		
+работи	raboti	rabota	работа	Nfpnn		19	5	3	obj		
+.	.			Z		19	6	3	punct		
+											
+детство+	detstvo+	detstvo	детство	Nnsnn		20	1	4	nsubj		Our childhood was very nice.
+то	to	toa	тоa	Pd-nsn		20	2	1	det	p_nom	
+ни	ni	nie	ние	Pp1-pd		20	3	4	nmod	poss	
+беше	beše	beše	беше	Vmii3si		20	4	6	cop		
+многу	mnogu	mnogu	многу	R		20	5	6	advmod		
+убо	ubo	ubav	убав	Ansn		20	6	0	root		
+.	.			Z		20	7	6	punct		
+											
+игравме	igravme	igra	игра	Vmii1pi		21	1	0	root		We played different games.
+разни	razni	razen	разен	A-pn		21	2	3	amod		
+игри	igri	igra	игра	Nfpnn		21	3	1	obj		
+,	,			Z		21	4	1	punct		
+											
+се	se	se	се	Px---а		22	1	2	expl		We hang out, went to the lake.
+дружевме	druževme	druži	дружи	Vmii1pi		22	2	0	root		
+одевме	odevme	odi	оди	Vmii1pi		22	3	2	conj		
+на	na	na	на	S		22	4	5	case		
+езеро	ezero	ezero	езеро	Nnsnn		22	5	3	obl	lat	
+,	,			Z		22	6	2	punct		
+											
+овде	ovde	ovde	овде	R		23	1	2	advmod		Here we have a lake, the Lake Prespa.
+имаме	imame	ima	има	Vmip1pi		23	2	0	root		
+езеро	ezero	ezero	езеро	Nnsnn		23	3	2	obj		
+,	,			Z		23	4	2	punct		
+преспанско+	prespansko+	Prespansko	Преспанско	Ansn		23	5	7	amod		
+то	to	toј	тој	Pd-nsn		23	6	5	det	p_adj	
+езеро	ezero	ezero	езеро	Nnsnn		23	7	3	appos		
+.	.					23	8	2	punct		
+											
+па	pa	pa	па	C		24	1	4	cc		So the mothers would gather.
+ќе	ќe	ќe	ќе	Vaip		24	2	4	aux	hab	
+се	se	se	се	Px---а		24	3	4	expl		
+собереа	soberea	sobere	собере	Vmii3pe		24	4	0	root		
+мајки+	maјki+	maјka	мајка	Nfpny		24	5	4	nsubj		
+те	te	tie	тие	Pd--pn		24	6	5	det		
+											
+ќе	ќe	ќe	ќе	Vaip		25	1	3	aux	hab	They would make us meal.
+ни	ni	nie	ние	Pp1-pd		25	2	3	obl	iobj	
+напраеа	napraea	napravi	направи	Vmii3pe		25	3	0	root		
+јадење	јadenje	јadenje	јадење	Nnsnn		25	4	3	obj		
+											
+и	i	i	и	C		26	1	2	cc		And all of us together with our mothers would enter one bus
+ние	nie	nie	ние	Pp1-pn		26	2	10	nsubj		
+сите	site	siot	сиот	Pi--pn		26	3	2	appos		
+заедно	zaedno	zaedno	заедно	R		26	4	10	advmod		
+со	so	so	со	S		26	5	8	case		
+наши+	naši+	naši	наши	A-py		26	6	8	amod		
+те	te	tie	тие	Pd--pn		26	7	6	det	p_adj	
+мајки	maјki	maјka	мајка	Nfpny		26	8	10	obl		
+ќе	ќe	ќe	ќе	Vaip		26	9	10	aux	hab	
+влезевме	vlezevme	vleze	влезе	Vmii1pe		26	10	0	root		
+во	vo	vo	во	S		26	11	13	case		
+еден	eden	eden	еден	Pi-msn		26	12	13	det		
+автобус	avtobus	avtobus	автобус	Nmsnn		26	13	10	obl		
+											
+и	i	i	и	C		27	1	2	cc		And we went to the lake to swim
+одевме	odevme	odi	оди	Vmii1pi		27	2	0	root		
+на	na	na	на	S		27	3	4	case		
+езеро	ezero	ezero	езеро	Nnsnn		27	4	2	obl		
+да	da	da	да	C		27	5	7	fixed	inf	
+се	se	se	се	Px---а		27	6	7	expl		
+капиме	kapime	kape	капе	Vmip1pi		27	7	2	xcomp		
+.	.			Z		27	8	2	punct		
+											
+да	da	da	да	C		28	1	3	fixed	inf	To swim.
+се	se	se	се	Px---а		28	2	3	expl		
+капиме	kapime	kape	капе	Vmip1pi		28	3	0	root		
+.	.			Z		28	4	3	punct		
+											
+шетавме	šetavme	šeta	шета	Vmii1pi		29	1	0	root		We walked.
+,	,			Z		29	2	1	punct		
+											
+после	posle	posle	после	R		30	1	9	advmod		Then where we were going, by the lake, there were many springs.
+таму	tamu	tamu	таму	R		30	2	9	advmod		
+кај	kaј	kade	каде	Pq	R	30	3	5	mark		
+шо	šo	što	што	Pr		30	4	5	mark		
+одевме	odevme	odi	оди	Vmii1pi		30	5	2	acl		
+кај	kaј	kaј	кај	S		30	6	7	case		
+езеро+	ezero+	ezero	езеро	Nnsnn		30	7	9	obl		
+то	to	toј	тој	Pd-nsn		30	8	7	det	p_nom	
+имаше	imaše	ima	има	Vmii3si		30	9	0	root		
+многу	mnogu	mnogu	многу	R		30	10	9	advmod		
+извори	izvori	izvor	извор	Nmpnn		30	11	9	obj		
+											
+течеа	tečea	teče	тече	Vmii3pi		31	1	0	root		The spring flowed, water.
+извори	izvori	izvor	извор	Nmpnn		31	2	1	nsubj		
+,	,			Z		31	3	1	punct		
+вода	voda	voda	вода	Nfsnn		31	4	2	appos		
+,	,			Z		31	5	1	punct		
+											
+одевме	odevme	odi	оди	Vmii1pi		32	1	0	root		We went and filled water.
+,	,			Z		32	2	1	punct		
+полневме	polnevme	polni	полни	Vmii1pi		32	3	1	conj		
+вода	voda	voda	вода	Nfsnn		32	4	3	obj		
+,	,			Z		32	5	3	punct		
+											
+па	pa	pa	па	C		33	1	5	cc		Then we would return.
+после	posle	posle	после	R		33	2	5	advmod		
+ќе	ќe	ќe	ќе	Vaip		33	3	5	aux	hab	
+се	se	se	се	Px---а		33	4	5	expl		
+вратевме	vratevme	vrati	врати	Vmii1pe		33	5	0	root		
+,	,			Z		33	6	5	punct		
+											
+ќе	ќe	ќe	ќе	Vaip		34	1	3	aux	hab	We would return.
+са	sa	se	се	Px---a		34	2	3	expl		
+вратевме	vratevme	vrati	врати	Vmii1pe		34	3	0	root		
+,	,			Z		34	4	3	punct		
+											
+ќе	ќe	ќe	ќе	Vaip		35	1	2	aux	hab	All of us would sit on the beach,
+седневме	sednevme	sedne	седне	Vmii1pe		35	2	0	root		
+сите	site	siot	сиот	Pi--pn		35	3	2	nsubj		
+на	na	na	на	S		35	4	5	case		
+плажа+	plaža+	plaža	плажа	Nfsnn		35	5	2	obl		
+та	ta	toј	тој	Pd-fsn		35	6	5	det	p_nom	
+,	,			Z		35	7	2	punct		
+											
+кај	kaј	kaј	кај	S		36	1	2	case		near the sand to eat.
+песок+	pesok+	pesok	песок	Nmsnn		36	2	5	obl		
+от	ot	toј	тој	Pd-msn		36	3	2	det	p_nom	
+да	da	da	да	C		36	4	5	fixed	inf	
+јајме	јaјme	јade	јаде	Vmip1pi		36	5	0	root		
+,	,			Z		36	6	5	punct		
+											
+многу	mnogu	mnogu	многу	R		37	1	3	advmod		We were very happy, fulfilled.
+бевме	bevme	e	е	Vmii1pi		37	2	3	cop		
+радосни	radosni	radosen	радосен	A-pn		37	3	0	root		
+задоволни	zadovolni	zadovolen	задоволен	A-pn		37	4	3	conj		
+.	.			Z		37	5	3	punct		
+											
+ако	ako	ako	ако	C		38	1	2	mark		Although it was, great poverty rulled, I think, we weren't hungry.
+беше	beše	e	е	Vmii3si		38	2	4	conj		
+,	,	,	,	Z		38	3	2	punct		
+владееше	vladeeše	vladee	владее	Vmii3si		38	4	8	advcl		
+голема	golema	golem	голем	Afsn		38	5	6	amod		
+сиромаштија	siromaštiјa	siromaštiјa	сиромаштија	Nfsnn		38	6	4	nsubj		
+,	,	,	,	Z		38	7	4	punct		
+мислам	mislam	misli	мисли	Vmip1si		38	8	0	root		
+не	ne	ne	не	Qz		38	9	10	advmod		
+бевме	bevme	e	е	Vmii1pi		38	10	11	cop		
+гладни	gladni	gladen	гладен	A-pn		38	11	8	ccomp		
+.	.	.	.	Z		38	12	11	punct		
+											
+сепак	sepak	sepak	сепак	C		39	1	2	mark		Still, we had means for living.
+имавме	imavme	ima	има	Vmii1pi		39	2	0	root		
+средства	sredstva	sredstvo	средство	Nnpnn		39	3	2	obj		
+за	za	za	за	S		39	4	5	case		
+живот	život	život	живот	Nmsnn		39	5	4	nmod		
+.	.	.	.	Z		39	6	2	punct		
+											
+народ+	narod+	narod	народ	Nmsny		40	1	6	nsubj		The people were much more satisfied from everything.
+от	ot	toј	тој	Pd-msn		40	2	1	det	p_nom	
+беше	beše	e	е	Vmii3si		40	3	6	cop		
+многу	mnogu	mnogu	многу	R		40	4	6	advmod		
+по+	po+	po	по	Qc		40	5	6	amod		
+задоволен	zadovolen	zadovolen	задоволен	Amsn		40	6	0	root		
+од	od	od	од	S		40	7	8	case		
+се	se	sѐ	сѐ	Pi		40	8	6	nmod		
+,	,	,	,	Z		40	9	6	punct		
+											
+исто	isto	ist	ист	Ansn		41	1	2	amod		Same like that, we, the children, were much satisfied, we didn't think about this or that, but about one simple life.
+така	taka	taka	така	R		41	2	7	advmod		
+и	i	i	и	C		41	3	4	cc		
+ние	nie	nie	ние	Pp1-pn		41	4	7	nsubj		
+деца+	deca+	dete	дете	Nnpny		41	5	4	appos		
+та	ta	toј	тој	Pd--pn		41	6	5	det	p_nom	
+бевме	bevme	e	е	Vmii1pi		41	7	10	cop		
+многу	mnogu	mnogu	многу	R		41	8	10	advmod		
+вака	vaka	vaka	вака	R		41	9	10	advmod		
+задоволни	zadovolni	zadovolen	задоволен	A-pn		41	10	0	root		
+,	,	,	,	Z		41	11	10	punct		
+не	ne	ne	не	Qz		41	12	13	advmod		
+мислевме	mislevme	misli	мисли	Vmii1pi		41	13	10	xcomp		
+на	na	na	на	S		41	14	15	case		
+ова	ova	ova	ова	Pd-nsn		41	15	13	obl		
+или	ili	ili	или	C		41	16	18	cc		
+на	na	na	на	S		41	17	18	case		
+она	ona	ona	она	Pd-nsn		41	18	15	conj		
+.	.	.	.	Z		41	19	13	punct		
+туку	tuku	tuku	туку	C		41	20	24	mark		
+на	na	na	на	S		41	21	24	case		
+еден	eden	eden	еден	Pi-msn		41	22	24	det	indf	
+едноставен	ednostaven	ednostaven	едноставен	Amsn		41	23	24	amod		
+живот	život	život	живот	Nmsnn		41	24	18	conj		
+.	.	.	.	Z		41	25	13	punct		
+											
+во	vo	vo	во	S		42	1	2	case		At school we studied the same, we had large classes, there were thirty children in one class, in one group.
+школо	školo	školo	школо	Nnsnn		42	2	3	obl		
+учевме	učevme	uči	учи	Vmii1pi		42	3	0	root		
+исто	isto	isto	исто	R		42	4	3	advmod		
+имавме	imavme	ima	има	Vmii1pi		42	5	3	conj		
+големи	golemi	golem	голем	A-pn		42	6	7	amod		
+класови	klasovi	klas	клас	Nmpnn		42	7	5	obj		
+беа	bea	e	е	Vmii3pi		42	8	5	xcomp		
+по	po	po	по	S		42	9	10	case		
+триесет	trieset	trieset	триесет	M		42	10	11	nummod		
+деца	deca	dete	дете	Nnpny		42	11	7	obl		
+во	vo	vo	во	S		42	12	14	case		
+еден	eden	eden	еден	Pi-msn		42	13	14	det		
+клас	klas	klas	клас	Nmsnn		42	14	11	nmod		
+,	,	,	,	Z		42	15	7	punct		
+во	vo	vo	во	S		42	16	18	case		
+едно	edno	eden	еден	Pi-nsn		42	17	18	det		
+одделение	oddelenie	oddelenie	одделение	Nnsnn		42	18	14	appos		
+.	.	.	.	Z		42	19	18	punct		
+											
+учевме	učevme	uči	учи	Vmii1pi		43	1	0	root		We studied well, I am satisfied with the behavior of the teacher, of the teachers afterwards.
+убаво	ubavo	ubavo	убаво	R		43	2	1	advmod		
+,	,	,	,	Z		43	3	1	punct		
+задоволна	zadovolna	zadovolen	задоволен	Afsn		43	4	1	xcomp		
+сум	sum	e	е	Vmip1si		43	5	4	cop		
+од	od	od	од	S		43	6	7	case		
+однесување+	odnesuvanje+	odnesuvanje	однесување	Nnsnn		43	7	4	obl		
+то	to	toј	тој	Pd-nsn		43	8	7	det	p_nom	
+на	na	na	на	S		43	9	10	case		
+учителка+	učitelka+	učitelka	учителка	Nfsny		43	10	7	nmod	poss	
+та	ta	toј	тој	Pd-fsn		43	11	10	det	p_nom	
+,	,	,	,	Z		43	12	4	punct		
+на	na	na	на	S		43	13	14	case		
+учители+	učiteli+	učitel	учител	Nmpny		43	14	7	conj		
+те	te	toј	тој	Pd--pn		43	15	14	det	p_nom	
+понатака	ponataka	ponataka	понатака	R		43	16	14	orph		
+											
+значи	znači	znači	значи	Qo		44	1	2	discourse		So, they treated us well, and raised us that way.
+постапвеа	postapvea	postapuva	постапува	Vmii3pi		44	2	0	root		
+со	so	so	со	S		44	3	4	case		
+нас	nas	nie	ние	Pp1-pa		44	4	2	obl		
+добро	dobro	dobro	добро	R		44	5	2	advmod		
+и	i	i	и	C		44	6	9	cc		
+така	taka	taka	така	R		44	7	9	advmod		
+нè	nè	nie	ние	Pp1-pa		44	8	9	obj		
+воспитвеја	vospitveјa	vospituva	воспитува	Vmii3pi		44	9	2	conj		
+.	.	.	.	Z		44	10	9	punct		
+											
+дество+	destvo+	detstvo	детство	Nnsnn		45	1	4	nsubj		The childhood made a really good impression on me, that I had good childhood in a free country without wars, without that stuff.
+то	to	toј	тој	Pd-nsn		45	2	1	det	p_nom	
+ми	mi	јas	јас	Pp1-sd		45	3	4	obl	iobj	
+оставило	ostavilo	ostavi	остави	Vmp--se	Ansn	45	4	0	root		
+така	taka	taka	така	R		45	5	6	advmod		
+добар	dobar	dobar	добар	Amsn		45	6	7	amod		
+впечаток	vpečatok	vpečatok	впечаток	Nmsnn		45	7	4	obj		
+дека	deka	deka	дека	C		45	8	9	mark		
+поминав	pominav	pomine	помине	Vmia1se		45	9	4	advcl		
+убо	ubo	ubav	убав	Ansn		45	10	11	amod		
+детство	detstvo	detstvo	детство	Nnsnn		45	11	9	obj		
+во	vo	vo	во	S		45	12	14	case		
+слободна	slobodna	sloboden	слободен	Afsn		45	13	14	amod		
+земја	zemјa	zemјa	земја	Nfsnn		45	14	9	obl		
+без	bez	bez	без	S		45	15	16	case		
+војни	voјni	voјna	војна	Nfsnn		45	16	14	nmod		
+без	bez	bez	без	S		45	17	19	case		
+тие	tie	tie	тие	Pd--pn		45	18	19	det		
+работи	raboti	raboti	работи	Nfpnn		45	19	16	conj		
+,	,	,	,	Z		45	20	9	punct		
+											
+се	se	se	се	Px---a		46	1	2	expl		We hang out, we went with my mother same, she brought us at our grandmother, her mother, and she taught us, told us tales, the grandmother knew a lot stories to tell us.
+дружевме	druževme	druži	дружи	Vmii1pi		46	2	0	root		
+одевме	odevme	odi	оди	Vmii1pi		46	3	2	conj		
+со	so	so	со	S		46	4	5	case		
+мајка	maјka	maјka	мајка	Nfsny		46	5	3	obl		
+ми	mi	јas	јас	Pp1-sd		46	6	3	expl		
+исто	isto	isto	исто	R		46	7	3	advmod		
+нè	nè	nie	ние	Pp1-pa		46	8	9	obj		
+носеше	noseše	nose	носе	Vmii3si		46	9	3	xcomp		
+кај	kaј	kaј	кај	S		46	10	12	case		
+наша+	naša+	naš+	наш+	Afsn		46	11	12	amod		
+та	ta	toј	тој	Pd-fsn		46	12	11	det	p_nom	
+баба	baba	baba	баба	Nfsny		46	13	9	obl		
+,	,	,	,	Z		46	14	9	punct		
+нејзина+	neјzina+	neјzin+	нејзин+	Afsn		46	15	17	amod		
+та	ta	toј	тој	Pd-fsn		46	16	17	det	p_nom	
+мајка	maјka	maјka	мајка	Nfsny		46	17	13	appos		
+,	,	,	,	Z		46	18	17	punct		
+па	pa	pa	па	C		46	19	22	cc		
+таа	taa	taa	таа	Pp3fsn		46	20	22	nsubj		
+нè	nè	nie	ние	Pp1-pa		46	21	22	obj		
+учеше	učeše	uči	учи	Vmii3si		46	22	9	conj		
+ни	ni	nie	ние	Pp1-pd		46	23	24	obl	iobj	
+кажвеше	kažveše	kažuva	кажува	Vmii3si		46	24	22	conj		
+прикаски	prikaski	prikaska	прикаска	Nfpnn		46	25	24	obj		
+многу	mnogu	mnogu	многу	R		46	26	27	advmod		
+знаеше	znaeše	znae	знае	Vmii3si		46	27	24	conj		
+прикаски	prikaski	prikaska	прикаска	Nfpnn		46	28	27	obj		
+да	da	da	да	C		46	29	31	fixed	inf	
+ни	ni	nie	ние	Pp1-pd		46	30	31	obl	iobj	
+кажвит	kažvit	kažuva	кажува	Vmip3si		46	31	27	xcomp		
+баба+	baba+	baba+	баба+	Nfsny		46	32	27	nsubj		
+та	ta	toј	тој	Pd-fsn		46	33	32	det	p_nom	
+.	.	.	.	Z		46	34	27	punct		
+											
+на	na	na	на	S		47	1	2	case		Of tales, yes, I remember, how not to.
+прикаски	prikaski	prikaska	прикаска	Nfpnn		47	2	6	obl		
+да	da	da	да	Q		47	3	6	discourse		
+,	,	,	,	Z		47	4	3	punct		
+се	se	se	се	Px---a		47	5	6	expl		
+сеќавам	seќavam	seќava	сеќава	Vmip1si		47	6	0	root		
+како	kako	kako	како	R		47	7	6	advmod		
+не	ne	ne	не	Qz		47	8	6	advmod		
+.	.	.	.	Z		47	9	6	punct		
+											
+ни	ni	nie	ние	Pp1-pd		48	1	3	obl	iobj	
+ја	јa	taa	таа	Pp1-pa		48	2	3	expl		
+кажвеше	kažveše	kažuva	кажува	Vmii3si		48	3	0	root		
+стално	stalno	stalno	стално	R		48	4	3	advmod		
+прикаска+	prikaska+	prikaska+	прикаска+	Nfsnn		48	5	3	obj		
+та	ta	toј	тој	Pd-fsn		48	6	5	det	p_nom	
+за	za	za	за	S		48	7	8	case		
+штркле	štrkle	štrkle	штркле	Nmsny		48	8	3	obl		
+											
+јас	јas	јas	јас	Pp1-sn		49	1	5	nsubj		I told the story of the stork and last year.
+и	i	i	и	C		49	2	3	cc		
+лани	lani	lani	лани	R		49	3	5	advmod		
+ја	јa	taa	таа	Pp1-pa		49	4	5	expl		
+кажуев	kažuev	kažuva	кажува	Vmii1si		49	5	0	root		
+прикаска+	prikaska+	prikaska+	прикаска+	Nfsnn		49	6	5	obj		
+та	ta	toј	тој	Pd-fsn		49	7	6	det	p_nom	
+за	za	za	за	S		49	8	9	case		
+штркле	štrkle	štrkle	штркле	Nmsny		49	9	5	obl		
+.	.	.	.	Z		49	10	5	punct		
+											
+тој	toј	toј	тој	Pp3msn		50	1	2	nsubj		He was a servant, looked after sheep for a boss, but he was very disobedient.
+бил	bil	e	е	Vmp--si	Amsn	50	2	4	cop		
+некој	nekoј	nekoј	некој	Pi-msn		50	3	4	det		
+момок	momok	momok	момок	Nmsny		50	4	0	root		
+,	,	,	,	Z		50	5	4	punct		
+чувал	čuval	čuva	чува	Vmp--si	Amsn	50	6	4	conj		
+овци	ovci	ovca	овца	Nfpnn		50	7	6	obj		
+кај	kaј	kaј	кај	S		50	8	10	case		
+некој	nekoј	nekoј	некој	Pi-msn		50	9	10	det	indf	
+газда	gazda	gazda	газда	Nmsny		50	10	6	obl		
+ама	ama	ama	ама	C		50	11	12	cc		
+бил	bil	e	е	Vmp--si	Amsn	50	12	15	cop		
+многу	mnogu	mnogu	многу	R		50	13	15	advmod		
+не+	ne+	ne	не	Qz		50	14	15	amod		
+послушен	poslušen	poslušen	послушен	Amsn		50	15	6	conj		
+.	.	.	.	Z		50	16	15	punct		
+											
+на	na	na	на	S		51	1	2	case		For example, they would let him go with the sheep, he slaughtered the sheep.
+пример	primer	primer	пример	Nmsnn		51	2	5	discourse		
+ќе	ќe	ќe	ќе	Vaip		51	3	5	aux	hab	
+го	go	toј	тој	Pp3msa		51	4	5	obj		
+пуштеле	puštele	pušti	пушти	Vmp--pe	A-pn	51	5	0	root		
+да	da	da	да	C		51	6	7	fixed	inf	
+оди	odi	odi	оди	Vmip3si		51	7	5	xcomp		
+со	so	so	со	S		51	8	9	case		
+овци+	ovci+	ovca+	овца+	Nfpnn		51	9	7	obl		
+те	te	toј	тој	Pd--pn		51	10	9	det	p_nom	
+му	mu	toј	тој	Pp3-sd		51	11	13	obl	iobj	
+и	i	toј	тој	Pp3-pa		51	12	13	expl		
+заклал	zaklal	zakole	заколе	Vmp--pe	Amsn	51	13	7	xcomp		
+овци+	ovci+	ovca+	овца+	Nfpnn		51	14	13	obj		
+те	te	toј	тој	Pd--pn		51	15	14	det	p_nom	
+,	,	,	,	Z		51	16	13	punct		
+											
+ќе	ќe	ќe	ќе	Vaip		52	1	3	aux	hab	They would let him go with the cattles, he slaughtered the cattles.
+го	go	toј	тој	Pp3msa		52	2	3	obj		
+пуштеле	puštele	pušti	пушти	Vmp--pe	A-pn	52	3	0	root		
+со	so	so	со	S		52	4	5	case		
+гојда+	goјda+	govedo	говедо	Nmpnn		52	5	3	obl		
+та	ta	toј	тој	Pd--pn		52	6	5	det	p_nom	
+да	da	da	да	C		52	7	8	fixed	inf	
+одит	odit	odi	оди	Vmip3si		52	8	3	xcomp		
+му	mu	toј	тој	Pp3-sd		52	9	11	obl	iobj	
+и	i	i	и	Pp3-pa		52	10	11	expl		
+заклал	zaklal	zakole	заколе	Vmp--pe	Amsn	52	11	8	xcomp		
+гојда+	goјda+	govedo+	говедо+	Nfpnn		52	12	11	obj		
+та	ta	toј	тој	Pd--pn		52	13	12	det	p_nom	
+,	,	,	,	Z		52	14	11	punct		
+											
+не	ne	ne	не	Qz		53	1	2	advmod		He didn't want to work.
+сакал	sakal	saka	сака	Vap--si	Amsn	53	2	4	aux		
+да	da	da	да	C		53	3	4	fixed	inf	
+работит	rabotit	raboti	работи	Vmip3si		53	4	0	root		
+,	,	,	,	Z		53	5	4	punct		
+											
+работил	rabotil	raboti	работи	Vmp--si	Amsn	54	1	0	root		He worked for a pastor, for a pastor and so.
+кај	kaј	kaј	кај	S		54	2	4	case		
+некој	nekoј	nekoј	некој	Pi-msn		54	3	4	det	indf	
+поп	pop	pop	поп	Nmsny		54	4	1	obl		
+,	,	,	,	Z		54	5	1	punct		
+кај	kaј	kaј	кај	S		54	6	8	case		
+некој	nekoј	nekoј	некој	Pi-msn		54	7	8	det	indf	
+поп	pop	pop	поп	Nmsny		54	8	4	appos		
+и	i	i	и	C		54	9	10	cc		
+така	taka	taka	така	R		54	10	1	discourse		
+											
+бил	bil	e	е	Vmp--si	Amsn	55	1	2	cop		He was a servant, and then he killed the child.
+момок	momok	momok	момок	Nmsny		55	2	0	root		
+и	i	i	и	C		55	3	6	cc		
+после	posle	posle	после	R		55	4	6	advmod		
+му	mu	toј	тој	Pp3-sd		55	5	6	obl	iobj	
+убил	ubil	ubie	убие	Vmp--si	Amsn	55	6	2	conj		
+и	i	i	и	C		55	7	8	cc		
+дете+	dete+	dete+	дете+	Nnsny		55	8	6	obj		
+то	to	toј	тој	Pd-nsn		55	9	8	det	p_nom	
+,	,	,	,	Z		55	10	6	punct		
+											
+знəчи	znəči	znači	значи	Qo		56	1	6	discourse		So, this was an educational tale that children should be obedient, to work, to not make troubles.
+ова	ova	ova	ова	Pd-nsn		56	2	3	nsubj		
+беше	beše	e	е	Vmii3si		56	3	6	cop		
+една	edna	eden	еден	Pi-fsn		56	4	6	det	indf	
+поучна	pučna	pučen	поучен	Afsn		56	5	6	amod		
+прикаска	prikaska	prikaska	прикаска	Nfsnn		56	6	0	root		
+дека	deka	deka	дека	C		56	7	13	mark		
+деца+	deca+	dete+	дете+	Nnpny		56	8	10	nsubj		
+та	ta	toј	тој	Pd--pn		56	9	8	det	p_nom	
+треба	treba	treba	треба	Vaip3si		56	10	12	aux		
+да	da	da	да	C		56	11	12	fixed	inf	
+бидат	bidat	bide	биде	Vmip3pe		56	12	13	cop		
+послушни	poslušni	poslušen	послушен	A-pn		56	13	6	conj		
+да	da	da	да	C		56	14	15	fixed	inf	
+работат	rabotat	raboti	работи	Vmip3pi		56	15	13	xcomp		
+,	,	,	,	Z		56	16	15	punct		
+да	da	da	да	C		56	17	19	fixed	inf	
+не	ne	ne	не	Qz		56	18	19	advmod		
+прат	prat	pravi	прави	Vmip3pi		56	19	15	xcomp		
+бељи	belji	belja	беља	Nfpnn		56	20	19	obj		
+.	.	.	.	Z		56	21	19	punct		
+											
+да	da	da	да	C		57	1	2	fixed	inf	
+бидат	bidat	bide	биде	Vmip3pe		57	2	3	cop		
+послушни	poslušni	poslušen	послушен	A-pn		57	3	0	root		
+.	.	.	.	Z		57	4	3	punct		
+											
+друго	drugo	drugo	друго	R		58	1	6	advmod		I don't know what else to say.
+не	ne	ne	не	Qz		58	2	3	advmod		
+знам	znam	znae	знае	Vmip1si		58	3	0	root		
+шо	šo	što	што	Pq		58	4	6	mark		
+да	da	da	да	C		58	5	6	fixed	inf	
+кажам	kažam	kaže	каже	Vmip1se		58	6	3	xcomp		
+.	.	.	.	Z		58	7	6	punct		
+											
+не	ne	ne	не	Qz		59	1	2	advmod		I don't know, I can't remember about the lake.
+знам	znam	znae	знае	Vmip1si		59	2	0	root		
+,	,	,	,	Z		59	3	2	punct		
+не	ne	ne	не	Qz		59	4	5	advmod		
+можа	moža	može	може	Vaip1si		59	5	8	aux		
+да	da	da	да	C		59	6	8	fixed	inf	
+се	se	se	се	Px---a		59	7	8	expl		
+сета	seta	seti	сети	Vmip1si		59	8	2	xcomp		
+за	za	za	за	S		59	9	10	case		
+езеро+	ezero+	ezero+	езеро+	Nnsnn		59	10	8	obl		
+то	to	toј	тој	Pd-nsn		59	11	10	det	p_nom	
+,	,	,	,	Z		59	12	8	punct		
+											
+не	ne	ne	не	Qz		60	1	2	advmod		We haven't talked much, and you know?
+сме	sme	e	е	Vaip1pi		60	2	3	aux		
+зборвеле	zborvele	zboruva	зборува	Vmp--pi	A-pn	60	3	0	root		
+баш	baš	baš	баш	Q		60	4	5	advmod		
+многу	mnogu	mnogu	многу	R		60	5	3	advmod		
+,	,	,	,	Z		60	6	3	punct		
+а	a	a	а	C		60	7	9	cc		
+ти	ti	ti	ти	Pp2-sn		60	8	9	nsubj		
+знаеш	znaeš	znae	знае	Vmip2si		60	9	3	conj		
+?	?	?	?	Z		60	10	9	punct		
+											
+таму	tamu	tamu	таму	R		61	1	2	advmod		You know there is Galichica.
+знаете	znaete	znae	знае	Vmip3pi		61	2	0	root		
+дека	deka	deka	дека	C		61	3	5	mark		
+е	e	e	е	Vmip3si		61	4	5	cop		
+галичица	galičica	Galičica	Галичица	Nfsnn		61	5	2	advcl		
+,	,	,	,	Z		61	6	5	punct		
+											
+и	i	i	и	C		62	1	2	cc		And they say that the Lake Prespa is connected with the Lake Ohrid through a cave and there is a legend that a very poor fisherman was in a village by the lake, he had many children, big familly.
+кажуваат	kažuvaat	kažuva	кажува	Vmip3pi		62	2	0	root		
+дека	deka	deka	дека	C		62	3	8	mark		
+преспанско+	prespansko+	Prespansko+	Преспанско+	Ansn		62	4	6	amod		
+то	to	toј	тој	Pd-nsn		62	5	4	det	p_nom	
+езеро	ezero	ezero	езеро	Nnsnn		62	6	8	nsubj		
+е	e	e	е	Vmip3si		62	7	8	cop		
+поврзано	povrzano	povrzan	поврзан	Ansn		62	8	2	advcl		
+со	so	so	со	S		62	9	10	case		
+охридско+	oxridsko+	Oxridsko+	Охридско+	Nnsnn		62	10	8	obl		
+то	to	toј	тој	Pd-nsn		62	11	10	det	p_nom	
+преку	preku	preku	преку	S		62	12	14	case		
+некоја	nekoјa	nekoј	некој	Pi-fsn		62	13	14	det		
+пештера	peštera	peštera	пештера	Nfsnn		62	14	8	obl		
+											
+и	i	i	и	C		63	1	2	cc		And there is a legend that one very poor fisherman was in a village along the Lake Ohrid, he had many children, big family.
+има	ima	ima	има	Vmip3si		63	2	0	root		
+легенда	legenda	legenda	легенда	Nfsnn		63	3	2	obj		
+дека	deka	deka	дека	C		63	4	5	mark		
+бил	bil	e	е	Vmp--si	Amsn	63	5	2	advcl		
+во	vo	vo	во	S		63	6	8	case		
+едно	edno	eden	еден	Pi-nsn		63	7	8	det		
+село	selo	selo	село	Nnsnn		63	8	5	obl		
+покрај	pokraј	pokraј	покрај	S		63	9	10	case		
+охридско+	oxridsko+	Oxridsko+	Охридско+	Nnsnn		63	10	8	nmod		
+то	to	toј	тој	Pd-nsn		63	11	10	det	p_nom	
+еден	eden	eden	еден	Pi-msn		63	12	13	det		
+рибар	ribar	ribar	рибар	Nmsny		63	13	5	nsubj		
+многу	mnogu	mnogu	многу	R		63	14	13	amod	p_nom	
+сиромашен	siromašen	siromašen	сиромашен	Amsn		63	15	13	amod	p_nom	
+имал	imal	ima	има	Vmp--si	Amsn	63	16	5	xcomp		
+многу	mnogu	mnogu	многу	R		63	17	18	amod		
+деца	deca	dete	дете	Nnpnn		63	18	16	obj		
+голема	golema	golem	голем	Afsn		63	19	20	amod		
+фамилија	familiјa	familiјa	фамилија	Nfsnn		63	20	18	nmod		
+.	.	.	.	Z		63	21	16	punct		
+											
+тој	toј	toј	тој	Pp3msn		64	1	4	csubj		Because he took sheep and the boss killed the child.
+дека	deka	deka	дека	C		64	2	4	mark		
+му	mu	toј	тој	Pp3msd		64	3	4	obl	iobj	
+земаше	zemaše	zema	зема	Vmii3si		64	4	10	advcl		
+овци	ovci	ovca	овца	Nfpnn		64	5	4	obj		
+и	i	i	и	C		64	6	10	cc		
+газда+	gazda+	gazda+	газда+	Nmsny		64	7	10	nsubj		
+та	ta	toј	тој	Pd-msn		64	8	7	det	p_nom	
+го	go	toј	тој	Pp3msa		64	9	10	expl		
+уби	ubi	ubie	убие	Vmia3se		64	10	0	root		
+дете+	dete+	dete+	дете+	Nnsny		64	11	10	obj		
+то	to	toј	тој	Pd-nsn		64	12	11	det	p_nom	
+.	.	.	.	Z		64	13	10	punct		
+											
+и	i	i	и	C		65	1	4	cc		And he came in the Lake Ohrid through the canal.
+то	to	toa	тоа	Pp3nsn		65	2	4	nsubj		
+му	mu	toј	тој	Pp3nsd		65	3	4	obl	iobj	
+дојде	doјde	doјde	дојде	Vmia3se		65	4	0	root		
+во	vo	vo	во	S		65	5	6	case		
+охридско+	oxridsko+	Oxridsko+	Охридско+	Ansn		65	6	8	amod		
+то	to	toј	тој	Pd-nsn		65	7	6	det	p_nom	
+езеро	ezero	ezero	езеро	Nnsnn		65	8	4	obl		
+преку	preku	preku	преку	S		65	9	10	case		
+канал+	kanal+	kanal+	канал+	Nmsnn		65	10	4	obl		
+от	ot	toј	тој	Pd-msn		65	11	10	det	p_nom	
+.	.	.	.	Z							
+											
+немам	nemam	nema	нема	Vmip1si		66	1	2	cop		I haven't heard of this.
+слушнато	slušnato	slušne	слушне	Vmp--se	Ansn	66	2	0	root		
+за	za	za	за	S		66	3	4	case		
+ова	ova	ova	ова	Pd-nsn		66	4	2	obl		
+.	.	.	.	Z		66	5	2	punct		
+											
+многу	mnogu	mnogu	многу	R		67	1	2	amod		Very interesting.
+интересно	interesno	interesen	интересен	Ansn		67	2	0	root		
+.	.	.	.	Z		67	3	2	punct		
+											
+а	a	a	а	C		68	1	4	cc		And I have heard, but I don't know how to tell completely about Prespana, she was a girl, Prespana.
+јас	јas	јas	јас	Pp1-sn		68	2	3	nsubj		
+имам	imam	ima	има	Vmip1si		68	3	4	cop		
+слушнато	slušnato	slušne	слушне	Vmp--se	Ansn	68	4	0	root		
+ама	ama	ama	ама	C		68	5	7	cc		
+не	ne	ne	не	Qz		68	6	7	advmod		
+знам	znam	znae	знае	Vaip1si		68	7	10	aux		
+целосно	celosno	celosno	целосно	R		68	8	10	advmod		
+да	da	da	да	C		68	9	10	fixed	inf	
+раскажам	raskažam	raskaže	раскаже	Vmip1se		68	10	4	xcomp		
+за	za	za	за	S		68	11	12	case		
+преспана	prespana	Prespana	Преспана	Nfsny		68	12	10	obl		
+мома	moma	moma	мома	Nfsny		68	13	15	nsubj		
+некоја	nekoјa	nekoј	некој	Pi-fsn		68	14	13	det	indf	
+била	bila	e	е	Vmp-3si	Afsn	68	15	10	conj		
+,	,	,	,	Z		68	16	15	punct		
+преспана	prespana	Prespana	Преспана	Nfsny		68	17	13	appos		
+.	.	.	.	Z		68	18	17	punct		
+											
+да	da	da	да	Q		69	1	7	discourse		Yes, yes, and that's why she carries the name Prespa, Lake Prespa.
+да	da	da	да	Q		69	2	1	conj		
+,	,	,	,	Z		69	3	1	punct		
+и	i	i	и	C		69	4	7	cc		
+зато	zato	zatoa	затоа	R		69	5	7	advmod		
+го	go	toј	тој	Pp3nsa		69	6	7	expl		
+носит	nosit	nosi	носи	Vmip3si		69	7	0	root		
+име+	ime+	ime+	име+	Nnsnn		69	8	7	obj		
+то	to	toј	тој	Pd-nsn		69	9	8	det	p_nom	
+преспа	prespa	Prespa	Преспа	Nfsny		69	10	8	flat		
+,	,	,	,	Z		69	11	7	punct		
+преспанско	prespansko	Prespansko	Преспанско	Ansn		69	12	13	amod		
+езеро	ezero	ezero	езеро	Nnsnn		69	13	10	nmod		
+.	.	.	.	Z		69	14	13	punct		
+											
+сакале	sakale	saka	сака	Vap--pi	A-pn	70	1	4	aux		They wanted to marry her, to marry her for someone, I don't know, some man, a boy, young man that she didn't want, she didn't want to marry him.
+да	da	da	да	C		70	2	4	fixed	inf	
+ја	јa	taa	таа	Pp3fsa		70	3	4	obj		
+мажат	mažat	maži	мажи	Vmip3pi		70	4	0	root		
+,	,	,	,	Z		70	5	4	punct		
+да	da	da	да	C		70	6	8	fixed	inf	
+ја	јa	taa	таа	Pp3fsa		70	7	8	obj		
+мажет	mažet	maži	мажи	Vmip3pi		70	8	4	xcomp		
+за	za	za	за	S		70	9	10	case		
+некој	nekoј	nekoј	некој	Pi-msn		70	10	8	obl		
+не	ne	ne	не	Qz		70	11	12	advmod		
+знам	znam	znae	знае	Vmip1si		70	12	8	xcomp		
+некој	nekoј	nekoј	некој	Pi-msn		70	13	14	det	indf	
+човек	čovek	čovek	човек	Nmsny		70	14	10	nmod		
+,	,	,	,	Z		70	15	14	punct		
+дечко	dečko	dečko	дечко	Nmsny		70	16	14	nmod		
+младич	mladič	mladič	младич	Nmsny		70	17	16	appos		
+шо	šo	što	што	Pr		70	18	21	mark		
+не	ne	ne	не	Qz		70	19	21	advmod		
+го	go	toј	тој	Pp3msa		70	20	21	expl		
+сакала	sakala	saka	сака	Vmp--si	Afsn	70	21	12	advcl		
+таја	taјa	taa	таа	Pp3fsn		70	22	21	nsubj		
+,	,	,	,	Z		70	23	21	punct		
+не	ne	ne	не	Qz		70	24	26	advmod		
+го	go	toј	тој	Pp3msa		70	25	26	expl		
+сакала	sakala	saka	сака	Vmp--si	Afsn	70	26	30	aux		
+него	nego	toј	тој	Pp3msa		70	27	30	obj		
+да	da	da	да	C		70	28	30	fixed	inf	
+го	go	toј	тој	Pp3msa		70	29	30	expl		
+земит	zemit	zeme	земе	Vmip3se		70	30	21	xcomp		
+											
+и	i	i	и	C		71	1	3	cc		And then I think that she killed herself and they found her dead.
+после	posle	posle	после	R		71	2	3	advmod		
+мислам	mislam	misli	мисли	Vmip1si		71	3	0	root		
+дека	deka	deka	дека	C		71	4	6	mark		
+се	se	se	се	Px---a		71	5	6	expl		
+убила	ubila	ubie	убие	Vmp--si	Afsn	71	6	3	advcl		
+и	i	i	и	C		71	7	9	cc		
+ја	јa	taa	таа	Pp3fsa		71	8	9	obj		
+нашле	našle	naјde	најде	Vmp--pe	A-pn	71	9	6	xcomp		
+убијана	ubiјana	ubien	убиен	Afsn		71	10	8	amod		
+											
+почнало	počnalo	počne	почне	Vmp--se	Ansn	72	1	3	aux		Water started springing up and that's how the Lake Prespa was created, after the girl Prespana.
+да	da	da	да	C		72	2	3	fixed	inf	
+извират	izvirat	izvira	извира	Vmip3si		72	3	0	root		
+вода	voda	voda	вода	Nfsnn		72	4	1	nsubj		
+и	i	i	и	C		72	5	6	cc		
+така	taka	taka	така	R		72	6	8	advmod		
+се	se	se	се	Px---a		72	7	8	expl		
+створило	stvorilo	stvori	створи	Vmp--se	Ansn	72	8	3	conj		
+преспанско+	prespansko+	Prespansko+	Преспанско+	Ansn		72	9	11	amod		
+то	to	toј	тој	Pd-nsn		72	10	9	det	p_nom	
+езеро	ezero	ezero	езеро	Nnsnn		72	11	8	nsubj		
+,	,	,	,	Z		72	12	8	punct		
+по	po	po	по	S		72	13	14	case		
+мома+	moma+	moma+	мома+	Nfsny		72	14	11	nmod		
+та	ta	toј	тој	Pd-fsn		72	15	14	det	p_nom	
+преспана	prespana	Prespana	Преспана	Nfsny		72	16	14	flat		
+.	.	.	.	Z		72	17	14	punct		
+											
+така	taka	taka	така	R		73	1	2	amod		I have heard something similar.
+нешто	nešto	nešto	нешто	Pi--sn		73	2	3	det	indf	
+слично	slično	slično	слично	R		73	3	5	advmod		
+имам	imam	ima	има	Vmip1si		73	4	5	cop		
+слушнато	slušnato	slušne	слушне	Vmp--se	Ansn	73	5	0	root		
+.	.	.	.	Z		73	6	5	punct		
+											
+и	i	i	и	C		74	1	2	cc		And else, what else to say.
+друго	drugo	drugo	друго	R		74	2	5	advmod		
+шо	šo	što	што	Pr		74	3	5	mark		
+да	da	da	да	C		74	4	5	fixed	inf	
+кажам	kažam	kaže	каже	Vmip1se		74	5	0	root		
+друго	drugo	drugo	друго	R		74	6	5	advmod		
+.	.	.	.	Z		74	7	5	punct		
+											
+да	da	da	да	Q		75	1	3	discourse		Yes, from the past.
+од	od	od	од	S		75	2	3	case		
+минато+	minato+	minato+	минато+	Nnsnn		75	3	0	root		
+то	to	toј	тој	Pd-nsn		75	4	3	det	p_nom	
+.	.	.	.	Z		75	5	3	punct		
+											
+убави	ubavi	ubav	убав	A-pn		76	1	0	root		I also liked the student days.
+ми	mi	јas	јас	Pp1-sd		76	2	1	obl	iobj	
+беа	bea	e	е	Vmii1pi		76	3	1	cop		
+и	i	i	и	C		76	4	5	cc		
+студентски+	studentski+	studentski+	студентски+	A-pn		76	5	7	amod		
+те	te	toј	тој	Pd--pn		76	6	5	det	p_nom	
+денови	denovi	den	ден	Nmpnn		76	7	1	nsubj		
+исто	isto	isto	исто	R		76	8	1	advmod		
+,	,	,	,	Z		76	9	1	punct		
+											
+во	vo	vo	во	S		77	1	2	case		I studied in Skopje and the friendhsip there was nice, nice friendship with collegues and female collegues and so.
+скопје	skopјe	Skopјe	Скопје	Nmsnn		77	2	3	obl		
+студирав	studirav	studira	студира	Vmii1si		77	3	0	root		
+и	i	i	и	C		77	4	5	cc		
+таму	tamu	tamu	таму	R		77	5	10	advmod		
+дружба+	družba+	družba+	дружба+	Nfsnn		77	6	10	nsubj		
+та	ta	toј	тој	Pd-fsn		77	7	6	det	p_nom	
+ни	ni	nie	ние	Pp1-pd		77	8	10	obl	iobj	
+беше	beše	e	е	Vmii3si		77	9	10	cop		
+убава	ubava	ubav	убав	Afsn		77	10	3	conj		
+,	,	,	,	Z		77	11	10	punct		
+уба	uba	ubav	убав	Afsn		77	12	13	amod		
+дружба	družba	družba	дружба	Nfsnn		77	13	6	appos		
+со	so	so	со	S		77	14	15	case		
+колеги	kolegi	kolega	колега	Nmpnn		77	15	13	nmod		
+со	so	so	со	S		77	16	17	case		
+колешки	koleški	koleška	колешка	Nfpnn		77	17	15	conj		
+така	taka	taka	така	R		77	18	10	discourse		
+,	,	,	,	Z		77	19	13	punct		
+											I was really.
+многу	mnogu	mnogu	многу	R		78	1	2	advmod		
+бев	bev	e	е	Vmii1si		78	2	0	root		
+.	.	.	.	Z		78	3	2	punct		
+											
+многу	mnogu	mnogu	многу	R		79	1	2	advmod		The people then, we were much more fullfilled, we had little but we were fullfilled.
+бевме	bevme	e	е	Vmii1pi		79	2	7	cop		
+тогаш	togaš	togaš	тогаш	R		79	3	2	advmod		
+луѓето	luѓeto	čovek+	човек+	Nmpny		79	4	2	nsubj		
+то	to	toј	тој	Pd-pn		79	5	4	det	p_nom	
+по+	po+	po+	по+	Qc		79	6	7	amod		
+задоволни	zadovolni	zadovolen	задоволен	A-pn		79	7	0	root		
+,	,	,	,	Z		79	8	7	punct		
+малку	malku	malku	малку	R		79	9	10	advmod		
+имавме	imavme	ima	има	Vmii1pi		79	10	7	xcomp		
+ама	ama	ama	ама	C		79	11	13	cc		
+бевме	bevme	e	е	Vmii1pi		79	12	13	cop		
+задоволни	zadovolni	zadovolen	задоволен	A-pn		79	13	10	xcomp		
+.	.	.	.	Z		79	14	13	punct		
+											
+не	ne	ne	не	Qz		80	1	5	discourse		No, we always spoke Macedonian.
+,	,	,	,	Z		80	2	1	punct		
+ние	nie	nie	ние	Pp1-pn		80	3	5	nsubj		
+си	si	si	си	Px---d		80	4	5	expl		
+зборвевме	zborvevme	zboruva	зборува	Vmii1pi		80	5	0	root		
+секогаш	sekogaš	sekogaš	секогаш	R		80	6	5	advmod		
+македонски	makedonski	makedonski	македонски	Amsn		80	7	5	obj		
+.	.	.	.	Z		80	8	5	punct		
+											
+во	vo	vo	во	S		81	1	2	case		At school we learned Serbo-croatian, we learned because it was Yugoslavia then, a Federation.
+школо	školo	školo	школо	Nnsnn		81	2	3	obl		
+учевме	učevme	uči	учи	Vmii1pi		81	3	0	root		
+српско-хрватски	srpsko-xrvatski	srpsko-xrvatski	српско-хрватски	Amsn		81	4	3	obj		
+,	,	,	,	Z		81	5	3	punct		
+учевме	učevme	uči	учи	Vmii1pi		81	6	3	xcomp		
+зошто	zošto	zašto	зашто	C		81	7	9	mark		
+беше	beše	e	е	Vmii3si		81	8	9	cop		
+југославија	јugoslaviјa	Јugoslaviјa	Југославија	Nfsnn		81	9	6	advcl		
+тогашна	togašna	togašen	тогашен	Afsn		81	10	9	amod		
+,	,	,	,	Z		81	11	9	punct		
+федерација	federaciјa	federaciјa	федерација	Nfsnn		81	12	9	nmod		
+.	.	.	.	Z		81	13	12	punct		
+											
+англиски	angliski	angliski	англиски	Nmsnn		82	1	3	obj		We didn't learn English, we learned French.
+не	ne	ne	не	Qz		82	2	3	advmod		
+учевме	učevme	uči	учи	Vmii1pi		82	3	0	root		
+,	,	,	,	Z		82	4	3	punct		
+учевме	učevme	uči	учи	Vmii1pi		82	5	3	xcomp		
+француски	francuski	francuski	француски	Nmsnn		82	6	5	obj		
+.	.	.	.	Z		82	7	5	punct		
+											
+англиски	angliski	angliski	англиски	Nmsnn		83	1	2	obj		English were studying there, in the bigger towns.
+учеја	učeјa	uči	учи	Vmii3pi		83	2	0	root		
+ваму	vamu	vamu	ваму	R		83	3	2	advmod		
+во	vo	vo	во	S		83	4	5	case		
+по+	po+	po+	по+	Qc		83	5	6	amod		
+големи+	golemi+	golem+	голем+	A-pn		83	6	8	amod		
+ве	ve	ovie	овие	Pd--pn		83	7	6	det	p_nom	
+градови	gradovi	grad	град	Nmsnn		83	8	2	obl		
+.	.	.	.	Z		83	9	2	punct		
+											
+јас	јas	јas	јас	Pp1-sn		84	1	3	nsubj		I really wanted to learn English, but we didn't learn here, there were no teachers.
+баш	baš	baš	баш	Q		84	2	3	advmod		
+сакав	sakav	saka	сака	Vaii1si		84	3	5	aux		
+да	da	da	да	C		84	4	5	fixed	inf	
+учам	učam	uči	учи	Vmip1si		84	5	0	root		
+англиски	angliski	angliski	англиски	Nmsnn		84	6	5	obj		
+ама	ama	ama	ама	C		84	7	9	cc		
+не	ne	ne	не	Qz		84	8	9	advmod		
+учевме	učevme	uči	учи	Vmii1pi		84	9	5	xcomp		
+овде	ovde	ovde	овде	R		84	10	9	advmod		
+немаше	nemaše	nema	нема	Vmii3si		84	11	9	xcomp		
+учители	učiteli	učitel	учител	Nmpny		84	12	11	obj		
+.	.	.	.	Z		84	13	11	punct		
+											
+да	da	da	да	Q		85	1	5	discourse		Yes, I didn't learn who knows how much, but something like that I understand French.
+,	,	,	,	Z		85	2	2	punct		
+не	ne	ne	не	Qz		85	3	5	advmod		
+го	go	toј	тој	Pp3msa		85	4	5	obj		
+научив	naučiv	nauči	научи	Vmia1se		85	5	0	root		
+баш	baš	baš	баш	Q		85	6	5	advmod		
+кузне	kuzne	koјznae	којзнае	P-----		85	7	8	advmod		
+колку	kolku	kolku	колку	R		85	8	9	advmod		
+многу	mnogu	mnogu	многу	R		85	9	5	advmod		
+ама	ama	ama	ама	C		85	10	14	cc		
+о	o	o	о			85	11				
+нешто	nešto	nešto	нешто	Pi--sn		85	12	13	det	indf	
+така	taka	taka	така	R		85	13	14	advmod		
+разбирам	razbiram	razbira	разбира	Vmip1si		85	14	5	xcomp		
+француски	francuski	francuski	француски	Nmsnn		85	15	14	obj		
+.	.	.	.	Z		85	16	14	punct		
+											
+сеа	sea	sega	сега	R		86	1	3	advmod		Now I don't know what else to say, I can't remember.
+не	ne	ne	не	Qz		86	2	3	advmod		
+знам	znam	znae	знае	Vmip1si		86	3	0	root		
+шо	šo	što	што	Pr		86	4	6	mark		
+да	da	da	да	C		86	5	6	fixed	inf	
+кажам	kažam	kaže	каже	Vmip1se		86	6	3	advcl		
+друго	drugo	drugo	друго	R		86	7	6	advmod		
+не	ne	ne	не	Qz		86	8	9	advmod		
+можам	možam	može	може	Vmip1si		86	9	12	aux		
+да	da	da	да	C		86	10	12	fixed	inf	
+се	se	se	се	Px---a		86	11	12	expl		
+сетам	setam	seti	сети	Vmip1si		86	12	6	xcomp		
+											
+дај	daј	dade	даде	Vmm-2se		87	1	0	root		Give me an idea.
+ми	mi	јas	јас	Pp1-sd		87	2	1	obl	iobj	
+некоја	nekoјa	nekoј	некој	Pi-fsn		87	3	4	det	indf	
+идеја	ideјa	ideјa	идеја	Nfsnn		87	4	1	obj		
+.	.	.	.	Z		87	5	1	punct		
+											
+да	da	da	да	Q		88	1	8	discourse		Yes, yes, like nowadays, except now there aren't such big friendships.
+да	da	da	да	Q		88	2	2	conj		
+како	kako	kako	како	S		88	3	4	case		
+денес	denes	denes	денес	R		88	4	7	appos		
+,	,	,	,	Z		88	5	4	punct		
+само	samo	samo	само	C		88	6	8	mark		
+сега	sega	sega	сега	R		88	7	8	advmod		
+нема	nema	nema	нема	Vmip3si		88	8	0	root		
+некоја	nekoјa	nekoј	некој	Pi-fsn		88	9	11	det	indf	
+голема	golema	golem	голем	Afsn		88	10	11	amod		
+дружба	družba	družba	дружба	Nfsnn		88	11	8	obj		
+,	,	,	,	Z		88	12	8	punct		
+											
+ние	nie	јas	јас	Pp1-pn		89	1	7	nsubj		We, the children, hang out a lot then, we played different games.
+деца+	deca+	dete+	дете+	Nnpny		89	2	1	appos		
+та	ta	toј	тој	Pd--pn		89	3	2	det	p_nom	
+тогаш	togaš	togaš	тогаш	R		89	4	7	advmod		
+многу	mnogu	mnogu	многу	R		89	5	7	advmod		
+се	se	se	се	Px---a		89	6	7	expl		
+дружевме	druževme	druži	дружи	Vmii1pi		89	7	0	root		
+,	,	,	,	Z		89	8	7	punct		
+игравме	igravme	igra	игра	Vmii1pi		89	9	7	xcomp		
+разни	razni	razen	разен	A-pn		89	10	11	amod		
+игри	igri	igra	игра	Nfpnn		89	11	9	obj		
+											
+се	se	se	се	Px---a		90	1	2	expl		Everyone hang out, no one was angry or to start fighting or beating, no. 
+дружевме	druževme	druži	дружи	Vmii1pi		90	2	0	root		
+сите	site	siot	сиот	Pi--pn		90	3	2	nsubj		
+никој	nikoј	nikoј	никој	Pz		90	4	7	nsubj		
+не	ne	ne	не	Qz		90	5	7	advmod		
+се	se	se	се	Px---a		90	6	7	expl		
+лутеше	luteše	luti	лути	Vmii3si		90	7	2	conj		
+или	ili	ili	или	C		90	8	10	cc		
+да	da	da	да	C		90	9	10	fixed	inf	
+земиме	zemime	zeme	земе	Vaip1pi		90	10	13	aux		
+да	da	da	да	C		90	11	13	fixed	inf	
+се	se	se	се	Px---a		90	12	13	expl		
+караме	karame	kara	кара	Vmip1pi		90	13	7	xcomp		
+да	da	da	да	C		90	14	16	fixed	inf	
+се	se	se	се	Px---a		90	15	16	expl		
+бијаме	biјame	bie	бие	Vmip1pi		90	16	13	xcomp		
+не	ne	ne	не	Qz		90	17	16	advmod		
+.	.	.	.	Z		90	18	16	punct		
+											
+сега	sega	sega	сега	R		91	1	5	advmod		Now the children sit with the parents, there isn't much friendship.
+деца+	deca+	dete+	дете+	Nnpny		91	2	5	nsubj		
+та	ta	toј	тој	Pd--pn		91	3	2	det	p_nom	
+си	si	si	си	Px---d		91	4	5	expl		
+седат	sedat	sedi	седи	Vmip3pi		91	5	0	root		
+покрај	pokraј	pokraј	покрај	S		91	6	7	case		
+родители+	roditeli+	roditel+	родител+	Nmpny		91	7	5	obl		
+те	te	toј	тој	Pd--pn		91	8	7	det	p_nom	
+,	,	,	,	Z		91	9	5	punct		
+нема	nema	nema	нема	Vmip3si		91	10	5	xcomp		
+толку	tolku	tolku	толку	R		91	11	12	amod		
+дружба	družba	družba	дружба	Nfsnn		91	12	10	obj		
+,	,	,	,	Z		91	13	10	punct		
+											
+можда	možda	možebi	можеби	Qo		92	1	2	discourse		Maybe there is friendship in the schools, when they are going to school, but in the free time we hang out the same, the children.
+имат	imat	ima	има	Vmip3si		92	2	0	root		
+во	vo	vo	во	S		92	3	4	case		
+училишта+	učilišta+	učilište+	училиште+	Nnpnn		92	4	2	obl		
+та	ta	toј	тој	Pd--pn		92	5	4	det	p_nom	
+дружба	družba	družba	дружба	Nfsnn		92	6	2	obj		
+,	,	,	,	Z		92	7	2	punct		
+ко	ko	koga	кога	C		92	8	10	mark		
+ќе	ќe	ќe	ќе	Vaip		92	9	10	aux	hab	
+одат	odat	odi	оди	Vmip3si		92	10	2	advcl		
+на	na	na	на	S		92	11	12	case		
+училиште	učilište	učilište	училиште	Nnsnn		92	12	10	obl		
+,	,	,	,	Z		92	13	10	punct		
+ама	ama	ama	ама	C		92	14	21	cc		
+во	vo	vo	во	S		92	15	16	case		
+слободно+	slobodno+	sloboden+	слободен+	Ansn		92	16	18	amod		
+то	to	toј	тој	Pd-nsn		92	17	16	det	p_nom	
+време	vreme	vreme	време	Nnsnn		92	18	21	obl		
+ние	nie	јas	јас	Pp1-pn		92	19	21	nsubj		
+се	se	se	се	Px---a		92	20	21	expl		
+дружевме	druževme	druži	дружи	Vmii1pi		92	21	10	conj		
+исто	isto	isto	исто	R		92	22	21	advmod		
+деца+	deca+	dete+	дете+	Nnpny		92	23	19	appos		
+та	ta	toј	тој	Pd--pn		92	24	23	det	p_nom	
+.	.	.	.	Z		92	25	21	punct		
+											
+и	i	i	и	C		93	1	3	cc		And we helped a lot, for someone if he's bad, let's say, at mathematics and at some other subjects, we would sit down, we would go at each other's, we would study, we would help and so on.
+си	si	si	си	Px---d		93	2	3	expl		
+поможвевме	pomožvevme	pomože	поможе	Vmii1pe		93	3	0	root		
+многу	mnogu	mnogu	многу	R		93	4	3	advmod		
+за	za	za	за	S		93	5	6	case		
+некој	nekoј	nekoј	некој	Pi-msn		93	6	10	nsubj		
+ако	ako	ako	ако	C		93	7	10	mark		
+е	e	e	е	Vmip3si		93	8	10	cop		
+по+	po+	po+	по+	Qc		93	9	10	amod		
+слаб	slab	slab	слаб	Amsn		93	10	3	advcl		
+да	da	da	да	C		93	11	12	fixed	inf	
+речеме	rečeme	reče	рече	Vmip1pe		93	12	10	xcomp		
+по	po	po	по	S		93	13	14	case		
+математика	matematika	matematika	математика	Nmsnn		93	14	10	obl		
+и	i	i	и	C		93	15	16	cc		
+други	drugi	drug	друг	A-pn		93	16	17	amod		
+некој	nekoј	nekoј	некој	Pi--pn		93	17	18	det	indf	
+предмети	predmeti	predmet	предмет	Nmpnn		93	18	14	nmod		
+,	,	,	,	Z		93	19	12	punct		
+ќе	ќe	ќe	ќе	Vaip		93	20	21	aux	hab	
+седневме	sednevme	sedne	седне	Vmii1pe		93	21	12	xcomp		
+ќе	ќe	ќe	ќе	Vaip		93	22	23	aux	hab	
+одевме	odevme	odi	оди	Vmii1pi		93	23	21	conj		
+едни	edni	eden	еден	Pi--pn		93	24	23	nsubj		
+кај	kaј	kaј	кај	S		93	25	26	case		
+други	drugi	drug	друг	A-pn		93	26	24	nmod		
+,	,	,	,	Z		93	27	23	punct		
+ќе	ќe	ќe	ќе	Vaip		93	28	29	aux	hab	
+учевме	učevme	uči	учи	Vmii1pi		93	29	23	xcomp		
+ќе	ќe	ќe	ќе	Vaip		93	30	32	aux	hab	
+се	se	se	се	Px---a		93	31	32	expl		
+помагавме	pomagavme	pomaga	помага	Vmii1pi		93	32	29	xcomp		
+и	i	i	и	C		93	33	34	cc		
+така	taka	taka	така	R		93	34	32	advmod		
+.	.	.	.	Z		93	35	32	punct		
+											
+тогаш	togaš	togaš	тогаш	R		94	1	2	advmod		Then we didn't have computers, tv sets, not even TV.
+немавме	nemavme	nema	нема	Vmii1pi		94	2	0	root		
+компјутери	kompјuteri	kompјuter	компјутер	Nmpnn		94	3	2	obj		
+,	,	,	,	Z		94	4	2	punct		
+телевизори	televizori	televizor	телевизор	Nmpnn		94	5	3	conj		
+,	,	,	,	Z		94	6	5	punct		
+телевизија	televiziјa	televiziјa	телевизија	Nfsnn		94	7	8	obj		
+немавме	nemavme	nema	нема	Vmii1pi		94	8	2	xcomp		
+дури	duri	duri	дури	Q		94	9	7	amod		
+.	.	.	.	Z		94	10	8	punct		
+											
+дури	duri	duri	дури	Q		95	1	2	amod		Even after some years, the first tv sets, in the sixties. 
+некогаш	nekogaš	nekogaš	некогаш	R		95	2	3	advmod		
+после	posle	posle	после	R		95	3	5	case		
+колку	kolku	kolku	колку	R		95	4	5	advmod		
+години	godini	godina	година	Nfpnn		95	5	9	obl		
+то	to	toa	тоа	Pd-nsn		95	6	9	det		
+први+	prvi+	prv+	прв+	A-pn		95	7	9	amod		
+те	te	toј	тој	Pd--pn		95	8	7	det	p_nom	
+телевизори	televizori	televizor	телевизор	Nmsnn		95	9	0	root		
+,	,	,	,	Z		95	10	9	punct		
+шеесети+	šeeseti+	šeesetti+	шеесетти+	A-pn		95	11	13	amod		
+те	te	te	те	Pd--pn		95	12	11	det	p_nom	
+години	godini	godina	година	Nfpnn		95	13	5	nmod		
+,	,	,	,	Z		95	14	13	punct		
+											
+но	no	no	но	C		96	1	3	cc		But we didn't all have tv sets, we couldn't watch.
+сите	site	siot	сиот	A-pn		96	2	3	nsubj		
+немавме	nemavme	nema	нема	Vmii1pi		96	3	4	cop		
+телевизори	televizori	televizor	телевизор	Nmpnn		96	4	0	root		
+,	,	,	,	Z		96	5	4	punct		
+не	ne	ne	не	Qz		96	6	7	advmod		
+можевме	moževme	može	може	Vaii1pi		96	7	9	aux		
+да	da	da	да	C		96	8	9	fixed	inf	
+гледаме	gledame	gleda	гледа	Vmip1pe		96	9	4	xcomp		
+,	,	,	,	Z		96	10	9	punct		
+											
+поќе	poќe	poveќe	повеќе	R		97	1	2	advmod		We read more books, we read a lot. In Macedonian, yes, yes.
+читавме	čitavme	čita	чита	Vmii1pi		97	2	0	root		
+книги	knigi	kniga	книга	Nfpnn		97	3	2	obj		
+,	,	,	,	Z		97	4	2	punct		
+многу	mnogu	mnogu	многу	R		97	5	6	advmod		
+читавме	čitavme	čita	чита	Vmii1pi		97	6	2	xcomp		
+.	.	.	.	Z		97	7	6	punct		
+на	na	na	на	S		97	8	9	case		
+македонски	makedonski	makedonski	македонски	Amsn		97	9	6	obl		
+да	da	da	да	Q		97	10	6	discourse		
+да	da	da	да	Q		97	11	10	conj		
+.	.	.	.	Z		97	12	6	punct		
+											
+секогаш	sekogaš	sekogaš	секогаш	R		98	1	3	advmod		We always spoke Macedonian here.
+се	se	se	се	Px---a		98	2	3	expl		
+зборвеше	zborveše	zboruva	зборува	Vmii3si		98	3	0	root		
+овде	ovde	ovde	овде	R		98	4	3	advmod		
+македонски	makedonski	makedonski	македонски	Amsn		98	5	3	obj		
+.	.	.	.	Z		98	6	3	punct		
+											
+и	i	i	и	C		99	1	2	cc		And the dialect, here we spoke in our dialects and all around Macedonia with the dialects.
+дијалект+	diјalekt+	diјalekt+	дијалект+	Nmsnn		99	2	6	discourse		
+от	ot	toј	тој	Pd-msn		99	3	2	det	p_nom	
+овде	ovde	ovde	овде	R		99	4	6	advmod		
+си	si	si	си	Px---d		99	5	6	expl		
+зборвевме	zborvevme	zboruva	зборува	Vmii1pi		99	6	0	root		
+по	po	po	по	S		99	7	8	case		
+наши+	naši+	naš+	наш+	A-pn		99	8	10	amod		
+те	te	toј	тој	Pd--pn		99	9	8	det	p_nom	
+дијалекти	diјalekti	diјalekt	дијалект	Nmpnn		99	10	6	obl		
+и	i	i	и	C		99	11	12	cc		
+низ	niz	niz	низ	S		99	12	14	case		
+цела	cela	cel	цел	Afsn		99	13	14	amod		
+македонија	makedoniјa	Makedoniјa	Македонија	Nfsnn		99	14	6	obl		
+со	so	so	со	S		99	15	16	case		
+дијалекти+	diјalekti+	diјalekt+	дијалект+	Nmpnn		99	16	14	nmod		
+те	te	toј	тој	Pd--pn		99	17	16	det	p_nom	
+.	.	.	.	Z		99	18	6	punct		
+											
+а	a	a	а	C		100	1	2	cc		And Serbian, Serbian occupation when the Serbs were, when they occupied in fact Macedonia for Serbs Macedonia, South Serbia and to this day.
+српски	srpski	srpski	српски	Amsn		100	2	8	discourse		
+,	,	,	,	Z		100	3	2	punct		
+српска	srpska	srpski	српски	Afsn		100	4	5	amod		
+окупација	okupaciјa	okupaciјa	окупација	Nfsnn		100	5	8	orphan		
+кога	koga	koga	кога	C		100	6	8	mark		
+биле	bile	e	е	Vmii3pi		100	7	8	cop		
+Срби+	Srbi+	Srbin+	Србин+	Nmpny		100	8	0	root		
+те	te	toј	тој	Pd--pn		100	9	8	det	p_nom	
+кога	koga	koga	кога	C		100	10	11	mark		
+окупирале	okupirale	okupira	окупира	Vmii3pi	A-pn	100	11	8	advcl		
+всушност	vsušnost	vsušnost	всушност	Qo		100	12	11	discourse		
+Македонија	Makedoniјa	Makedoniјa	Македонија	Nfsnn		100	13	11	obj		
+за	za	za	за	S		100	14	15	case		
+Срби+	Srbi+	Srbin+	Србин+	Nmpny		100	15	11	obl		
+те	te	toј	тој	Pd--pn		100	16	15	det	p_nom	
+Македонија	Makedoniјa	Makedoniјa	Македонија	Nfsnn		100	17	15	nmod		
+,	,	,	,	Z		100	18	11	punct		
+јужна	јužna	јužen	јужен	Afsn		100	19	20	amod		
+Србија	Srbiјa	Srbiјa	Србија	Nfsnn		100	20	17	appos		
+и	i	i	и	C		100	21	22	cc		
+ден	den	den	ден	Nmsnn		100	22	23	amod		
+денеска	deneska	deneska	денеска	R		100	23	11	advmod		
+.	.	.	.	Z		100	24	11	punct		
+											
+тие	tie	tie	тие	Pp3-pn		101	1	3	nsubj		They think that Macedonia is theirs, and also the Greeks think that Macedonia is theirs.  
+си	si	si	си	Px---d		101	2	3	expl		
+мислат	mislat	misli	мисли	Vmip3pi		101	3	0	root		
+дека	deka	deka	дека	C		101	4	5	mark		
+е	e	e	е	Vmip3si		101	5	3	advcl		
+нивна	nivna	niven	нивен	Afsn		101	6	7	amod		
+Македонија	Makedoniјa	Makedoniјa	Македонија	Nfsnn		101	7	5	nsubj		
+,	,	,	,	Z		101	8	5	punct		
+исто	isto	isto	исто	R		101	9	10	advmod		
+така	taka	taka	така	R		101	10	15	advmod		
+и	i	i	и	C		101	11	12	cc		
+Грци+	Grci+	Grk+	Грк+	Nmpny		101	12	15	nsubj		
+те	te	toј	тој	Pd--pn		101	13	12	det	p_nom	
+си	si	si	си	Px---d		101	14	15	expl		
+мислат	mislat	misli	мисли	Vmip3pi		101	15	5	conj		
+дека	deka	deka	дека	C		101	16	17	mark		
+е	e	e	е	Vmip3si		101	17	15	advcl		
+нивна	nivna	niven	нивен	Afsn		101	18	19	amod		
+Македонија	Makedoniјa	Makedoniјa	Македонија	Nfsnn		101	19	17	nsubj		
+.	.	.	.	Z		101	20	17	punct		
+											
+кога	koga	koga	кога	C		102	1	2	mark		When they divided Macedonia, in 1912 year, the Bulgarians, the Greeks and the Serbs took her.
+разделиле	razdelile	razdeli	раздели	Vmp--pe	A-pn	102	2	8	advcl		
+Македонија	Makedoniјa	Makedoniјa	Македонија	Nfsnn		102	3	2	obj		
+1912	1912	1912	1912	M		102	4	5	nummod		
+година	godina	godina	година	Nfsnn		102	5	2	advmod		
+,	,	,	,	Z		102	6	2	punct		
+ја	јa	taa	таа	Pp3fsa		102	7	8	obj		
+зеле	zele	zeme	земе	Vmp--pe	A-pn	102	8	0	root		
+Бугари+	Bugari+	Bugarin+	Бугарин+	Nmpny		102	9	8	nsubj		
+те	te	toј	тој	Pd--pn		102	10	9	det	p_nom	
+,	,	,	,	Z		102	11	8	punct		
+Грци+	Grci+	Grk+	Грк+	Nmpny		102	12	9	conj		
+те	te	toј	тој	Pd--pn		102	13	13	det	p_nom	
+и	i	i	и	C		102	14	15	cc		
+Срби+	Srbi+	Srbin+	Србин+	Nmpny		102	15	12	conj		
+те	te	toј	тој	Pd--pn		102	16	15	det	p_nom	
+.	.	.	.	Z		102	17	8	punct		
+											
+под	pod	pod	под	S		103	1	2	case		Under Serbs, and that's why we had to learn serbo-croation language in school, but it wasn't spoken.
+срби+	srbi+	Srbin+	Србин+	Nmpny		103	2	11	obl		
+те	te	toј	тој	Pd--pn		103	3	2	det	p_nom	
+и	i	i	и	C		103	4	5	cc		
+зато	zato	zatoa	затоа	C		103	5	7	mark		
+ние	nie	nie	ние	Pp1-pn		103	6	7	nsubj		
+моравме	moravme	mora	мора	Vaii1pi		103	7	11	aux		
+на	na	na	на	S		103	8	9	case		
+училиште	učilište	učilište	училиште	Nnsnn		103	9	11	obl		
+да	da	da	да	C		103	10	11	fixed	inf	
+учиме	učime	uči	учи	Vmip1pi		103	11	0	root		
+српско-хрватски	srpsko-xrvatski	srpsko-xrvatski	српско-хрватски	Amsn		103	12	13	amod		
+јазик	јazik	јazik	јазик	Nmsnn		103	13	11	obj		
+ама	ama	ama	ама	C		103	14	17	cc		
+не	ne	ne	не	Qz		103	15	17	advmod		
+се	se	se	се	Px---a		103	16	17	expl		
+зборуваше	zboruvaše	zboruva	зборува	Vmii3si		103	17	11	xcomp		
+											
+то	to	toa	тоа	Pp3nsn		104	1	2	nsubj		That was somewhere in the first world war, the Serbs were here rulling.
+било	bilo	e	е	Vmp--si	Ansn	104	2	0	root		
+некаде	nekade	nekade	некаде	R		104	3	2	advmod		
+во	vo	vo	во	S		104	4	5	case		
+прва+	prva+	prv+	прв+	Afsn		104	5	7	nummod		
+та	ta	toј	тој	Pd-fsn		104	6	5	det	p_nom	
+светска	svetska	svetski	светски	Afsn		104	7	8	amod		
+војна	voјna	voјna	војна	Nfsnn		104	8	2	obl		
+,	,	,	,	Z		104	9	2	punct		
+Срби+	Srbi+	Srbin+	Србин+	Nmpny		104	10	12	nsubj		
+те	te	toј	тој	Pd--pn		104	11	10	det	p_nom	
+биле	bile	e	е	Vmp--pi	A-pn	104	12	2	conj		
+тука	tuka	tuka	тука	R		104	13	12	advmod		
+владееле	vladeele	vladee	владее	Vmp--pi	A-pn	104	14	12	xcomp		
+,	,	,	,	Z		104	15	14	punct		
+											
+пред	pred	pred	пред	S		105	1	2	case		Before that some part of Macedonia was under the Bulgarians, this nowadays Macedonia.
+тоа	toa	toa	тоа	Pp3nsn		105	2	7	obl		
+некој	nekoј	nekoј	некој	Pi-msn		105	3	4	det	indf	
+дел	del	del	дел	Nmsnn		105	4	7	nsubj		
+од	od	od	од	S		105	5	6	case		
+македонија	makedoniјa	Makedoniјa	Македонија	Nfsnn		105	6	4	nmod		
+беше	beše	e	е	Vmii3si		105	7	0	root		
+под	pod	pod	под	S		105	8	9	case		
+Бугари+	Bugari+	Bugarin+	Бугарин+	Nmpny		105	9	7	obl		
+те	te	toј	тој	Pd--pn		105	10	9	det	p_nom	
+,	,	,	,	Z		105	11	7	punct		
+ова	ova	ovoј	овој	Pd-fsn		105	12	13	det		
+денешна	denešna	denešen	денешен	Afsn		105	13	14	amod		
+македонија	makedoniјa	Makedoniјa	Македонија	Nfsnn		105	14	6	appos		
+											
+а	a	a	а	C		106	1	2	cc		And also the Greeks took many parts of Macedonia, here Lake Prespa is divided to the Greeks, and to the Albanians and it's left with us.
+исто	isto	isto	исто	R		106	2	3	advmod		
+така	taka	taka	така	R		106	3	8	advmod		
+и	i	i	и	C		106	4	5	cc		
+Грци+	Grci+	Grk+	Грк+	Nmpny		106	5	8	nsubj		
+те	te	toј	тој	Pd--pn		106	6	5	det	p_nom	
+си	si	si	си	Px---d		106	7	8	expl		
+зеле	zele	zeme	земе	Vmp--pe	A-pn	106	8	0	root		
+доста	dosta	dosta	доста	R		106	9	10	amod		
+делови	delovi	del	дел	Nmpnn		106	10	8	obj		
+од	od	od	од	S		106	11	12	case		
+македонија	makedoniјa	Makedoniјa	Македонија	Nfsnn		106	12	10	nmod		
+,	,	,	,	Z		106	13	8	punct		
+ваму	vamu	vamu	ваму	R		106	14	18	advmod		
+преспанско	prespansko	Prespansko	Преспанско	Ansn		106	15	16	amod		
+езеро	ezero	ezero	езеро	Nnsnn		106	16	17	nsubj		
+е	e	e	е	Vmip3si		106	17	18	cop		
+поделено	podeleno	podelen	поделен	Ansn		106	18	8	conj		
+и	i	i	и	C		106	19	20	cc		
+на	na	na	на	S		106	20	21	case		
+Грци+	Grci+	Grk+	Грк+	Nmpny		106	21	18	obl		
+те	te	toј	тој	Pd--pn		106	22	21	det	p_nom	
+и	i	i	и	C		106	23	24	cc		
+на	na	na	на	S		106	24	25	case		
+Албанци+	Albanci+	Albanec+	Албанец+	Nmpny		106	25	21	conj		
+те	te	toј	тој	Pd--pn		106	26	25	det	p_nom	
+и	i	i	и	C		106	27	28	cc		
+кај	kaј	kaј	кај	S		106	28	29	case		
+нас	nas	nie	ние	Pp1-pa		106	29	25	conj		
+останато	ostanato	ostanat	останат	Ansn		106	30	18	xcomp		
+е	e	e	е	Vmip3si		106	31	30	cop		
+.	.	.	.	Z		106	32	30	punct		
+											
+значи	znači	znači	значи	Qo		107	1	5	discourse		So we here, Prespa, are on the borderline between Greece, Albania and Macedonia is there, on the borderline.
+ние	nie	nie	ние	Pp1-pn		107	2	5	nsubj		
+овде	ovde	ovde	овде	R		107	3	5	advmod		
+преспа	prespa	Prespa	Преспа	Nfsnn		107	4	3	appos		
+сме	sme	e	е	Vmip1pi		107	5	0	root		
+на	na	na	на	S		107	6	7	case		
+тромеѓе+	tromeѓe+	tromeѓa+	тромеѓа+	Nnsnn		107	7	5	obl		
+то	to	toј	тој	Pd-nsn		107	8	7	det	p_nom	
+меѓу	meѓu	meѓu	меѓу	S		107	9	10	case		
+грција	grciјa	Grciјa	Грција	Nfsnn		107	10	7	nmod		
+,	,	,	,	Z		107	11	5	punct		
+албанија	albaniјa	Albaniјa	Албанија	Nfsnn		107	12	10	conj		
+и	i	i	и	C		107	13	14	cc		
+македонија	makedoniјa	Makedoniјa	Македонија	Nfsnn		107	14	16	nsubj		
+тука	tuka	tuka	тука	R		107	15	16	advmod		
+е	e	e	е	Vmip1si		107	16	5	conj		
+,	,	,	,	Z		107	17	16	punct		
+во	vo	vo	во	S		107	18	19	case		
+меѓе+	meѓe+	meѓa+	меѓа+	Nnsnn		107	19	16	advmod		
+то	to	toј	тој	Pd-nsn		107	20	19	det	p_nom	
+.	.	.	.	Z		107	21	20	punct		
+											
+исто	isto	isto	исто	R		108	1	2	advmod		The same it abounds a lot with, we have many churches, we have went then, at that time.
+изобилуват	izobiluvat	izobiluva	изобилува	Vmip3si		108	2	0	root		
+многу	mnogu	mnogu	многу	R		108	3	2	advmod		
+со	so	so	со	S		108	4	8	case		
+,	,	,	,	Z		108	5	2	punct		
+имаме	imame	ima	има	Vmip1pi		108	6	2	xcomp		
+многу	mnogu	mnogu	многу	R		108	7	8	amod		
+цркви	crkvi	crkva	црква	Nfpnn		108	8	6	obj		
+,	,	,	,	Z		108	9	6	punct		
+сме	sme	e	е	Vmip1pi		108	10	11	cop		
+оделе	odele	odi	оди	Vmp--pi	A-pn	108	11	6	xcomp		
+тогаш	togaš	togaš	тогаш	R		108	12	11	advmod		
+на	na	na	на	S		108	13	14	case		
+време+	vreme+	vreme+	време+	Nnsnn		108	14	11	obl		
+то	to	toј	тој	Pd-nsn		108	15	14	det	p_nom	
+,	,	,	,	Z		108	16	11	punct		
+											
+не	ne	ne	не	C		109	1	2	cc		Not like in church, in a spiritual temple to pray and to know God, but we went like on a trip, to travel, to see.
+како	kako	kako	како	S		109	2	4	case		
+во	vo	vo	во	S		109	3	4	case		
+црква	crkva	crkva	црква	Nfsnn		109	4	11	obl		
+,	,	,	,	Z		109	5	4	punct		
+во	vo	vo	во	S		109	6	7	case		
+духовен	duxoven	duxoven	духовен	Amsn		109	7	8	amod		
+храм	xram	xram	храм	Nmsnn		109	8	4	nmod		
+да	da	da	да	C		109	9	11	fixed	inf	
+се	se	se	се	Px---a		109	10	11	expl		
+молиме	molime	moli	моли	Vmip1pi		109	11	0	root		
+и	i	i	и	C		109	12	13	cc		
+да	da	da	да	C		109	13	15	fixed	inf	
+го	go	toј	тој	Pp3msa		109	14	15	expl		
+спознаеме	spoznaeme	spoznae	спознае	Vmip1pe		109	15	11	xcomp		
+бога	boga	bog	бог	Nmsay		109	16	15	obj		
+,	,	,	,	Z		109	17	15	punct		
+туку	tuku	tuku	туку	C		109	18	20	mark		
+сме	sme	e	е	Vmip1pi		109	19	20	cop		
+оделе	odele	odi	оди	Vmp--pi	A-pn	109	20	15	advcl		
+како	kako	kako	како	S		109	21	23	case		
+на	na	na	на	S		109	22	23	case		
+ексурзија	eksurziјa	ekskurziјa	екскурзија	Nfsnn		109	23	20	obl		
+да	da	da	да	C		109	24	25	fixed	inf	
+прошетаме	prošetame	prošeta	прошета	Vmip1pe		109	25	20	xcomp		
+да	da	da	да	C		109	26	27	fixed	inf	
+видиме	vidime	vidi	види	Vmip1pe		109	27	25	xcomp		
+											
+и	i	i	и	C		110	1	3	cc		And there's a church here, there are some other things here.
+овде	ovde	ovde	овде	R		110	2	3	advmod		
+има	ima	ima	има	Vmip3si		110	3	0	root		
+црква	crkva	crkva	црква	Nfsnn		110	4	3	obj		
+овде	ovde	ovde	овде	R		110	5	6	advmod		
+имат	imat	ima	има	Vmip3si		110	6	3	xcomp		
+некој	nekoј	nekoј	некој	Pi--pn		110	7	8	det	indf	
+други	drugi	drug	друг	A-pn		110	8	9	amod		
+работи	raboti	rabota	работа	Nfpnn		110	9	6	obj		
+,	,	,	,	Z		110	10	6	punct		
+											
+не	ne	nie	ние	Pp1-pa		111	1	2	obj		They took us on camping, on, then it was called that.
+носеле	nosele	nosi	носи	Vmp--pi	A-pn	111	2	0	root		
+на	na	na	на	S		111	3	4	case		
+логорување	logoruvanje	logoruvanje	логорување	Nnsnn		111	4	2	obl		
+,	,	,	,	Z		111	5	2	punct		
+на	na	na	на	S		111	6	9	orph		
+тогаш	togaš	togaš	тогаш	R		111	7	9	advmod		
+се	se	se	се	Px---a		111	8	9	expl		
+викаше	vikaše	vika	вика	Vmii3si		111	9	2	conj		
+така	taka	taka	така	R		111	10	9	advmod		
+тоа	toa	toa	тоа	Pp3nsn		111	11	9	nsubj		
+											
+деца	deca	dete	дете	Nnpny		112	1	3	nsubj		Children would go on a break, on this school break, what was it called, canicule.
+ќе	ќe	ќe	ќе	Vaip		112	2	3	aux	hab	
+одевме	odevme	odi	оди	Vmii1pi		112	3	0	root		
+на	na	na	на	S		112	4	5	case		
+распуст	raspust	raspust	распуст	Nmsnn		112	5	3	obl		
+на	na	na	на	S		112	6	7	case		
+овие	ovie	ovoј	овој	Pd--pn		112	7	8	det		
+школски	školski	školski	школски	Amsn		112	8	9	amod		
+распуст	raspust	raspust	распуст	Nmsnn		112	9	5	appos		
+,	,	,	,	Z		112	10	3	punct		
+како	kako	kako	како	Pq		112	11	13	advmod		
+се	se	se	се	Px---a		112	12	13	expl		
+викаше	vikaše	vika	вика	Vmii3se		112	13	3	xcomp		
+.	.	.	.	Z		112	14	13	punct		
+каникула	kanikula	kanikula	каникула	Nfsnn		112	15	9	nmod		
+,	,	,	,	Z		112	16	15	punct		
+											
+одевме	odevme	odi	оди	Vmia1pi		113	1	0	root		We went like that.
+така	taka	taka	така	R		113	2	1	advmod		
+на	na	na	на	S		113	3	1	orph		
+											
+и	i	i	и	C		114	1	9	cc		And then, that time I really like.
+тогаш	togaš	togaš	тогаш	R		114	2	9	advmod		
+тоа	toa	toa	тоа	Pd-nsn		114	3	5	det		
+то	to	toa	тоа	Pd-nsn		114	4	5	rep		
+време	vreme	vreme	време	Nnsnn		114	5	9	nsubj		
+многу	mnogu	mnogu	многу	R		114	6	9	advmod		
+ми	mi	јas	јас	Pp1-sd		114	7	9	obl		
+се	se	se	се	Px---a		114	8	9	expl		
+допаѓат	dopaѓat	dopaѓa	допаѓа	Vmip3si		114	9	0	root		
+											
+и	i	i	и	C		115	1	4	cc		And there we had a really nice friendship with all the children.
+таму	tamu	tamu	таму	R		115	2	4	advmod		
+дружба	družba	družba	дружба	Nfsnn		115	3	4	obj		
+имавме	imavme	ima	има	Vmii1pi		115	4	0	root		
+многу	mnogu	mnogu	многу	R		115	5	4	advmod		
+убава	ubava	ubav	убав	Afsn		115	6	3	amod		
+со	so	so	со	S		115	7	9	case		
+сите	site	siot	сиот	A-pn		115	8	9	amod		
+деца	deca	dete	дете	Nnpny		115	9	4	obl		
+											
+се	se	se	се	Px---a		116	1	2	expl		We hang out, ate.
+дружевме	druževme	druži	дружи	Vmii1pi		116	2	0	root		
+јадевме	јadevme	јade	јаде	Vmii1pi		116	3	2	xcomp		
+											
+па	pa	pa	па	C		117	1	4	cc		So they would prepare us the food.
+ќе	ќe	ќe	ќе	Vaip		117	2	4	aux	hab	
+ни	ni	nie	ние	Pp1-pd		117	3	4	obl	iobj	
+напраеја	napraeјa	napravi	направи	Vmia3pe		117	4	0	root		
+јадење+	јadenje+	јadenje+	јадење+	Nnsnn		117	5	4	obj		
+то	to	toј	тој	Pd-nsn		117	6	5	det	p_nom	
+											
+ние	nie	nie	ние	Pp1-pn		118	1	7	nsubj		We at home could not eat it.
+дома	doma	doma	дома	R		118	2	7	advmod		
+не	ne	ne	не	Qz		118	3	4	advmod		
+можевме	moževme	može	може	Vaii1pi		118	4	7	aux		
+да	da	da	да	C		118	5	7	fixed	inf	
+го	go	toј	тој	Pp3nsa		118	6	7	obj		
+јадиме	јadime	јade	јаде	Vmip1pi		118	7	0	root		
+,	,	,	,	Z		118	8	7	punct		
+											
+многу	mnogu	mnogu	многу	R		119	1	4	advmod		We really liked the food there.
+ни	ni	nie	ние	Pp1-pn		119	2	4	obl	iobj	
+се	se	se	се	Px---a		119	3	4	expl		
+бендисваше	bendisvaše	bendisuva	бендисува	Vmii3si		119	4	0	root		
+јадење+	јadenje+	јadenje+	јадење+	Nnsnn		119	5	4	nsubj		
+то	to	toј	тој	Pd-nsn		119	6	5	det	p_nom	
+таму	tamu	tamu	таму	R		119	7	4	advmod		
+,	,	,	,	Z		119	8	4	punct		
+											
+ко	ko	koga	кога	Pq		120	1	3	mark		When we would sit to eat meat.
+ќе	ќe	ќe	ќе	Vaip		120	2	3	aux	hab	
+седневме	sednevme	sedne	седне	Vmii1pe		120	3	0	root		
+да	da	da	да	C		120	4	5	fixed	inf	
+ручаме	ručame	ruča	руча	Vmip1pi		120	5	3	xcomp		
+месо	meso	meso	месо	Nmsnn		120	6	5	obj		
+											
+ќе	ќe	ќe	ќе	Vaip		121	1	2	aux	hab	There would have been some richer meal.
+имаше	imaše	ima	има	Vmii3si		121	2	0	root		
+нешто	nešto	nešto	нешто	Pi		121	3	2	obj		
+така	taka	taka	така	R		121	4	3	nmod		
+по+	po+	po+	по+	Qc		121	5	6	amod		
+богато	bogato	bogat	богат	Ansn		121	6	7	amod		
+јадејне	јadeјne	јadenje	јадење	Nnsnn		121	7	2	conj		
+											
+и	i	i	и	C		122	1	5	cc		And we liked that a lot.
+то	to	toa	тоа	Pp3nsn		122	2	5	nsubj		
+ни	ni	nie	ние	Pp1-pd		122	3	5	obl	iobj	
+се	se	se	се	Px---a		122	4	5	expl		
+бендисвеше	bendisveše	bendisuva	бендисува	Vmii3si		122	5	0	root		
+многу	mnogu	mnogu	многу	R		122	6	5	advmod		
+.	.	.	.	Z		122	7	5	punct		
+											
+и	i	i	и	C		123	1	2	cc		And so, the friendship.
+така	taka	taka	така	R		123	2	3	discourse		
+дружење+	druženje+	druženje+	дружење+	Nnsnn		123	3	0	root		
+то	to	toј	тој	Pd-nsn		123	4	3	det	p_nom	
+.	.	.	.	Z		123	5	3	punct		
+											
+па	pa	pa	па	C		124	1	3	cc		So, there was a lot in gymnasium.
+многу	mnogu	mnogu	многу	R		124	2	3	advmod		
+имаше	imaše	ima	има	Vmii3si		124	3	0	root		
+во	vo	vo	во	S		124	4	5	case		
+гимназија	gimnaziјa	gimnaziјa	гимназија	Nfsnn		124	5	3	obl		
+											
+ко	ko	koga	кога	Pq		125	1	2	mark		When we were on excursion once, on the Lake Prespa, and we went with a boat on the island Golem Grad.
+бевме	bevme	e	е	Vmii1pi		125	2	11	advcl		
+еднуш	ednuš	ednaš	еднаш	R		125	3	2	advmod		
+на	na	na	на	S		125	4	5	case		
+излет	izlet	izlet	излет	Nmsnn		125	5	2	obl		
+во	vo	vo	во	S		125	6	7	case		
+Преспанско+	Prespansko+	Prespansko+	Преспанско+	Ansn		125	7	9	amod		
+во	vo	ovoј	овој	Pd-nsn		125	8	7	det	p_nom	
+езеро	ezero	ezero	езеро	Nnsnn		125	9	5	nmod		
+и	i	i	и	C		125	10	11	cc		
+ојдовме	oјdovme	odi	оди	Vmia1pi		125	11	0	root		
+со	so	so	со	S		125	12	13	case		
+брод	brod	brod	брод	Nmsnn		125	13	11	obl		
+на	na	na	на	S		125	14	15	case		
+остров+	ostrov+	ostrov+	остров+	Nmsnn		125	15	13	nmod		
+от	ot	toј	тој	Pd-msn		125	16	15	det	p_nom	
+голем	golem	Golem	Голем	Amsn		125	17	18	amod		
+град	grad	Grad	Град	Nmsnn		125	18	15	flat		
+.	.	.	.	Z		125	19	11	punct		
+											
+и	i	i	и	C		126	1	4	cc		And it was a sad incident and I can never forget about that incident.
+тажна	tažna	tažen	тажен	Afsn		126	2	3	amod		
+случка	slučka	slučka	случка	Nfsnn		126	3	4	nsubj		
+беше	beše	e	е	Vmii3si		126	4	0	root		
+и	i	i	и	C		126	5	7	cc		
+не	ne	ne	не	Qz		126	6	7	advmod		
+можам	možam	može	може	Vaip1si		126	7	11	aux		
+никогаш	nikogaš	nikogaš	никогаш	R		126	8	7	advmod		
+да	da	da	да	C		126	9	11	fixed	inf	
+ја	јa	taa	таа	Pp3fsa		126	10	11	expl		
+заборам	zaboram	zaboravi	заборави	Vmip1se		126	11	4	xcomp		
+та	ta	taa	таа	Pd-fsn		126	12	13	det		
+случка	slučka	slučka	случка	Nfsnn		126	13	11	obj		
+											
+и	i	i	и	C		127	1	2	cc		And we stopped at a place where the village Konjsko is.
+застанавме	zastanavme	zastane	застане	Vmia1pe		127	2	0	root		
+на	na	na	на	S		127	3	4	case		
+едно	edno	eden	еден	Pi-nsn		127	4	5	det	indf	
+место	mesto	mesto	место	Nnsnn		127	5	2	obl		
+кај	kaј	kade	каде	Pq		127	6	8	mark		
+шо	šo	što	што	Pq		127	7	8	mark		
+е	e	e	е	Vmip3si		127	8	2	advcl		
+село+	selo+	selo+	село+	Nnsnn		127	9	8	nsubj		
+то	to	toј	тој	Pd-nsn		127	10	9	det	p_nom	
+коњско	konjsko	Konjsko	Коњско	Nnsnn		127	11	9	flat		
+											
+овдека	ovdeka	ovdeka	овдека	R		128	1	6	advmod		Here from the island it goes here towards Stenje.
+од	od	od	од	S		128	2	3	case		
+остров+	ostrov+	ostrov+	остров+	Nmsnn		128	3	6	obl		
+от	ot	toј	тој	Pd-msn		128	4	3	det	p_nom	
+се	se	se	се	Px---a		128	5	6	expl		
+идит	idit	ide	иде	Vmip3si		128	6	0	root		
+навака	navaka	navaka	навака	R		128	7	6	advmod		
+кон	kon	kon	кон	S		128	8	9	case		
+стење	stenje	Stenje	Стење	Nmsnn		128	9	6	obl		
+											
+и	i	i	и	C		129	1	8	cc		And that part from Konjsko to Stenje has many beautiful beaches, it has.
+тој	toј	toј	тој	Pd-msn		129	2	3	det		
+дел	del	del	дел	Nmsnn		129	3	8	nsubj		
+од	od	od	од	S		129	4	5	case		
+коњско	konjsko	Konjsko	Коњско	Nnsnn		129	5	3	nmod		
+до	do	do	до	S		129	6	7	case		
+стење	stenje	Stenje	Стење	Nnsnn		129	7	5	nmod		
+имат	imat	ima	има	Vmip3si		129	8	0	root		
+многу	mnogu	mnogu	многу	R		129	9	10	amod		
+убави	ubavi	ubav	убав	A-pn		129	10	11	amod		
+плажи	plaži	plaža	плажа	Nfpnn		129	11	8	obj		
+имат	imat	ima	има	Vmip3si		129	12	8	xcomp		
+.	.	.	.	Z		129	13	12	punct		
+											
+и	i	i	и	C		130	1	2	cc		And the boat stopped, at that time, then, before how many years, before forty years.
+застана	zastana	zastane	застане	Vmia3se		130	2	0	root		
+брод+	brod+	brod+	брод+	Nmsnn		130	3	2	nsubj		
+от	ot	toј	тој	Pd-msn		130	4	3	det	p_nom	
+на	na	na	на	S		130	5	6	case		
+време+	vreme+	vreme+	време+	Nnsnn		130	6	2	obl		
+то	to	toј	тој	Pd-nsn		130	7	6	det	p_nom	
+тоаш	toaš	togaš	тогаш	R		130	8	2	advmod		
+пред	pred	pred	пред	S		130	9	10	case		
+колку	kolku	kolku	колку	Pq		130	10	11	amod		
+години	godini	godina	година	Nfpnn		130	11	2	obl		
+пред	pred	pred	пред	S		130	12	13	case		
+четиресет	četireset	četirieset	четириесет	M		130	13	14	nummod		
+години	godini	godina	година	Nfpnn		130	14	11	nmod		
+,	,	,	,	Z		130	15	2	punct		
+											
+имаше	imaše	ima	има	Vmii3si		131	1	0	root		There was a boat on the Lake Prespa and we went on excursion.
+брод	brod	brod	брод	Nmsnn		131	2	1	obj		
+на	na	na	на	S		131	3	4	case		
+преспанско+	prespansko+	Prespansko+	Преспанско+	Ansn		131	4	6	amod		
+во	vo	ovoј	овој	Pd-nsn		131	5	4	det	p_nom	
+езеро	ezero	ezero	езеро	Nnsnn		131	6	2	nmod		
+и	i	i	и	C		131	7	8	cc		
+ојдовме	oјdovme	odi	оди	Vmia1pi		131	8	1	xcomp		
+на	na	na	на	S		131	9	10	case		
+ексурзија	eksurziјa	ekskurziјa	екскурзија	Nfsnn		131	10	8	obl		
+											
+и	i	i	и	C		132	1	8	cc		And then some who wanted to bathe in the lake,
+после	posle	posle	после	R		132	2	8	advmod		
+некој	nekoј	nekoј	некој	Pi--pn		132	3	5	nsubj		
+шо	šo	što	што	Pq		132	4	5	mark		
+сакаја	sakaјa	saka	сака	Vaii3pi		132	5	8	aux		
+да	da	da	да	C		132	6	8	fixed	inf	
+се	se	se	се	Px---a		132	7	8	expl		
+капат	kapat	kape	капе	Vmip3pi		132	8	0	root		
+во	vo	vo	во	S		132	9	10	case		
+езеро+	ezero+	ezero+	езеро+	Nmsnn		132	10	8	obl		
+то	to	toј	тој	Pd-msn		132	11	10	det	p_nom	
+,	,	,	,	Z		132	12	8	punct		
+											
+да	da	da	да	C		133	1	3	fixed	inf	To bathe.
+се	se	se	се	Px---a		133	2	3	expl		
+капат	kapat	kape	капе	Vmip3pi		133	3	0	root		
+											
+излегоа	izlegoa	izleze	излезе	Vaia3pe		134	1	4	aux		Came out to bathe.
+да	da	da	да	C		134	2	4	fixed	inf	
+се	se	se	се	Px---a		134	3	4	expl		
+капат	kapat	kape	капе	Vmip3pi		134	4	0	root		
+,	,	,	,	Z		134	5	4	punct		
+											
+деца	deca	dete	дете	Nnpny		135	1	5	nsubj		Many children had their bathing suits taken and bathed.
+полно	polno	polno	полно	R		135	2	1	amod		
+,	,	,	,	Z		135	3	1	punct		
+си	si	si	си	Px---d		135	4	5	expl		
+имаја	imaјa	ima	има	Vmii3pi		135	5	7	cop		
+купачи	kupači	kupači	купачи	N-pnn		135	6	7	obj		
+земено	zemeno	zeme	земе	Vmp--se	Ansn	135	7	0	root		
+и	i	i	и	C		135	8	10	cc		
+се	se	se	се	Px---a		135	9	10	expl		
+капеја	kapeјa	kape	капе	Vmii3pi		135	10	7	xcomp		
+.	.	.	.	Z		135	11	10	punct		
+											
+а	a	a	а	C		136	1	6	cc		But one school friend separeted from us, he was poor.
+еден	eden	eden	еден	Pi-msn		136	2	3	det	indf	
+школски	školski	školski	школски	Amsn		136	3	4	amod		
+другар	drugar	drugar	другар	Nmsny		136	4	6	nsubj		
+се	se	se	се	Px---a		136	5	6	expl		
+оделе	odele	oddeli	оддели	Vmia3se		136	6	0	root		
+од	od	od	од	P		136	7	8	case		
+нас	nas	nie	ние	Pp1-pa		136	8	6	obl		
+,	,	,	,	Z		136	9	6	punct		
+тој	toј	toј	тој	Pp3msn		136	10	11	nsubj		
+беше	beše	e	е	Vmii3si		136	11	12	cop		
+сиромав	siromav	siromav	сиромав	Amsn		136	12	6	conj		
+.	.	.	.	Z		136	13	12	punct		
+											
+и	i	i	и	C		137	1	5	cc		And because he was poor, probably didn't had bathing suit to bathe and he moved aside.
+тој	toј	toј	тој	Pp3msn		137	2	4	nsubj		
+дека	deka	deka	дека	C		137	3	5	mark		
+беше	beše	e	е	Vmii3si		137	4	5	cop		
+сиромав	siromav	siromav	сиромав	Amsn		137	5	7	advcl		
+изгледа	izgleda	izgleda	изгледа	Qo		137	6	7	discourse		
+немаше	nemaše	nema	нема	Vmii3si		137	7	0	root		
+купачи	kupači	kupači	купачи	N-pnn		137	8	7	obj		
+за	za	za	за	S		137	9	12	case		
+да	da	da	да	C		137	10	12	fixed	inf	
+се	se	se	се	Px---a		137	11	12	expl		
+капит	kapit	kape	капе	Vmip3si		137	12	7	xcomp		
+и	i	i	и	C		137	13	15	cc		
+се	se	se	се	Px---a		137	14	15	expl		
+тргнал	trgnal	trgne	тргне	Vmp--se	Amsn	137	15	12	xcomp		
+настрана	nastrana	nastrana	настрана	R		137	16	15	advmod		
+.	.	.	.	Z		137	17	15	punct		
+											
+и	i	i	и	C		138	1	3	cc		And he didn't have bathing suit, he moved aside, he was ashamed of the others and he drowned.
+тој	toј	toј	тој	Pp3msn		138	2	3	nsubj		
+немаше	nemaše	nema	нема	Vmii3si		138	3	0	root		
+купачи	kupači	kupači	купачи	N-pnn		138	4	3	obj		
+,	,	,	,	Z		138	5	3	punct		
+се	se	se	се	Px---a		138	6	7	expl		
+тргна	trgna	trgne	тргне	Vmia3se		138	7	3	xcomp		
+настрана	nastrana	nastrana	настрана	R		138	8	7	advmod		
+му	mu	toј	тој	Pp3msd		138	9	10	obl	iobj	
+беше	beše	e	е	Vmii3si		138	10	11	cop		
+срам	sram	sram	срам	Nmsnn		138	11	7	xcomp		
+од	od	od	од	S		138	12	13	case		
+други+	drugi+	drug+	друг+	A-pn		138	13	11	obl		
+те	te	toј	тој	Pd--pn		138	14	13	det	p_nom	
+и	i	i	и	C		138	15	17	cc		
+се	se	se	се	Px---a		138	16	17	expl		
+удави	udavi	udavi	удави	Vmia3se		138	17	11	xcomp		
+.	.	.	.	Z		138	18	17	punct		
+											
+се	se	se	се	Px---a		139	1	2	expl		He drowned in the water.
+удави	udavi	udavi	удави	Vmia3se		139	2	0	root		
+во	vo	vo	во	S		139	3	4	case		
+вода+	voda+	voda+	вода+	Nfsnn		139	4	2	obl		
+та	ta	toј	тој	Pd-fsn		139	5	4	det	p_nom	
+тој	toј	toј	тој	Pp3msn		139	6	2	nsubj		
+											
+и	i	i	и	C		140	1	4	cc		And then they pulled him dead, he was drowned.
+после	posle	posle	после	R		140	2	4	advmod		
+го	go	toј	тој	Pp3msa		140	3	4	obj		
+извадија	izvadiјa	izvadi	извади	Vmia3pe		140	4	0	root		
+мртов	mrtov	mrtov	мртов	Amsn		140	5	3	amod		
+кај	kaј	kaј	кај	Pq		140	6	9	mark		
+шо	šo	što	што	Pq		140	7	9	mark		
+е	e	e	е	Vmip3si		140	8	9	cop		
+удавен	udaven	udavi	удави	Amsn		140	9	4	advcl		
+,	,	,	,	Z		140	10	9	punct		
+											
+да	da	da	да	C		141	1	3	mark		If he was with the other children, he wouldn't have drowned like that, someone would have saved him.
+си	si	si	си	Px---d		141	2	3	expl		
+беше	beše	e	е	Vmii3si		141	3	14	advcl		
+со	so	so	со	S		141	4	5	case		
+други+	drugi+	drug+	друг+	A-pn		141	5	7	amod		
+те	te	toј	тој	Pd--pn		141	6	5	det	p_nom	
+деца	deca	dete	дете	Nnpny		141	7	3	obl		
+,	,	,	,	Z		141	8	3	punct		
+немаше	nemaše	nema	нема	Vmii3si		141	9	14	aux		
+тој	toј	toј	тој	Pp3msn		141	10	9	nsubj		
+така	taka	taka	така	R		141	11	14	advmod		
+да	da	da	да	C		141	12	14	fixed	inf	
+се	se	se	се	Px---a		141	13	14	expl		
+удавит	udavit	udavi	удави	Vmip3se		141	14	0	root		
+,	,	,	,	Z		141	15	14	punct		
+ќе	ќe	ќe	ќе	Vaip		141	16	18	aux	hab	
+го	go	toј	тој	Pp3msa		141	17	18	obj		
+спасеше	spaseše	spasi	спаси	Vmii3se		141	18	14	conj		
+некој	nekoј	nekoј	некој	Pi-msn		141	19	18	nsubj		
+.	.	.	.	Z		141	20	18	punct		
+											
+значи	znači	znači	значи	Qo		142	1	4	discourse		So he separeted because he was poor, he didn't have bathing suit, you understand me, no.
+тој	toј	toј	тој	Pp3msn		142	2	4	nsubj		
+се	se	se	се	Px---a		142	3	4	expl		
+оделе	odele	oddeli	оддели	Vmia3se		142	4	0	root		
+дека	deka	deka	дека	C		142	5	7	mark		
+беше	beše	e	е	Vmii3si		142	6	7	cop		
+сиромав	siromav	siromav	сиромав	Amsn		142	7	4	advcl		
+,	,	,	,	Z		142	8	7	punct		
+немаше	nemaše	nema	нема	Vmii3si		142	9	7	xcomp		
+купачи	kupači	kupači	купачи	N-pnn		142	10	9	obj		
+,	,	,	,	Z		142	11	9	punct		
+ме	me	јas	јас	Pp1-sa		142	12	13	obj		
+разбираш	razbiraš	razbira	разбира	Vmip2si		142	13	9	xcomp		
+не	ne	ne	не	Qz		142	14	13	advmod		
+.	.	.	.	Z		142	15	13	punct		
+											
+и	i	i	и	C		143	1	9	cc		And in his underwear, in underpants he bathed, the poor man.
+по	po	po	по	S		143	2	3	case		
+долни	dolni	dolen	долен	Amsny		143	3	4	amod		
+веш	veš	veš	веш	Nmsnn		143	4	9	obl		
+по	po	po	по	S		143	5	6	case		
+гаќи	gaќi	gaќi	гаќи	N-pnn		143	6	4	nmod		
+се	se	se	се	Px---a		143	7	8	expl		
+имаше	imaše	ima	има	Vmii3si		143	8	9	cop		
+капено	kapeno	kape	капе	Vmp--se	Ansn	143	9	0	root		
+сирота	sirota	sirota	сирота	Nmsnn		143	10	8	nsubj		
+.	.	.	.	Z		143	11	9	punct		
+											
+и	i	i	и	C		144	1	4	cc		And he sliped somewhere, in some depth, completely alone there.
+зар	zar	zar	зар	Qq		144	2	4	discourse		
+се	se	se	се	Px---a		144	3	4	expl		
+пикна	pikna	pikne	пикне	Vmia3se		144	4	0	root		
+некаде	nekade	nekade	некаде	R		144	5	4	advmod		
+во	vo	vo	во	S		144	6	7	case		
+некоја	nekoјa	nekoј	некој	Pi-fsn		144	7	8	amod		
+длабочина	dlabočina	dlabočina	длабочина	Nfsnn		144	8	4	obl		
+огул	ogul	ugul	угул	R		144	9	10	amod		
+сам	sam	sam	сам	Amsn		144	10	4	conj		
+таму	tamu	tamu	таму	R		144	11	10	advmod		
+											
+и	i	i	и	C		145	1	4	cc		And then we saw him drowned, there in the shallow.
+после	posle	posle	после	R		145	2	4	advmod		
+го	go	toј	тој	Pp3msa		145	3	4	obj		
+видовме	vidovme	vidi	види	Vmii1pi		145	4	0	root		
+удавен	udaven	udavi	удави	Amsn		145	5	3	amod		
+тука	tuka	tuka	тука	R		145	6	4	advmod		
+во	vo	vo	во	S		145	7	8	case		
+плитко+	plitko+	plitko+	плитко+	R		145	8	4	obl		
+то	to	toј	тој	Pd-nsn		145	9	8	det	p_nom	
+.	.	.	.	Z		145	10	4	punct		
+											
+и	i	i	и	C		146	1	5	cc		And that image remained, very sad image, because he was poor, from a poor, very poor family.
+та	ta	taa	таа	Pd3fsn		146	2	3	det		
+слика	slika	slika	слика	Nfsnn		146	3	5	nsubj		
+ми	mi	јas	јас	Pp1-sd		146	4	5	obj	iobj	
+остана	ostana	ostane	остане	Vmia3se		146	5	0	root		
+многу	mnogu	mnogu	многу	R		146	6	7	amod		
+тажна	tažna	tažen	тажен	Afsn		146	7	8	amod		
+слика	slika	slika	слика	Nfsnn		146	8	3	nmod		
+,	,	,	,	Z		146	9	5	punct		
+зошто	zošto	zašto	зашто	C		146	10	13	mark		
+тој	toј	toј	тој	Pp3msn		146	11	12	nsubj		
+беше	beše	e	е	Vmii3si		146	12	13	cop		
+сиромав	siromav	siromav	сиромав	Amsn		146	13	5	advcl		
+,	,	,	,	Z		146	14	13	punct		
+од	od	od	од	S		146	15	16	case		
+сиромашна	siromašna	siromašen	сиромашен	Afsn		146	16	13	nmod		
+,	,	,	,	Z		146	17	16	punct		
+многу	mnogu	mnogu	многу	R		146	18	19	amod		
+сиромашна	siromašna	siromašen	сиромашен	Afsn		146	19	20	amod		
+фамилија	familiјa	familiјa	фамилија	Nfsny		146	20	16	nmod		
+,	,	,	,	Z		146	21	20	punct		
+											
+а	a	a	а	C		147	1	2	cc		And he was a good student.
+беше	beše	e	е	Vmii3si		147	2	0	root		
+добар	dobar	dobar	добар	Amsn		147	3	5	amod		
+вака	vaka	vaka	вака	R		147	4	2	advmod		
+ученик	učenik	učenik	ученик	Nmsny		147	5	2	nsubj		
+											
+и	i	i	и	C		148	1	5	cc		And afterwards the image was very sad.
+после	posle	posle	после	R		148	2	5	advmod		
+многу	mnogu	mnogu	многу	R		148	3	4	amod		
+жална	žalna	žalen	жален	Afsn		148	4	6	amod		
+беше	beše	e	е	Vmii3si		148	5	0	root		
+слика+	slika+	slika+	слика+	Nfsnn		148	6	5	nsubj		
+та	ta	toј	тој	Pd-fsn		148	7	6	det	p_nom	
+,	,	,	,	Z		148	8	5	punct		
+											
+после	posle	posle	после	R		149	1	3	advmod		Afterwards they took him, they put him on the boat.
+го	go	toј	тој	Pp3msa		149	2	3	obj		
+зедоја	zedoјa	zeme	земе	Vmia3pe		149	3	0	root		
+го	go	toј	тој	Pp3msa		149	4	5	obj		
+кладоја	kladoјa	klade	кладе	Vmia3pe		149	5	3	xcomp		
+во	vo	vo	во	S		149	6	7	case		
+брод+	brod+	brod+	брод+	Nmsnn		149	7	5	obl		
+от	ot	toј	тој	Pd-msn		149	8	7	det	p_nom	
+											
+и	i	i	и	C		150	1	6	cc		And we, all the children were very sad, we were very worried.
+ние	nie	nie	ние	Pp1-pn		150	2	6	nsubj		
+сиве	sive	siot	сиот	A-pn		150	3	2	appos		
+деца+	deca+	dete+	дете+	Nnpny		150	4	2	appos		
+ва	va	ovie	овие	Pd--pn		150	5	4	det	p_nom	
+бевме	bevme	e	е	Vmii1pi		150	6	8	cop		
+многу	mnogu	mnogu	многу	R		150	7	8	amod		
+нажалени	nažaleni	nažalen	нажален	A-pn		150	8	0	root		
+,	,	,	,	Z		150	9	8	punct		
+многу	mnogu	mnogu	многу	R		150	10	11	advmod		
+бевме	bevme	e	е	Vmii1pi		150	11	12	cop		
+насекирани	nasekirani	nasekiran	насекиран	A-pn		150	12	8	xcomp		
+											
+и	i	i	и	C		151	1	4	cc		And then like that his parents heard that he drowned.
+после	posle	posle	после	R		151	2	4	advmod		
+така	taka	taka	така	R		151	3	4	advmod		
+слушнаја	slušnaјa	slušne	слушне	Vmia3pe		151	4	0	root		
+и	i	i	и	C		151	5	6	cc		
+негој+	negoј+	negov+	негов+	A-pn		151	6	4	obl		
+те	te	toj	toj	Pd--pn		151	7	6	det	p_nom	
+дека	deka	deka	дека	C		151	8	10	mark		
+се	se	se	се	Px---a		151	9	10	expl		
+удавил	udavil	udavi	удави	Vmp--se	Amsn	151	10	4	advcl		
+,	,	,	,	Z		151	11	10	punct		
+											
+тие	tie	tie	тие	Pp3-pn		152	1	2	nsubj		They were many children, five, six children were, four, five brothers and two sisters.
+беа	bea	e	е	Vmii3pi		152	2	4	cop		
+поќе	poќe	poveќe	повеќе	R		152	3	4	amod		
+деца	deca	dete	дете	Nnpny		152	4	0	root		
+,	,	,	,	Z		152	5	4	punct		
+пет	pet	pet	пет	M		152	6	9	nummod		
+,	,	,	,	Z		152	7	6	punct		
+шест	šest	šest	шест	M		152	8	6	conj		
+деца	deca	dete	дете	Nnpny		152	9	4	xcomp		
+беа	bea	e	е	Vmii3pi		152	10	9	cop		
+,	,	,	,	Z		152	11	9	punct		
+четири	četiri	četiri	четири	M		152	12	15	nummod		
+,	,	,	,	Z		152	13	12	punct		
+пет	pet	pet	пет	M		152	14	12	conj		
+браќа	braќa	brat	брат	Nmpny		152	15	9	conj		
+и	i	i	и	C		152	16	18	cc		
+две	dve	dva	два	M		152	17	18	nummod		
+сестри	sestri	sestra	сестра	Nfpny		152	18	15	conj		
+.	.	.	.	Z		152	19	18	punct		
+											
+и	i	i	и	C		153	1	3	cc		And then they found out.
+после	posle	posle	после	R		153	2	3	advmod		
+разбраја	razbraјa	razbere	разбере	Vmia3pe		153	3	0	root		
+											
+и	i	i	и	C		154	1	5	cc		And then it left me an image when the bus arrived.
+после	posle	posle	после	R		154	2	5	advmod		
+слика	slika	slika	слика	Nfsnn		154	3	5	nsubj		
+ми	mi	јas	јас	Pp1-sd		154	4	5	obl	iobj	
+остави	ostavi	ostavi	остави	Vmia3se		154	5	0	root		
+кај	kaј	kaј	кај	Pq		154	6	10	mark		
+шо	šo	što	што	Pq		154	7	10	mark		
+автобус+	avtobus+	avtobus+	автобус+	Nmsnn		154	8	10	csubj		
+от	ot	toј	тој	Pd-msn		154	9	8	det	p_nom	
+стигна	stigna	stigne	стигне	Vmia3se		154	10	5	advcl		
+											
+ние	nie	nie	ние	Pp1-pn		155	1	4	nsubj		We, the children, arrived with a bus here, in Resen.
+деца+	deca+	dete+	дете+	Nnpny		155	2	1	appos		
+ва	va	ovoј	овој	Pd--pn		155	3	2	det	p_nom	
+стигнавме	stignavme	stigne	стигне	Vmia1se		155	4	0	root		
+со	so	so	со	S		155	5	6	case		
+автобус	avtobus	avtobus	автобус	Nmsnn		155	6	4	obl		
+овде	ovde	ovde	овде	R		155	7	4	advmod		
+во	vo	vo	во	S		155	8	9	case		
+ресен	resen	Resen	Ресен	Nmsnn		155	9	4	obl		
+											
+и	i	i	и	C		156	1	8	cc		And then one of his brothers was running after the bus.
+после	posle	posle	после	R		156	2	8	advmod		
+едно	edno	eden	еден	Pi-nsn		156	3	8	nsubj		
+од	od	od	од	S		156	4	5	case		
+братчина+	bratčina+	brat+	брат+	Nmpny		156	5	3	nmod	dim	
+та	ta	toј	тој	Pd--pn		156	6	5	det	p_nom	
+негови	negovi	negov	негов	A-pn		156	7	5	amod	poss	
+трчаше	trčaše	trča	трча	Vmii3si		156	8	0	root		
+по	po	po	по	S		156	9	10	case		
+автобус+	avtobus+	avtobus+	автобус+	Nmsnn		156	10	8	obl		
+от	ot	toј	тој	Pd-msn		156	11	10	det	p_nom	
+,	,	,	,	Z		156	12	8	punct		
+											
+значи	znači	znači	значи	Qo		157	1	3	discourse		So to see, to hear if it's true that that happened.
+да	da	da	да	C		157	2	3	fixed	inf	
+видит	vidit	vidi	види	Vmip3se		157	3	0	root		
+да	da	da	да	C		157	4	5	fixed	inf	
+слушнит	slušnit	slušne	слушне	Vmip3se		157	5	3	xcomp		
+дали	dali	dali	дали	Qq		157	6	8	advmod		
+е	e	e	е	Vmip3si		157	7	8	cop		
+вистина	vistina	vistina	вистина	Nfsnn		157	8	5	xcomp		
+дека	deka	deka	дека	C		157	9	12	mark		
+тоа	toa	toa	тоа	Pp3nsn		157	10	12	nsubj		
+се	se	se	се	Px---a		157	11	12	expl		
+случи	sluči	sluči	случи	Vmia3se		157	12	8	advcl		
+											
+и	i	i	и	C		158	1	6	cc		And so that incident left a very sad impression on me.
+така	taka	taka	така	R		158	2	6	advmod		
+таа	taa	taa	таа	Pd-fsn		158	3	4	det		
+случка	slučka	slučka	случка	Nfsnn		158	4	6	nsbuj		
+ми	mi	јas	јас	Pp1-sd		158	5	6	obl	iobj	
+оставе	ostave	ostavi	остави	Vmia3se		158	6	0	root		
+голем	golem	golem	голем	Amsn		158	7	10	amod		
+така	taka	taka	така	R		158	8	6	advmod		
+тажен	tažen	tažen	тажен	Amsn		158	9	10	amod		
+впечаток	vpečatok	vpečatok	впечаток	Nmsnn		158	10	6	obj		
+,	,	,	,	Z		158	11	6	punct		
+											
+ми	mi	јas	јас	Pp1-sd		159	1	3	obl	iobj	I was sad because he separated from us.
+беше	beše	e	е	Vmii3si		159	2	3	cop		
+жал	žal	žal	жал	Nfsnn		159	3	0	root		
+дека	deka	deka	дека	C		159	4	7	mark		
+тој	toј	toј	тој	Pp3msn		159	5	7	nsubj		
+се	se	se	се	Px---a		159	6	7	expl		
+оделе	odele	oddeli	оддели	Vmia3se		159	7	3	advcl		
+од	od	od	од	S		159	8	9	case		
+нас	nas	nie	ние	Pp1-pa		159	9	7	obl		
+,	,	,	,	Z		159	10	7	punct		
+											
+му	mu	toј	тој	Pp3msd		160	1	3	obl	iobj	He was shy to bathe with the other children, you understand me?
+беше	beše	e	е	Vmii3si		160	2	3	cop		
+срам	sram	sram	срам	Nmsnn		160	3	0	root		
+да	da	da	да	C		160	4	6	fixed	inf	
+се	se	se	се	Px---a		160	5	6	expl		
+капит	kapit	kapa	капа	Vmip3si		160	6	3	xcomp		
+со	so	so	со	S		160	7	8	case		
+други+	drugi+	drug+	друг+	A-pn		160	8	10	amod		
+те	te	toј	тој	Pd--pn		160	9	8	det	p_nom	
+деца	deca	dete	дете	Nnpny		160	10	6	obl		
+,	,	,	,	Z		160	11	6	punct		
+ме	me	јas	јас	Pp1-sa		160	12	13	obj		
+разбираш	razbiraš	razbira	разбира	Vmip2si		160	13	6	xcomp		
+?	?	?	?	Z		160	14	13	punct		
+											
+и	i	i	и	C		161	1	4	cc		And that left great, like some deep sorrow in me.
+то	to	toa	тоа	Pp3nsn		161	2	4	nsubj		
+ми	mi	јas	јас	Pp1-sd		161	3	4	obl	iobj	
+оставе	ostave	ostavi	остави	Vmia3se		161	4	0	root		
+голема	golema	golem	голем	Afsn		161	5	9	amod		
+така	taka	taka	така	R		161	6	4	advmod		
+некоја	nekoјa	nekoј	некој	Pi-fsn		161	7	9	amod		
+длабока	dlaboka	dlabok	длабок	Afsn		161	8	9	amod		
+жалос	žalos	žalost	жалост	Nfsnn		161	9	4	obj		
+во	vo	vo	во	S		161	10	11	case		
+мене	mene	јas	јас	Pp1-sa		161	11	4	obl		
+,	,	,	,	Z		161	12	4	punct		
+											
+како	kako	kako	како	S		162	1	2	case		As poor, he separeted from the children and drowned.
+сиромав	siromav	siromav	сиромав	Amsn		162	2	4	nsubj		
+се	se	se	се	Px---a		162	3	4	expl		
+оделе	odele	oddeli	оддели	Vmia3se		162	4	0	root		
+од	od	od	од	S		162	5	6	case		
+деца+	deca+	dete+	дете+	Nnpny		162	6	4	obl		
+та	ta	toј	тој	Pd--pn		162	7	6	det	p_nom	
+и	i	i	и	C		162	8	10	cc		
+се	se	se	се	Px---a		162	9	10	expl		
+удаве	udave	udavi	удави	Vmia3se		162	10	4	xcomp		
+											
+тој	toј	toј	тој	Pp3msn		163	1	2	nsubj		He was helpless.
+беспомошен	bespomošen	bespomošen	беспомошен	Amsn		163	2	0	root		
+беше	beše	e	е	Vmii3si		163	3	2	cop		
+,	,	,	,	Z		163	4	2	punct		
+											
+да	da	da	да	C		164	1	2	mark		If he was with everyone together, where everyone bathed, someone from the teachers would have seen him, someone, anyone, they would have saved him.
+беше	beše	e	е	Vmii3si		164	2	18	advcl		
+со	so	so	со	S		164	3	4	case		
+сите	site	siot	сиот	Pi--pn		164	4	2	obl		
+заедно	zaedno	zaedno	заедно	R		164	5	2	advmod		
+кај	kaј	kaј	кај	Pq		164	6	9	mark		
+шо	šo	što	што	Pr		164	7	9	mark		
+се	se	se	се	Px---a		164	8	9	expl		
+капеа	kapea	kape	капе	Vmii3pi		164	9	2	advcl		
+сите	site	siot	сиот	Pi--pn		164	10	9	nsubj		
+,	,	,	,	Z		164	11	9	punct		
+некој	nekoј	nekoј	некој	Pi-msn		164	12	18	nsubj		
+од	od	od	од	S		164	13	14	case		
+учители+	učiteli+	učitel+	учител+	Nmpny		164	14	12	nmod		
+те	te	toј	тој	Pd--pn		164	15	14	det	p_nom	
+ќе	ќe	ќe	ќе	Vaip		164	16	18	aux	hab	
+го	go	toј	тој	Pp3msa		164	17	18	obj		
+видеше	videše	vide	виде	Vmii3se		164	18	0	root		
+,	,	,	,	Z		164	19	18	punct		
+никој	nikoј	nikoј	никој	Pi-msn		164	20	12	appos		
+било	bilo	bilo	било	Q		164	21	22	amod		
+кој	koј	koј	кој	Pr		164	22	20	nmod		
+ќе	ќe	ќe	ќе	Vaip		164	23	25	aux	hab	
+го	go	toј	тој	Pp3msa		164	24	25	obj		
+спасеа	spasea	spasi	спаси	Vmii3se		164	25	18	xcomp		
+.	.	.	.	Z		164	26	25	punct		
+											
+значи	znači	znači	значи	Qo		165	1	5	discourse		So, that incident stayed with me.
+таа	taa	taa	таа	Pd-fsn		165	2	3	det		
+случка	slučka	slučka	случка	Nfsnn		165	3	5	nsubj		
+ми	mi	јas	јас	Pp1-sd		165	4	5	obl	iobj	
+остана	ostana	ostane	остане	Vmia3se		165	5	0	root		
+											
+бев	bev	e	е	Vmii1si		166	1	4	cop		I was around second year of high school.
+некаде	nekade	nekade	некаде	R		166	2	1	advmod		
+втора	vtora	vtor	втор	Afsn		166	3	4	nummod		
+година	godina	godina	година	Nfsnn		166	4	0	root		
+во	vo	vo	во	S		166	5	6	case		
+гимназија	gimnaziјa	gimnaziјa	гимназија	Nfsnn		166	6	4	nmod		
+.	.	.	.	Z		166	7	4	punct		
+											
+да	da	da	да	Q		167	1	3	discourse		Yes, sad image indeed.
+тажна	tažna	tažen	тажен	Afsn		167	2	3	amod		
+слика	slika	slika	слика	Nfsnn		167	3	0	root		
+навистина	navistina	navistina	навистина	Qo		167	4	3	amod		
+,	,	,	,	Z		167	5	3	punct		
+											
+многу	mnogu	mnogu	многу	R		168	1	2	advmod		Many times I remember that image of that child when he died.
+пати	pati	pat	пат	Nmpnn		168	2	4	advmod		
+се	se	se	се	Px---a		168	3	4	expl		
+сеќавам	seќavam	seќava	сеќава	Vmip1si		168	4	0	root		
+на	na	na	на	S		168	5	7	case		
+таа	taa	taa	таа	Pd-fsn		168	6	7	det		
+слика	slika	slika	слика	Nfsnn		168	7	4	obl		
+за	za	za	за	S		168	8	10	case		
+то	to	toa	тоа	Pd-nsn		168	9	10	det		
+дете	dete	dete	дете	Nnsny		168	10	12	nsubj		
+ко	ko	koga	кога	C		168	11	12	mark		
+загина	zagina	zagine	загине	Vmia3se		168	12	4	advcl		
+.	.	.	.	Z		168	13	12	punct		
+											
+да	da	da	да	Q		169	1	2	discourse		Yes, we were buddies, friends, everyone hung out.
+другари	drugari	drugar	другар	Nmpny		169	2	0	root		
+бевме	bevme	e	е	Vmii1pi		169	3	2	cop		
+пријатели	priјateli	priјatel	пријател	Nmpny		169	4	2	appos		
+,	,	,	,	Z		169	5	2	punct		
+си	si	si	си	Px---d		169	6	8	expl		
+се	se	se	се	Px---a		169	7	8	expl		
+дружевме	druževme	druži	дружи	Vmii1pi		169	8	2	conj		
+сите	site	siot	сиот	Pi--pn		169	9	8	nsubj		
+.	.	.	.	Z		169	10	8	punct		
+											
+и	i	i	и	C		170	1	3	cc		And I say to you, I am really sorry now that I remembered this incident.
+ти	ti	ti	ти	Pp2-sd		170	2	3	obl	iobj	
+викам	vikam	vika	вика	Vmip1si		170	3	0	root		
+баш	baš	baš	баш	Q		170	4	7	advmod		
+ми	mi	јas	јас	Pp1-sd		170	5	7	obl	iobj	
+е	e	e	е	Vmip3si		170	6	7	cop		
+криво	krivo	krivo	криво	R		170	7	3	xcomp		
+сеа	sea	sega	сега	R		170	8	7	advmod		
+шо	šo	što	што	Pr		170	9	11	mark		
+ми	mi	јas	јас	Pp1-sd		170	10	11	obl	iobj	
+текна	tekna	tekne	текне	Vmia1se		170	11	7	advcl		
+ево	evo	eve	еве	Qd		170	12	11	discourse		
+за	za	za	за	S		170	13	15	case		
+ова	ova	ovoј	овој	Pd-fsn		170	14	15	det		
+случка	slučka	slučka	случка	Nfsnn		170	15	11	obl		
+											
+и	i	i	и	C		171	1	4	cc		And maybe I shouldn't have told it but it came on my mind.
+можда	možda	možebi	можеби	Qo		171	2	4	discourse		
+не	ne	ne	не	Qz		171	3	4	advmod		
+требеше	trebeše	treba	треба	Vaii3si		171	4	8	aux		
+и	i	i	и	C		171	5	8	cc		
+да	da	da	да	C		171	6	8	fixed	inf	
+а	a	toј	тој	Pp3fsa		171	7	8	obj		
+кажвам	kažvam	kažuva	кажува	Vmip1si		171	8	0	root		
+ама	ama	ama	ама	C		171	9	12	cc		
+ево	evo	eve	еве	Qd		171	10	12	discourse		
+ми	mi	јas	јас	Pp1-sd		171	11	12	obl	iobj	
+дојде	doјde	doјde	дојде	Vmia1se		171	12	8	xcomp		
+на	na	na	на	S		171	13	14	case		
+памет	pamet	pamet	памет	Nmsnn		171	14	12	obl		
+.	.	.	.	Z		171	15	12	punct		
+											Very sad image.
+многу	mnogu	mnogu	многу	R		172	1	2	amod		
+тажна	tažna	tažen	тажен	Afsn		172	2	3	amod		
+слика	slika	slika	слика	Nfsnn		172	3	0	root		
+.	.	.	.	Z		172	4	3	punct		
+											
+а	a	a	а	C		173	1	6	cc		And so, what else to say?
+вака	vaka	vaka	вака	R		173	2	6	advmod		
+друго	drugo	drugo	друго	R		173	3	6	advmod		
+шо	šo	što	што	Pr		173	4	6	mark		
+да	da	da	да	C		173	5	6	fixed	inf	
+кажам	kažam	kaže	каже	Vmip1se		173	6	0	root		
+											
+друго	drugo	drugo	друго	R		174	1	2	advmod		There was something else.
+имаше	imaše	ima	има	Vmii3si		174	2	0	root		
+											
+и	i	i	и	C		175	1	2	cc		And I think that sad incident was the only one, thank God.
+мислам	mislam	misli	мисли	Vmip1si		175	2	0	root		
+та	ta	taa	таа	Pd-fsn		175	3	4	det		
+тажна	tažna	tažen	тажен	Afsn		175	4	5	amod		
+случка	slučka	slučka	случка	Nfsnn		175	5	7	nsubj		
+беше	beše	e	е	Vmii3si		175	6	7	cop		
+единствена	edinstvena	edinstven	единствен	Afsn		175	7	2	conj		
+,	,	,	,	Z		175	8	7	punct		
+фала	fala	fala	фала	I		175	9	7	discourse		
+му	mu	toј	тој	Pp3msd		175	10	9	expl		
+на	na	na	на	S		175	11	12	case		
+господ	gospod	Gospod	Господ	Nmsny		175	12	9	obl		
+.	.	.	.	Z		175	13	9	punct		
+											
+убава	ubava	ubav	убав	Afsn		176	1	2	amod		Nice event was, well, this, that we hung out.
+случка	slučka	slučka	случка	Nfsnn		176	2	3	nsubj		
+беше	beše	e	е	Vmii3si		176	3	5	cop		
+е	e	e	е	I		176	4	5	discourse		
+ова	ova	ovoј	овој	Pd-nsn		176	5	0	root		
+шо	šo	što	што	Pr		176	6	8	mark		
+се	se	se	се	Px---a		176	7	8	expl		
+дружевме	druževme	druži	дружи	Vmii1pi		176	8	5	acl		
+,	,	,	,	Z		176	9	8	punct		
+											
+многу	mnogu	mnogu	многу	R		177	1	2	amod		Very nice memories came to me, when everyone hung out.
+убави	ubavi	ubav	убав	A-pn		177	2	3	amod		
+спомени	spomeni	spomen	спомен	Nmpnn		177	3	5	nsubj		
+ми	mi	јas	јас	Pp1-sd		177	4	5	obl	iobj	
+дојдоја	doјdoјa	doјde	дојде	Vmia1pe		177	5	0	root		
+кога	koga	koga	кога	R		177	6	8	advmod		
+се	se	se	се	Px---a		177	7	8	expl		
+дружевме	druževme	druži	дружи	Vmii1pi		177	8	5	conj		
+сите	site	siot	сиот	Pi--pn		177	9	8	nsubj		
+											
+ко	ko	koga	кога	R		178	1	3	advmod		When we would go on school vacation, either to the lake, either we would go in other towns like that.
+ќе	ќe	ќe	ќе	Vaip		178	2	3	aux	hab	
+одевме	odevme	odi	оди	Vmii1pi		178	3	0	root		
+на	na	na	на	S		178	4	6	case		
+школски	školski	školski	школски	Amsn		178	5	6	amod		
+распуст	raspust	raspust	распуст	Nmsnn		178	6	3	obl		
+,	,	,	,	Z		178	7	3	punct		
+било	bilo	bilo	било	Q		178	8	10	discourse		
+на	na	na	на	S		178	9	10	case		
+езеро	ezero	ezero	езеро	Nnsnn		178	10	6	nmod		
+,	,	,	,	Z		178	11	10	punct		
+било	bilo	bilo	било	Q		178	12	14	discourse		
+ќе	ќe	ќe	ќе	Vaip		178	13	14	aux	hab	
+одевме	odevme	odi	оди	Vmii1pi		178	14	3	xcomp		
+во	vo	vo	во	S		178	15	17	case		
+други	drugi	drug	друг	A-pn		178	16	17	amod		
+градови	gradovi	grad	град	Nmpnn		178	17	14	obl		
+така	taka	taka	така	R		178	18	14	advmod		
+,	,	,	,	Z		178	19	14	punct		
+											
+на	na	na	на	S		179	1	2	case		For example Prilep, Bitola, here are close or Ohrid and Struga we would go.
+пример	primer	primer	пример	Nmsnn		179	2	10	discourse		
+прилеп	prilep	Prilep	Прилеп	Nmsnn		179	3	10	nsubj		
+,	,	,	,	Z		179	4	3	punct		
+битола	bitola	Bitola	Битола	Nfsnn		179	5	3	conj		
+,	,	,	,	Z		179	6	5	punct		
+овде	ovde	ovde	овде	R		179	7	10	advmod		
+ми	mi	јas	јас	Pp1-sd		179	8	10	obl	iobj	
+се	se	e	е	Px---a		179	9	10	cop		
+блиски	bliski	blizok	близок	A-pn		179	10	0	root		
+или	ili	ili	или	C		179	11	12	cc		
+охрид	oxrid	Oxrid	Охрид	Nmsnn		179	12	16	nsubj		
+и	i	i	и	C		179	13	14	cc		
+струга	struga	Struga	Струга	Nfsnn		179	14	12	conj		
+ќе	ќe	ќe	ќе	Vaip		179	15	16	aux	hab	
+одевме	odevme	odi	оди	Vmii1pi		179	16	10	conj		
+											
+то	to	toa	тоа	Pp3nsn		180	1	5	nsubj		That was regular vacation and so.
+ни	ni	nie	ние	Pp1-pd		180	2	3	obl	iobj	
+беше	beše	e	е	Vmii3si		180	3	5	cop		
+редовно	redovno	redovno	редовно	Ansn		180	4	5	amod		
+одење	odenje	odenje	одење	Nnsnn		180	5	0	root		
+и	i	i	и	C		180	6	7	cc		
+така	taka	taka	така	R		180	7	5	discourse		
+.	.	.	.	Z		180	8	5	punct		
+											
+а	a	a	а	C		181	1	3	cc		And after that, about the school years.
+после	posle	posle	после	R		181	2	3	case		
+то	to	toa	тоа	Pp3nsn		181	3	7	obl		
+за	za	za	за	S		181	4	7	case		
+школски+	školski+	školski+	школски+	A-pn		181	5	7	amod		
+те	te	toј	тој	Pd--pn		181	6	5	det	p_nom	
+години	godini	godina	година	Nfpnn		181	7	0	root		
+,	,	,	,	Z		181	8	7	punct		
+											
+а	a	a	а	C		182	1	5	cc		And by the way, when I finished the studies, I also was really engaged in handcraft, like embroidery and knitting, and so.
+иначе	inače	inače	иначе	Qo		182	2	5	discourse		
+кога	koga	koga	кога	R		182	3	5	mark		
+ја	јa	taa	таа	Pp3fsa		182	4	5	expl		
+завршив	završiv	završi	заврши	Vmia1se		182	5	13	advcl		
+студија+	studiјa+	studiјa+	студија+	Nfsnn		182	6	5	obj		
+та	ta	toј	тој	Pd-fsn		182	7	6	det	p_nom	
+исто	isto	isto	исто	R		182	8	9	advmod		
+така	taka	taka	така	R		182	9	13	advmod		
+јас	јas	јas	јас	Pp1-sn		182	10	13	nsubj		
+многу	mnogu	mnogu	многу	R		182	11	13	advmod		
+се	se	se	се	Px---a		182	12	13	expl		
+занимавав	zanimavav	zanimava	занимава	Vmii1si		182	13	0	root		
+со	so	so	со	S		182	14	15	case		
+рачна	račna	račen	рачен	Afsn		182	15	16	amod		
+изработка	izrabotka	izrabotka	изработка	Nfsnn		182	16	13	obl		
+на	na	na	на	S		182	17	18	case		
+пример	primer	primer	пример	Nmsnn		182	18	13	discourse		
+везејне	vezeјne	vezenje	везење	Nnsnn		182	19	16	nmod		
+,	,	,	,	Z		182	20	13	punct		
+плетејне	pleteјne	pletenje	плетење	Nnsnn		182	21	19	conj		
+и	i	i	и	C		182	22	23	cc		
+така	taka	taka	така	R		182	23	13	discourse		
+											
+то	to	toa	тоа	Pp3nsn		183	1	2	nsubj		That are very, I knitted, embroidered, besides the studying.
+се	se	sum	сум	Vmip3pi		183	2	0	root		
+многу	mnogu	mnogu	многу	R		183	3	2	advmod		
+,	,	,	,	Z		183	4	2	punct		
+плетев	pletev	plete	плете	Vmii1si		183	5	2	xcomp		
+,	,	,	,	Z		183	6	5	punct		
+везев	vezev	veze	везе	Vmii1si		183	7	5	xcomp		
+,	,	,	,	Z		183	8	7	punct		
+покрај	pokraј	pokraј	покрај	S		183	9	10	case		
+учење+	učenje+	učenje+	учење+	Nnsnn		183	10	7	obl		
+то	to	toј	тој	Pd-nsn		183	11	10	det	p_nom	
+											
+и	i	i	и	C		183	1	3	cc		And afterwards, once I got a prize for
+после	posle	posle	после	R		183	2	3	advmod		
+добив	dobiv	dobi	доби	Vmia1se		183	3	0	root		
+еднуш	ednuš	ednaš	еднаш	R		183	4	3	advmod		
+една	edna	eden	еден	Pi-fsn		183	5	6	det	indf	
+награда	nagrada	nagrada	награда	Nfsnn		183	6	3	obj		
+за	za	za	за	S		183	7	6	case		
+											
+тогаш	togaš	togaš	тогаш	R		184	1	2	advmod		Then it was Yugoslavija, together a federation and everyone that competed.
+беше	beše	e	е	Vmii3si		184	2	3	cop		
+југославија	јugoslaviјa	Јugoslaviјa	Југославија	Nfsnn		184	3	0	root		
+,	,	,	,	Z		184	4	3	punct		
+заедно	zaedno	zaedno	заедно	R		184	5	3	advmod		
+федерација	federaciјa	federaciјa	федерација	Nfsnn		184	6	3	nmod		
+и	i	i	и	C		184	7	11	cc		
+сите	site	siot	сиот	Pi--pn		184	8	11	nsubj		
+шо	šo	što	што	Pr		184	9	11	mark		
+са	sa	se	се	Px---a		184	10	11	expl		
+такмичиме	takmičime	takmiča	такмича	Vmip1pi		184	11	3	advcl		
+											
+да	da	da	да	C		185	1	2	fixed	inf	Let's say.
+речиме	rečime	reče	рече	Vmip1pe		185	2	0	root		
+											
+било	bilo	bilo	било	Q		186	1	2	amod		Anything that happened, happened together, for all of Yugoslavia.
+шо	šo	što	што	Pr		186	2	5	nsubj		
+да	da	da	да	C		186	3	5	fixed	inf	
+се	se	se	се	Px---a		186	4	5	expl		
+случвеше	slučveše	slučuva	случува	Vmii3si		186	5	7	advcl		
+се	se	se	се	Px---a		186	6	7	expl		
+случвеше	slučveše	slučuva	случува	Vmii3si		186	7	0	root		
+целосно	celosno	celsno	целсно	R		186	8	7	advmod		
+за	za	za	за	S		186	9	10	case		
+цела	cela	cel	цел	Afsn		186	10	11	amod		
+југославија	јugoslaviјa	Јugoslaviјa	Југославија	Nfsnn		186	11	7	obl		
+,	,	,	,	Z		186	12	7	punct		
+											
+си	si	si	си	Px---d		187	1	3	expl		Everyone hang out.
+се	se	se	се	Px---a		187	2	3	expl		
+дружевме	druževme	druži	дружи	Vmii1pi		187	3	0	root		
+											
+мислам	mislam	misli	мисли	Vmip1si		188	1	3	discourse		I mean, it was organised.
+имаше	imaše	ima	има	Vmii3si		188	2	3	cop		
+организирано	organizirano	organizira	организира	Vmp--se	Ansn	188	3	0	root		
+											
+да	da	da	да	C		189	1	2	fixed	inf	Let's say.
+речиме	rečime	reče	рече	Vmip1pe		189	2	0	root		
+											
+ќе	ќe	ќe	ќе	Vaip		190	1	2	aux	hab	They would organise group trips, to visit Ljubljana, Zagreb or whatever.
+организираја	organiziraјa	organizira	организира	Vmii3pi		190	2	0	root		
+групни	grupni	grupen	групен	A-pn		190	3	4	amod		
+патувања	patuvanja	patuvanje	патување	Nnpnn		190	4	2	obj		
+,	,	,	,	Z		190	5	2	punct		
+да	da	da	да	C		190	6	8	fixed	inf	
+ја	јa	taa	таа	Pp3fsa		190	7	8	expl		
+посетиме	posetime	poseti	посети	Vmip1pe		190	8	2	xcomp		
+љубљана	ljubljana	Ljubljana	Љубљана	Nfsnn		190	9	8	obj		
+,	,	,	,	Z		190	10	8	punct		
+загреб	zagreb	Zagreb	Загреб	Nmsnn		190	11	9	conj		
+или	ili	ili	или	C		190	12	14	cc		
+било	bilo	bilo	било	Q		190	13	14	amod		
+како	kako	kako	како	R		190	14	8	advmod		
+											
+одевме	odevme	odi	оди	Vmii1pi		191	1	0	root		We would go like that, who cоuld and who couldn't.
+така	taka	taka	така	R		191	2	1	advmod		
+кој	koј	koј	кој	Pr		191	3	4	nsubj		
+можеше	možeše	može	може	Vmii3si		191	4	1	conj		
+кој	koј	koј	кој	Pr		191	5	7	nsubj		
+не	ne	ne	не	Qz		191	6	7	advmod		
+можеше	možeše	može	може	Vmii3si		191	7	4	conj		
+,	,	,	,	Z		191	8	7	punct		
+											
+па	pa	pa	па	C		192	1	7	cc		So, from that embroidery, I once embroidered a large table cloth with folk embroidery,
+од	od	od	од	S		192	2	3	case		
+тоа	toa	toa	тоа	Pd-nsn		192	3	4	det		
+везење+	vezenje+	vezenje+	везење+	Nnsnn		192	4	7	obl		
+то	to	to	то	Pd-nsn		192	5	4	det	p_nom	
+јас	јas	јas	јас	Pp1-sn		192	6	7	nsubj		
+навезов	navezov	naveze	навезе	Vmia1se		192	7	0	root		
+еднаш	ednaš	ednaš	еднаш	R		192	8	7	advmod		
+еден	eden	eden	еден	Pi-msn		192	9	11	det	indf	
+голем	golem	golem	голем	Amsn		192	10	11	amod		
+чаршав	čaršav	čaršaf	чаршаф	Nmsnn		192	11	7	obj		
+за	za	za	за	S		192	12	13	case		
+маса	masa	masa	маса	Nfsnn		192	13	11	nmod		
+со	so	so	со	S		192	14	15	case		
+народен	naroden	naroden	народен	Amsn		192	15	17	amod		
+вес	ves	vez	вез	Nmsnn		192	16	11	nmod		
+,	,	,	,	Z		192	17	7	punct		
+											
+имаше	imaše	ima	има	Vmii3si		193	1	0	root		There was some competition here from Belgrad, competition from Belgrad.
+некое	nekoe	nekoј	некој	Pi-nsn		193	2	3	det	indf	
+такмичење	takmičenje	takmičenje	такмичење	Nnsnn		193	3	1	obj		
+овдека	ovdeka	ovdeka	овдека	R		193	4	1	advmod		
+од	od	od	од	S		193	5	6	case		
+белград	belgrad	Belgrad	Белград	Nmsnn		193	6	1	obl		
+,	,	,	,	Z		193	7	1	punct		
+такмичење	takmičenje	takmičenje	такмичење	Nnsnn		193	8	3	appos		
+од	od	od	од	S		193	9	10	case		
+белград	belgrad	Belgrad	Белград	Nmsnn		193	10	8	nmod		
+,	,	,	,	Z		193	11	8	punct		
+											
+емисија+	emisiјa+	emisiјa+	емисија+	Nfsnn		194	1	6	obj		The show, wait, what was it called, I forgot the show.
+та	ta	toј	тој	Pd-fsn		194	2	2	det	p_nom	
+чекај	čekaј	čeka	чека	Vmm-2si		194	3	6	discourse		
+како	kako	kako	како	Pq		194	4	6	advmod		
+се	se	se	се	Px---a		194	5	6	expl		
+викаше	vikaše	vika	вика	Vmii3si		194	6	0	root		
+ја	јa	јa	ја	Pp3fsa		194	7	8	expl		
+заборав	zaborav	zaboravi	заборави	Vmia1se		194	8	6	xcomp		
+емисија+	emisiјa+	emisiјa+	емисија+	Nfsnn		194	9	8	obj		
+та	ta	toј	тој	Pd-fsn		194	10	9	det	p_nom	
+.	.	.	.	Z		194	11	8	punct		
+											
+и	i	i	и	C		195	1	4	cc		And on that competition 
+на	na	na	на	S		195	2	3	case		
+то	to	toa	тоа	Pd-nsn		195	3	4	det		
+такмичење	takmičenje	takmičanje	такмичање	Nnsnn		195	4	0	root		
+											
+јас	јas	јas	јас	Pp1-sn		196	1	2	nsubj		I worked here as for dentist in the village Carev Dvor,
+работев	rabotev	raboti	работи	Vmii1si		196	2	0	root		
+тука	tuka	tuka	тука	R		196	3	2	advmod		
+како	kako	kako	како	S		196	4	5	case		
+за	za	za	за	S		196	5	6	case		
+стоматолог	stomatolog	stomatolog	стоматолог	Nmsny		196	6	2	obl		
+во	vo	vo	во	S		196	7	8	case		
+село+	selo+	selo+	село+	Nnsnn		196	8	2	obl		
+то	to	toј	тој	Pd-nsn		196	9	8	det	p_nom	
+царевдвор	carevdvor	Carev Dvor	Царев Двор	Nmsnn		196	10	8	flat		
+,	,	,	,	Z		196	11	2	punct		
+											
+работев	rabotev	raboti	работи	Vmii1si		197	1	0	root		I worked and I gave that cloth for
+и	i	i	и	C		197	2	4	cc		
+го	go	toј	тој	Pp3msa		197	3	4	expl		
+дадов	dadov	dade	даде	Vmia1se		197	4	1	xcomp		
+тој	toј	toј	тој	Pd-msn		197	5	6	det		
+чаршав+	čaršav+	čaršaf+	чаршаф+	Nmsnn		197	6	4	obj		
+от	ot	toј	тој	Pd-msn		197	7	6	det	p_nom	
+за	za	za	за	S		197	8	6	case		
+											
+ме	me	јas	јас	Pp1-sa		198	1	2	obj		They asked me if I have.
+прашаја	prašaјa	praša	праша	Vmia3pe		198	2	0	root		
+дали	dali	dali	дали	Qq		198	3	4	advmod		
+имам	imam	ima	има	Vmip1si		198	4	2	xcomp		
+,	,	,	,	Z		198	5	4	punct		
+											
+ме	me	јas	јас	Pp1-sa		199	1	2	obj		They asked me if I have some handcraft.
+опитваја	opitvaјa	opita	опита	Vmia3pe		199	2	0	root		
+дали	dali	dali	дали	Qq		199	3	4	advmod		
+имам	imam	ima	има	Vmip1si		199	4	2	xcomp		
+нешто	nešto	nešto	нешто	Pi-nsn		199	5	6	det	indf	
+изработка	izrabotka	izrabotka	изработка	Nfsnn		199	6	4	obj		
+рачна	račna	račen	рачен	Afsn		199	7	6	amod		
+,	,	,	,	Z		199	8	4	punct		
+											
+јас	јas	јas	јас	Pp1-sn		200	1	3	nsubj		I told him I have a cloth.
+му	mu	toј	тој	Pp3msd		200	2	3	obl	iobj	
+реков	rekov	reče	рече	Vmia1se		200	3	0	root		
+имам	imam	ima	има	Vmip1si		200	4	3	xcomp		
+еден	eden	eden	еден	Pi-msn		200	5	6	det	indf	
+чаршав	čaršav	čaršaf	чаршаф	Nmsnn		200	6	4	obj		
+,	,	,	,	Z		200	7	4	punct		
+											
+па	pa	pa	па	C		201	1	5	cc		So for the cloth I got second prize in all of Yugoslavia.
+за	za	za	за	S		201	2	3	case		
+чаршав+	čaršav+	čaršaf+	чаршаф+	Nmsnn		201	3	5	obl		
+от	ot	toј	тој	Pd-msn		201	4	3	det	p_nom	
+добив	dobiv	dobi	доби	Vmia1se		201	5	0	root		
+втора	vtora	vtor	втор	Afsn		201	6	7	nummod		
+награда	nagrada	nagrada	награда	Nfsnn		201	7	5	obj		
+во	vo	vo	во	S		201	8	9	case		
+цела	cela	cel	цел	Afsn		201	9	10	amod		
+југославија	јugoslaviјa	јugoslaviјa	југославија	Nfsnn		201	10	7	nmod		
+											
+и	i	i	и	C		202	1	3	cc		And I have the cloth, it is here.
+го	go	toј	тој	Pp3msa		202	2	3	expl		
+имам	imam	ima	има	Vmip1si		202	3	0	root		
+чаршав+	čaršav+	čaršaf+	чаршаф+	Nmsnn		202	4	3	obj		
+от	ot	toј	тој	Pd-msn		202	5	4	det	p_nom	
+тука	tuka	tuka	тука	R		202	6	8	advmod		
+ми	mi	јas	јас	Pp1-sd		202	7	8	obl	iobj	
+е	e	e	е	Vmip3si		202	8	3	xcomp		
+,	,	,	,	Z		202	9	8	punct		
+											
+и	i	i	и	C		203	1	15	cc		And from that cloth afterwards from all of Yugoslavia all women with the second prize were in Belgrad for three days.
+од	od	od	од	S		203	2	3	case		
+тој	toј	toј	тој	Pd-msn		203	3	4	det		
+чаршав	čaršav	čaršaf	чаршаф	Nmsnn		203	4	15	obl		
+сетне	setne	setne	сетне	R		203	5	15	advmod		
+од	od	od	од	S		203	6	7	case		
+цела	cela	cel	цел	Afsn		203	7	8	amod		
+југославија	јugoslaviјa	јugoslaviјa	југославија	Nfsnn		203	8	15	obl		
+сите	site	siot	сиот	Pi--pn		203	9	10	amod		
+жени	ženi	žena	жена	Nfpny		203	10	15	nsubj		
+со	so	so	со	S		203	11	12	case		
+втора+	vtora+	vtor+	втор+	Afsn		203	12	14	amod		
+та	ta	toј	тој	Pd-fsn		203	13	12	det	p_nom	
+награда	nagrada	nagrada	награда	Nfsnn		203	14	10	nmod		
+бевме	bevme	e	е	Vmii1pi		203	15	0	root		
+во	vo	vo	во	S		203	16	17	case		
+белгдрад	belgdrad	Belgrad	Белград	Nmsnn		203	17	15	obl		
+три	tri	tri	три	M		203	18	19	nummod		
+дена	dena	den	ден	Nmpnn		203	19	17	nmod		
+,	,	,	,	Z		203	20	15	punct		
+											
+така	taka	taka	така	R		204	1	5	advmod		So, everything was paid, they walked us in Belgrad,
+се	se	sè	сè	P-----		204	2	5	nsubj		
+платено	plateno	plati	плати	Ansn		204	3	0	root		
+ни	ni	nie	ние	Pp1-pd		204	4	5	obl	iobj	
+беше	beše	e	е	Vmii3si		204	5	3	cop		
+нè	nè	nie	ние	Pp1-pa		204	6	7	obj		
+шетаја	šetaјa	šeta	шета	Vmii3pi		204	7	3	xcomp		
+низ	niz	niz	низ	S		204	8	9	case		
+белград	belgrad	Belgrad	Белград	Nmsnn		204	9	7	obl		
+,	,	,	,	Z		204	10	7	punct		
+											
+нè	nè	nie	ние	Pp1-pa		205	1	2	obj		They filmed us also.
+снимаја	snimaјa	snima	снима	Vmii3pi		205	2	0	root		
+исто	isto	isto	исто	R		205	3	4	advmod		
+така	taka	taka	така	R		205	4	2	advmod		
+											
+знање-имање	znanje-imanje	znanje-imanje	знање-имање	Nnsnn		206	1	3	nsubj		Znanje - imanje was the name.
+се	se	se	се	Px---a		206	2	3	expl		
+викаше	vikaše	vika	вика	Vmii3si		206	3	0	root		
+											
+и	i	i	и	C		207	1	4	cc		And it still airs, Znanje - imanje.
+уште	ušte	ušte	уште	R		207	2	4	advmod		
+ја	јa	taa	таа	Pp3fsa		207	3	4	expl		
+имат	imat	ima	има	Vmip3si		207	4	0	root		
+знање-имање	znanje-imanje	znanje-imanje	знање-имање	Nnsnn		207	5	4	obj		
+.	.	.	.	Z		207	6	4	punct		
+											
+и	i	i	и	C		208	1	2	cc		And so, that is a very merry, merry moments,
+така	taka	taka	така	R		208	2	8	advmod		
+,	,	,	,	Z		208	3	2	punct		
+тој	toј	toј	тој	Pp3msn		208	4	8	nsubj		
+ми	mi	јas	јас	Pp1-sd		208	5	6	obl	iobj	
+е	e	e	е	Vmip3si		208	6	8	cop		
+многу	mnogu	mnogu	многу	R		208	7	8	advmod		
+радосен	radosen	radosen	радосен	Amsn		208	8	0	root		
+,	,	,	,	Z		208	9	8	punct		
+радосни	radosni	radosen	радосен	A-pn		208	10	11	amod		
+моменти	momenti	moment	момент	Nmpnn		208	11	8	conj		
+,	,	,	,	Z		208	12	11	punct		
+											
+во	vo	vo	во	S		209	1	2	case		In Belgrad we walked, big city, because we are from small place.
+белград	belgrad	Belgrad	Белград	Nmsnn		209	2	3	obl		
+шетавме	šetavme	šeta	шета	Vmii1pi		209	3	0	root		
+,	,	,	,	Z		209	4	3	punct		
+голем	golem	golem	голем	Amsn		209	5	6	amod		
+град	grad	grad	град	Nmsnn		209	6	2	nmod		
+,	,	,	,	Z		209	7	6	punct		
+зошто	zošto	zošto	зошто	C		209	8	10	mark		
+ние	nie	nie	ние	Pp1-pn		209	9	10	nsubj		
+сме	sme	e	е	Vmip1pi		209	10	3	advcl		
+од	od	od	од	S		209	11	12	case		
+мало	malo	mal	мал	Ansn		209	12	13	amod		
+место	mesto	mesto	место	Nnsnn		209	13	10	obl		
+,	,	,	,	Z		209	14	10	punct		
+											
+па	pa	pa	па	C		210	1	5	cc		And afterwards it was very interesting for us in Belgrad to see, we went to Kalemegdan.
+после	posle	posle	после	R		210	2	5	advmod		
+ни	ni	nie	ние	Pp1-pd		210	3	4	obl	iobj	
+беше	beše	e	е	Vmii3si		210	4	5	cop		
+интересно	interesno	interesno	интересно	R		210	5	0	root		
+многу	mnogu	mnogu	многу	R		210	6	5	advmod		
+во	vo	vo	во	S		210	7	8	case		
+белгдрад	belgdrad	Belgrad	Белград	Nmsnn		210	8	10	obl		
+да	da	da	да	C		210	9	10	fixed	inf	
+видиме	vidime	vidi	види	Vmip1pe		210	10	5	xcomp		
+на	na	na	на	S		210	11	12	case		
+калемегдан	kalemegdan	Kalemegdan	Калемегдан	Nmsnn		210	12	13	obl		
+бевме	bevme	e	е	Vmii1pi		210	13	10	xcomp		
+,	,	,	,	Z		210	14	13	punct		
+											
+та	ta	taa	таа	Pp3fsn		211	1	5	nsubj		That is a very famous place, maybe you've heard of Kalemegdan.
+е	e	e	е	Vmii3si		211	2	5	cop		
+многу	mnogu	mnogu	многу	R		211	3	4	advmod		
+познато	poznato	poznat	познат	Ansn		211	4	5	amod		
+место	mesto	mesto	место	Nnsnn		211	5	0	root		
+,	,	,	,	Z		211	6	5	punct		
+можда	možda	možebi	можеби	Qo		211	7	9	discourse		
+си	si	si	си	Px---d		211	8	9	expl		
+слушнала	slušnala	slušne	слушне	Vmp--se	Afsn	211	9	5	xcomp		
+за	za	za	за	S		211	10	11	case		
+калемегдан	kalemegdan	Kalemegdan	Калемегдан	Nmsnn		211	11	9	obl		
+,	,	,	,	Z		211	12	9	punct		
+											
+таму	tamu	tamu	таму	R		212	1	2	advmod		There we were around the center of the city.
+бевме	bevme	e	е	Vmii1pi		212	2	0	root		
+низ	niz	niz	низ	S		212	3	4	case		
+центар+	centar+	centar+	центар+	Nmsnn		212	4	2	obl		
+от	ot	toј	тој	Pd-msn		212	5	4	det	p_nom	
+на	na	na	на	S		212	6	7	case		
+град+	grad+	grad+	град+	Nmsnn		212	7	4	nmod		
+от	ot	toј	тој	Pd-msn		212	8	7	det	p_nom	
+,	,	,	,	Z		212	9	2	punct		
+											
+ја	јa	taa	таа	Pp3fsa		213	1	2	expl		Also, we visited the church Saint Sava, it is a big temple, maybe you were in it.
+посетивме	posetivme	poseti	посети	Vmii1pe		213	2	0	root		
+исто	isto	isto	исто	R		213	3	2	advmod		
+и	i	i	и	C		213	4	5	cc		
+црква+	crkva+	crkva+	црква+	Nfsnn		213	5	2	obj		
+та	ta	toј	тој	Pd-fsn		213	6	5	det	p_nom	
+свети	sveti	cveti	cвети	Amsny		213	7	8	amod		
+сава	sava	Sava	Сава	Nmsny		213	8	5	flat		
+,	,	,	,	Z		213	9	2	punct		
+голем	golem	golem	голем	Amsn		213	10	11	amod		
+храм	xram	xram	храм	Nmsnn		213	11	2	conj		
+е	e	e	е	Vmii3si		213	12	11	cop		
+тој	toј	toј	тој	Pp3msn		213	13	11	nsubj		
+можда	možda	možebi	можеби	Qo		213	14	16	discourse		
+си	si	si	си	Px---d		213	15	16	expl		
+била	bila	e	е	Vmp-3si	Afsn	213	16	11	xcomp		
+во	vo	vo	во	S		213	17	18	case		
+него	nego	toј	тој	Pp3msa		213	18	16	obl		
+,	,	,	,	Z		213	19	16	punct		
+											
+е	e	e	е	I		214	1	3	discourse		So it was then, when we were fourty years ago it was, only the walls were, there were no frescoes, there was nothing.
+тогаш	togaš	togaš	тогаш	R		214	2	3	advmod		
+беше	beše	e	е	Vmii3si		214	3	0	root		
+ко	ko	koga	кога	C		214	4	5	mark		
+бевме	bevme	e	е	Vmii1pi		214	5	3	advcl		
+ние	nie	nie	ние	Pp1-pn		214	6	5	nsbuj		
+пред	pred	pred	пред	S		214	7	8	case		
+четириесет	četirieset	četirieset	четириесет	M		214	8	9	nummod		
+години	godini	godina	година	Nfpnn		214	9	10	obl		
+беше	beše	e	е	Vmii3si		214	10	5	xcomp		
+само	samo	samo	само	R		214	11	12	advmod		
+зидови+	zidovi+	źid+	ѕид+	Nmsnn		214	12	14	nsubj		
+те	te	toј	тој	Pd--pn		214	13	12	det	p_nom	
+беа	bea	e	е	Vmii3pi		214	14	10	conj		
+,	,	,	,	Z		214	15	14	punct		
+немаше	nemaše	nema	нема	Vmii3si		214	16	14	xcomp		
+фрески	freski	freska	фреска	Nfsnn		214	17	16	obj		
+ништо	ništo	ništo	ништо	R		214	18	19	obj		
+немаше	nemaše	nema	нема	Vmii3si		214	19	16	xcomp		
+,	,	,	,	Z		214	20	19	punct		
+											
+ни	ni	nie	ние	Pp1-pd		215	1	2	obl	iobj	They told us that the Germans used is as stock, as stock, as some stock.
+кажвеа	kažvea	kažuva	кажува	Vmii3pi		215	2	0	root		
+дека	deka	deka	дека	C		215	3	8	mark		
+овие	ovie	ovoј	овој	Pd--pn		215	4	5	det		
+германци+	germanci+	Germanec	Германец	Nmpny		215	5	8	nsubj		
+те	te	toј	тој	Pd--pn		215	6	5	det	p_nom	
+ја	јa	taa	таа	Pp3fsa		215	7	8	obj		
+користеле	koristele	koristi	користи	Vmp--pi	A-pn	215	8	2	advcl		
+како	kako	kako	како	S		215	9	10	case		
+лагер	lager	lager	лагер	Nmsnn		215	10	8	obl		
+,	,	,	,	Z		215	11	8	punct		
+како	kako	kako	како	S		215	12	13	case		
+лагер	lager	lager	лагер	Nmsnn		215	13	10	appos		
+како	kako	kako	како	S		215	14	15	case		
+некој	nekoј	nekoј	некој	Pi-msn		215	15	17	amod		
+шо	šo	što	што	Pr		215	16	17	discourse		
+магацин	magacin	magacin	магацин	Nmsnn		215	17	13	conj		
+,	,	,	,	Z		215	18	17	punct		
+											
+којни	koјni	konj	коњ	Nmpny		216	1	2	obj		They held horses inside, as everywhere they were sinners, they didn't like the churches.
+чувале	čuvale	čuva	чува	Vmp--pi	A-pn	216	2	0	root		
+внатре	vnatre	vnatre	внатре	R		216	3	2	advmod		
+како	kako	kako	како	S		216	4	5	case		
+насекаде	nasekade	nasekade	насекаде	R		216	5	8	advmod		
+шо	šo	što	што	Pr		216	6	8	mark		
+беа	bea	e	е	Vmii3pi		216	7	8	cop		
+безбожници	bezbožnici	bezbožnik	безбожник	Nmpny		216	8	2	advcl		
+шо	šo	što	што	Pr		216	9	12	mark		
+не	ne	ne	не	Qz		216	10	12	advmod		
+ги	gi	tie	тие	Pp3-pa		216	11	12	expl		
+сакаја	sakaјa	saka	сака	Vmii3pi		216	12	8	advcl		
+цркви+	crkvi+	crkva+	црква+	Nfsnn		216	13	12	obj		
+те	te	toј	тој	Pd--pn		216	14	13	det	p_nom	
+.	.	.	.	Z		216	15	12	punct		
+											
+и	i	i	и	C		217	1	5	cc		And I had really big wish that temple to be restored and to be made again, to paint, to paint him with frescoes all stuff.
+многу	mnogu	mnogu	многу	R		217	2	3	advmod		
+голема	golema	golem	голем	Afsn		217	3	4	amod		
+желба	želba	želba	желба	Nfsnn		217	4	5	obj		
+имав	imav	ima	има	Vmii1si		217	5	0	root		
+тој	toј	toј	тој	Pd-msn		217	6	7	det		
+храм	xram	xram	храм	Nmsnn		217	7	10	obj		
+да	da	da	да	C		217	8	10	fixed	inf	
+го	go	toј	тој	Pp3msa		217	9	10	expl		
+обноват	obnovat	obnovi	обнови	Vmip3pe		217	10	5	xcomp		
+и	i	i	и	C		217	11	14	cc		
+да	da	da	да	C		217	12	14	fixed	inf	
+го	go	toј	тој	Pp3msa		217	13	14	expl		
+направат	napravat	napravi	направи	Vmip3pe		217	14	10	xcomp		
+пак	pak	pak	пак	R		217	15	14	advmod		
+да	da	da	да	C		217	16	18	fixed	inf	
+го	go	toј	тој	Pp3msa		217	17	18	expl		
+нацртат	nacrtat	nacrta	нацрта	Vmip3pe		217	18	14	xcomp		
+да	da	da	да	C		217	19	21	fixed	inf	
+го	go	toј	тој	C		217	20	21	expl		
+нацртаат	nacrtaat	nacrta	нацрта	Vmip3pe		217	21	18	xcomp		
+со	so	so	со	S		217	22	23	case		
+фрески	freski	freska	фреска	Nfsnn		217	23	21	obl		
+сите	site	siot	сиот	A-pn		217	24	25	amod		
+работи	raboti	raboti	работи	Nfsnn		217	25	23	nmod		
+.	.	.	.	Z		217	26	21	punct		
+											
+па	pa	pa	па	C		218	1	5	cc		So, also it stayed in my memory.
+исто	isto	isto	исто	R		218	2	3	advmod		
+така	taka	taka	така	R		218	3	5	advmod		
+ми	mi	јas	јас	Pp1-sd		218	4	5	obl	iobj	
+остана	ostana	ostane	остане	Vmia3se		218	5	0	root		
+во	vo	vo	во	S		218	6	7	case		
+сеќавање	seќavanje	seќavanje	сеќавање	Nnsnn		218	7	5	obl		
+											
+баш	baš	baš	баш	R		219	1	3	advmod		Exactly when we were in Germany there was a show from Serbia that all the time was showing the consecration of the temple Saint Sava, where it's already with big bells.
+ко	ko	koga	кога	R		219	2	3	mark		
+бевме	bevme	e	е	Vmii1pi		219	3	6	advcl		
+во	vo	vo	во	S		219	4	5	case		
+германија	germaniјa	Germaniјa	Германија	Nfsnn		219	5	3	obl		
+имаше	imaše	ima	има	Vmii3si		219	6	0	root		
+една	edna	eden	еден	Pi-fsn		219	7	8	det	indf	
+емисија	emisiјa	emisiјa	емисија	Nfsnn		219	8	6	obj		
+од	od	od	од	S		219	9	10	case		
+србија	srbiјa	Srbiјa	Србија	Nfsnn		219	10	8	nmod		
+кај	kaј	kaј	кај	Pr		219	11	14	mark		
+шо	šo	što	што	Pr		219	12	14	mark		
+го	go	toј	тој	Pp3nsa		219	13	14	expl		
+кажва	kažva	kažuva	кажува	Vmii3si		219	14	6	advcl		
+цело	celo	cel	цел	Ansn		219	15	16	amod		
+време	vreme	vreme	време	Nnsnn		219	16	14	advmod		
+осветување+	osvetuvanje+	osvetuvanje+	осветување+	Nnsnn		219	17	14	obj		
+то	to	toј	тој	Pd-nsn		219	18	17	det	p_nom	
+на	na	na	на	S		219	19	20	case		
+храм+	xram+	xram+	храм+	Nmsnn		219	20	17	nmod		
+от	ot	toј	тој	Pd-msn		219	21	20	det	p_nom	
+свети	sveti	cveti	cвети	Amsny		219	22	23	amod		
+сава	sava	Sava	Сава	Nmsny		219	23	20	flat		
+,	,	,	,	Z		219	24	14	punct		
+кај	kaј	kade	каде	Pr		219	25	27	mark		
+шо	šo	što	што	Pr		219	26	27	mark		
+е	e	e	е	Vmip3si		219	27	14	advcl		
+веќе	veќe	veќe	веќе	R		219	28	27	advmod		
+со	so	so	со	S		219	29	30	case		
+големи	golemi	golem	голем	A-pn		219	30	31	amod		
+звона	zvona	źvono	ѕвоно	Nnpnn		219	31	27	obl		
+,	,	,	,	Z		219	32	27	punct		
+											
+не	ne	ne	не	Qz		220	1	2	advmod		I don't know how much the bells weighted.
+знам	znam	znae	знае	Vmip1si		220	2	0	root		
+колку	kolku	kolku	колку	R		220	3	4	mark		
+биле	bile	e	е	Vmp--si	A-pn	220	4	2	advcl		
+тешки	teški	težok	тежок	A-pn		220	5	6	amod		
+звона+	zvona+	źvono+	ѕвоно+	Nnpnn		220	6	4	nsubj		
+та	ta	toј	тој	Pd--pn		220	7	6	det	p_nom	
+											
+во	vo	vo	во	S		221	1	2	case		They casted them in Russia, that's how I have everything written about that.
+русија	rusiјa	Rusiјa	Русија	Nfsnn		221	2	4	obl		
+ги	gi	tie	тие	Pp3-pa		221	3	4	obj		
+леале	leale	lee	лее	Vmp--pi	A-pn	221	4	0	root		
+,	,	,	,	Z		221	5	4	punct		
+така	taka	taka	така	R		221	6	9	advmod		
+имам	imam	ima	има	Vmip1si		221	7	9	cop		
+све	sve	sè	сè	P-----		221	8	9	advmod		
+запишано	zapišano	zapiše	запише	Vmp--se	Ansn	221	9	4	xcomp		
+за	za	za	за	S		221	10	11	case		
+то	to	toa	тоа	Pp3nsn		221	11	9	obl		
+,	,	,	,	Z		221	12	9	punct		
+											
+значи	znači	znači	значи	Qo		222	1	7	discourse		So, now I can't find it but I have everything from line to line written, everything they told.
+сеа	sea	sega	сега	R		222	2	4	advmod		
+не	ne	ne	не	Qz		222	3	4	advmod		
+можам	možam	može	може	Vaip1si		222	4	7	aux		
+да	da	da	да	C		222	5	7	fixed	inf	
+го	go	toј	тој	Pp3msa		222	6	7	obj		
+најдам	naјdam	naјde	најде	Vmip1se		222	7	0	root		
+ама	ama	ama	ама	C		222	8	15	cc		
+се	se	sè	сè	P-----		222	9	15	obj		
+имам	imam	ima	има	Vmip1si		222	10	15	cop		
+од	od	od	од	S		222	11	12	case		
+ред	red	red	ред	Nmsnn		222	12	15	obl		
+до	do	do	до	S		222	13	14	case		
+ред	red	red	ред	Nmsnn		222	14	12	nmod		
+запишано	zapišano	zapiše	запише	Vmp--se	Ansn	222	15	7	xcomp		
+све	sve	sè	сè	P-----		222	16	18	obj		
+шо	šo	što	што	Pr		222	17	18	mark		
+кажвеа	kažvea	kažuva	кажува	Vmii3pi		222	18	15	advcl		
+,	,	,	,	Z		222	19	18	punct		
+											
+како	kako	kako	како	R		223	1	3	advmod		How the temple was built, what happened and how they restored it.
+бил	bil	e	е	Vmp--si	Amsn	223	2	3	cop		
+граден	graden	gradi	гради	Vmp--se	Amsn	223	3	0	root		
+ова	ova	ovaј	овај	Pd-msn		223	4	5	det		
+храм+	xram+	xram+	храм+	Nmsnn		223	5	3	obj		
+от	ot	toј	тој	Pd-msn		223	6	5	det	p_nom	
+шо	šo	što	што	Pr		223	7	9	mark		
+се	se	se	се	Px---a		223	8	9	expl		
+случвело	slučvelo	slučuva	случува	Vmii3si		223	9	3	advcl		
+па	pa	pa	па	C		223	10	13	cc		
+како	kako	kako	како	R		223	11	13	advmod		
+го	go	toј	тој	Pp3msa		223	12	13	obj		
+обновија	obnoviјa	obnovi	обнови	Vmia3pe		223	13	9	xcomp		
+,	,	,	,	Z		223	14	13	punct		
+											
+го	go	toј	тој	Pp3msa		224	1	2	obj		They painted it and opened it now and the temple is nice.
+нацртаја	nacrtaјa	nacrta	нацрта	Vmia3pe		224	2	0	root		
+и	i	i	и	C		224	3	5	cc		
+го	go	toј	тој	Pp3msa		224	4	5	obj		
+пуштија	puštiјa	pušti	пушти	Vmia3pe		224	5	2	xcomp		
+сега	sega	sega	сега	R		224	6	5	advmod		
+и	i	i	и	C		224	7	12	cc		
+храм+	xram+	xram+	храм+	Nmsnn		224	8	12	nsubj		
+от	ot	toј	тој	Pd-msn		224	9	8	det	p_nom	
+си	si	si	си	Px---d		224	10	11	expl	poss	
+е	e	e	е	Vmip3si		224	11	12	cop		
+убав	ubav	ubav	убав	Amsn		224	12	5	conj		
+.	.	.	.	Z		224	13	12	punct		
+											
+е	e	e	е	I		225	1	4	discourse		So maybe sometime I will have luck to go and see it.
+можда	možda	možebi	можеби	Qo		225	2	4	discourse		
+ќе	ќe	ќe	ќе	Vaip		225	3	4	aux	hab	
+имам	imam	ima	има	Vmip1si		225	4	0	root		
+некоаш	nekoaš	nekogaš	некогаш	R		225	5	4	advmod		
+среќа	sreќa	sreќa	среќа	Nfsnn		225	6	4	obj		
+да	da	da	да	C		225	7	8	fixed	inf	
+одам	odam	odi	оди	Vmip1si		225	8	4	xcomp		
+и	i	i	и	C		225	9	12	cc		
+да	da	da	да	C		225	10	12	fixed	inf	
+го	go	toј	тој	Pp3msa		225	11	12	obj		
+видам	vidam	vidi	види	Vmip1si		225	12	8	xcomp		
+.	.	.	.	Z		225	13	12	punct		
+											
+да	da	da	да	Q		226	1	7	discourse		Yes, in Vracar, in Vracar it is, Saint Sava, truly.
+на	na	na	на	S		226	2	3	case		
+врачар	vračar	Vračar	Врачар	Nmsnn		226	3	7	obl		
+,	,	,	,	Z		226	4	3	punct		
+на	na	na	на	S		226	5	6	case		
+врачару	vračaru	Vračar	Врачар	Nmsnn		226	6	3	appos		
+је	јe	e	е	Vmip3si		226	7	0	root		
+тој	toј	toј	тој	Pp3msn		226	8	7	nsubj		
+,	,	,	,	Z		226	9	7	punct		
+свети	sveti	cveti	cвети	Amsny		226	10	11	amod		
+сава	sava	Sava	Сава	Nmsny		226	11	8	appos		
+.	.	.	.	Z		226	12	11	punct		
+вистина	vistina	vistina	вистина	Nfsnn		226	13	7	discourse		
+,	,	,	,	Z		226	14	13	punct		
+											
+значи	znači	znači	значи	Qo		227	1	4	discourse		So the frescoes that are painted are from Russia.
+шо	šo	što	што	Pr		227	2	4	mark		
+ги	gi	tie	тие	Pp3-pa		227	3	4	expl		
+цртат	crtat	crta	црта	Vmip3pi		227	4	9	advcl		
+фрески+	freski+	freska+	фреска+	Nfsnn		227	5	4	obj		
+те	te	toј	тој	Pd-fsn		227	6	5	det	p_nom	
+од	od	od	од	S		227	7	8	case		
+русија	rusiјa	Rusiјa	Русија	Nfsnn		227	8	9	obl		
+се	se	se	се	Vmip3pi		227	9	0	root		
+.	.	.	.	Z		227	10	9	punct		
+											
+вистина	vistina	vistina	вистина	Nfsnn		228	1	5	discourse		Truly I am really glad.
+баш	baš	baš	баш	R		228	2	5	advmod		
+ми	mi	јas	јас	Pp1-sd		228	3	4	expl		
+е	e	e	е	Vmip3si		228	4	5	cop		
+мило	milo	milo	мило	R		228	5	0	root		
+.	.	.	.	Z		228	6	5	punct		
+											
+и	i	i	и	C		229	1	5	cc		And so I am really happy about the temple Saint Sava.
+така	taka	taka	така	R		229	2	5	advmod		
+многу	mnogu	mnogu	многу	R		229	3	5	advmod		
+се	se	se	се	Px---a		229	4	5	expl		
+радвам	radvam	raduva	радува	Vmip1si		229	5	0	root		
+за	za	za	за	S		229	6	7	case		
+храм+	xram+	xram+	храм+	Nmsnn		229	7	5	obl		
+от	ot	toј	тој	Pd-msn		229	8	7	det	p_nom	
+свети	sveti	cveti	cвети	Amsny		229	9	10	amod		
+сава	sava	Sava	Сава	Nmsny		229	10	7	flat		
+											
+и	i	i	и	C		230	1	5	cc		And everytime we would travel from here for when we would pass in Belgrad I would always turn around to see Saint Sava the temple, it is seen.
+секогаш	sekogaš	sekogaš	секогаш	R		230	2	5	advmod		
+ко	ko	koga	кога	C		230	3	5	mark		
+ќе	ќe	ќe	ќе	Vaip		230	4	5	aux	hab	
+патувавме	patuvavme	patuva	патува	Vmii1pi		230	5	18	advcl		
+од	od	od	од	S		230	6	7	case		
+овде	ovde	ovde	овде	R		230	7	5	advmod		
+за	za	za	за	S		230	8	9	case		
+ко	ko	koga	кога	C		230	9	11	mark		
+ќе	ќe	ќe	ќе	Vaip		230	10	11	aux	hab	
+врвевме	vrvevme	vrvi	врви	Vmii1pi		230	11	18	advcl		
+низ	niz	niz	низ	S		230	12	13	case		
+белград	belgrad	Belgrad	Белград	Nmsnn		230	13	11	obl		
+јас	јas	јas	јас	Pp1-sn		230	14	18	nsubj		
+секогаш	sekogaš	sekogaš	секогаш	R		230	15	18	advmod		
+ќе	ќe	ќe	ќе	Vaip		230	16	18	aux	hab	
+се	se	se	се	Px---a		230	17	18	expl		
+свртев	svrtev	svrti	сврти	Vmia1se		230	18	0	root		
+да	da	da	да	C		230	19	21	fixed	inf	
+го	go	toј	тој	Pp3msa		230	20	21	expl		
+видам	vidam	vidi	види	Vmip1se		230	21	18	xcomp		
+свети	sveti	cveti	cвети	Amsny		230	22	23	amod		
+сава	sava	Sava	Сава	Nmsny		230	23	21	obj		
+храм+	xram+	xram+	храм+	Nmsnn		230	24	23	flat		
+от	ot	toј	тој	Pd-msn		230	25	24	det	p_nom	
+,	,	,	,	Z		230	26	21	punct		
+се	se	se	се	Px---a		230	27	28	expl		
+гледа	gleda	gleda	гледа	Vmip3se		230	28	21	xcomp		
+.	.	.	.	Z		230	29				
+											
+многу	mnogu	mnogu	многу	R		231	1	2	advmod		Very big temple.
+голем	golem	golem	голем	Amsn		231	2	3	amod		
+храм	xram	xram	храм	Nmsnn		231	3	0	root		
+,	,	,	,	Z		231	4	3	punct		
+											
+вистина	vistina	vistina	вистина	Nfsnn		232	1	3	discourse		Truly something unbelieveable.
+нешто	nešto	nešto	нешто	Pi-nsn		232	2	3	det	indf	
+невероватно	neverovatno	neveroјaten	неверојатен	Ansn		232	3	0	root		
+,	,	,	,	Z		232	4	3	punct		
+											
+е	e	e	е	I		233	1	4	discourse		And that left me a good impression.
+то	to	toa	тоа	Pp3nsn		233	2	4	nsubj		
+ми	mi	јas	јас	Pp1-sd		233	3	4	obl	iobj	
+остави	ostavi	ostavi	остави	Vmia3se		233	4	0	root		
+убав	ubav	ubav	убав	Amsn		233	5	6	amod		
+впечаток	vpečatok	vpečatok	впечаток	Nmsnn		233	6	4	obj		
+.	.	.	.	Z		233	7	4	punct		
+											
+да	da	da	да	Q		234	1	5	discourse		Yes, so If you know something I for example embroidered the cloth.
+значи	znači	znači	значи	Qo		234	2	5	discourse		
+нешто	nešto	nešto	нешто	Pi-nsn		234	3	5	obj		
+ако	ako	ako	ако	C		234	4	5	mark		
+знаеш	znaeš	znae	знае	Vmip2si		234	5	11	advcl		
+ево	evo	evo	ево	Qd		234	6	11	discourse		
+јас	јas	јas	јас	Pp1-sn		234	7	11	nsubj		
+на	na	na	на	S		234	8	9	case		
+пример	primer	primer	пример	Nmsnn		234	9	11	discourse		
+го	go	toј	тој	Pp3msa		234	10	11	expl		
+навезав	navezav	naveze	навезе	Vmia1se		234	11	0	root		
+чаршав+	čaršav+	čaršaf+	чаршаф+	Nmsnn		234	12	11	obj		
+от	ot	toј	тој	Pd-msn		234	13	12	det	p_nom	
+,	,	,	,	Z		234	14	11	punct		
+											
+јас	јas	јas	јас	Pp1-sn		235	1	2	nsubj		I knew how to embroid it but because it was pretty I got Imanje.
+знаев	znaev	znae	знае	Vmii1si		235	2	5	aux		
+да	da	da	да	C		235	3	5	fixed	inf	
+го	go	toј	тој	Pp3msa		235	4	5	obj		
+навежам	navežam	naveze	навезе	Vmip1se		235	5	0	root		
+ама	ama	ama	ама	C		235	6	10	cc		
+затоа	zatoa	zatoa	затоа	C		235	7	10	mark		
+шо	šo	što	што	Pr		235	8	10	mark		
+бил	bil	e	е	Vmp--si	Amsn	235	9	10	cop		
+убав	ubav	ubav	убав	Amsn		235	10	12	advcl		
+јас	јas	јas	јас	Pp1-sn		235	11	12	nsubj		
+добив	dobiv	dobi	доби	Vmia1se		235	12	10	conj		
+имање	imanje	imanje	имање	Nnsnn		235	13	12	obj		
+,	,	,	,	Z		235	14	12	punct		
+											
+ме	me	јas	јас	Pp1-sa		236	1	2	obj		They took me in Belgrad to visit.
+зедоја	zedoјa	zeme	земе	Vmia3pe		236	2	0	root		
+во	vo	vo	во	S		236	3	4	case		
+белград	belgrad	Belgrad	Белград	Nmsnn		236	4	2	obl		
+да	da	da	да	C		236	5	6	fixed	inf	
+шетаме	šetame	šeta	шета	Vmip1pi		236	6	2	xcomp		
+.	.	.	.	Z		236	7	2	punct		
+											
+вистина	vistina	vistina	вистина	Nfsnn		237	1	4	discourse		Truly,  you see, I remembered to tell about Saint Sava.
+,	,	,	,	Z		237	2	1	punct		
+е	e	e	е	I		237	3	4	discourse		
+виде	vide	vidi	види	Vmia2se		237	4	0	root		
+се	se	se	се	Px---a		237	5	6	expl		
+сетив	setiv	seti	сети	Vmia1se		237	6	4	root		
+и	i	i	и	C		237	7	12	cc		
+за	za	za	за	S		237	8	9	case		
+свети	sveti	cveti	cвети	Amsny		237	9	10	amod		
+сава	sava	Sava	Сава	Nmsny		237	10	12	obl		
+да	da	da	да	C		237	11	12	fixed	inf	
+кажам	kažam	kaže	каже	Vmip1se		237	12	6	xcomp		
+.	.	.	.	Z		237	13	12	punct		
+											
+уреден	ureden	ureden	уреден	Amsn		238	1	0	root		The park is arranged surely around it.
+е	e	e	е	Vmip3si		238	2	1	cop		
+парк+	park+	park+	парк+	Nmsnn		238	3	1	nsubj		
+от	ot	toј	тој	Pd-msn		238	4	3	det	p_nom	
+сигурно	sigurno	sigurno	сигурно	R		238	5	1	advmod		
+околу	okolu	okolu	околу	S		238	6	7	case		
+него	nego	toј	тој	Pp3msa		238	7	1	obl		
+.	.	.	.	Z		238	8	1	punct		
+											
+да	da	da	да	Q		239	1	5	discourse		Yes really, I don't know I have a big wish to enter the temple Saint Sava once again.
+баш	baš	baš	баш	Qo		239	2	5	discourse		
+,	,	,	,	Z		239	3	2	punct		
+не	ne	ne	не	Qz		239	4	5	advmod		
+знам	znam	znae	знае	Vmip1si		239	5	0	root		
+голема	golema	golem	голем	Afsn		239	6	7	amod		
+желба	želba	želba	желба	Nfsnn		239	7	5	xcomp		
+ми	mi	јas	јас	Pp1-sd		239	8	9	expl		
+е	e	e	е	Vmip3si		239	9	7	cop		
+уше	uše	ušte	уште	R		239	10	11	advmod		
+еднаш	ednaš	ednaš	еднаш	R		239	11	13	advmod		
+да	da	da	да	C		239	12	13	fixed	inf	
+влезам	vlezam	vleze	влезе	Vmip1se		239	13	7	xcomp		
+во	vo	vo	во	S		239	14	15	case		
+храм+	xram+	xram+	храм+	Nmsnn		239	15	13	obl		
+от	ot	toј	тој	Pd-msn		239	16	15	det	p_nom	
+свети	sveti	cveti	cвети	Amsny		239	17	18	amod		
+сава	sava	Sava	Сава	Nmsny		239	18	15	flat		
+.	.	.	.	Z		239	19	13	punct		
+											
+да	da	da	да	Q		240	1	3	discourse		Yes, yes, it is close, six hours from Skopje.
+да	da	da	да	Q		240	2	1	appos		
+блиску	blisku	blisku	блиску	R		240	3	0	root		
+е	e	e	е	Vmip3si		240	4	3	cop		
+,	,	,	,	Z		240	5	3	punct		
+шес	šes	šest	шест	M		240	6	7	nummod		
+сати	sati	sat	сат	Nmpnn		240	7	8	advmod		
+е	e	e	е	Vmip3si		240	8	3	xcomp		
+од	od	od	од	S		240	9	10	case		
+скопје	skopјe	Skopјe	Скопје	Nmsnn		240	10	8	obl		
+.	.	.	.	Z		240	11	8	punct		
+											
+е	e	e	е	Vmip3si		241	1	0	root		With plane it is one hour. Yes.
+со	so	so	со	S		241	2	3	case		
+авион	avion	avion	авион	Nmsnn		241	3	1	obl		
+еден	eden	eden	еден	M		241	4	5	nummod		
+сат	sat	sat	сат	Nmsnn		241	5	1	advmod		
+.	.	.	.	Z		241	6	1	punct		
+да	da	da	да	Q		241	7	1	discourse		
+.	.	.	.	Z		241	8	7	punct		
+											
+и	i	i	и	C		242	1	2	cc		And there the remains of Saint Sava are burned, of the holy man.
+таму	tamu	tamu	таму	R		242	2	7	advmod		
+мошти+	mošti+	mošti+	мошти+	N-pnn		242	3	7	nsubj		
+те	te	toј	тој	Pd--pn		242	4	3	det	p_nom	
+му	mu	toј	тој	Pp3msd		242	5	7	expl		
+се	se	se	се	Px---a		242	6	7	cop		
+запалени	zapaleni	zapali	запали	Vmp--se	A-pn	242	7	0	root		
+на	na	na	на	S		242	8	9	case		
+свети	sveti	cveti	cвети	Amsny		242	9	10	amod		
+сава	sava	Sava	Сава	Nmsny		242	10	7	obl	iobj	
+,	,	,	,	Z		242	11	7	punct		
+на	na	na	на	S		242	12	13	case		
+светителот	svetitelot	svetitel+	светител+	Nmsny		242	13	10	appos		
+от	ot	toј	тој	Pd-msn		242	14	13	det	p_nom	
+.	.	.	.	Z		242	15	13	punct		
+											
+значи	znači	znači	значи	Qo		243	1	5	discourse		So the remains were exibited in turk times.
+мошти+	mošti+	mošti+	мошти+	N-pnn		243	2	5	nsubj		
+те	te	toј	тој	Pd--pn		243	3	2	det	p_nom	
+биле	bile	e	е	Vmp--pi	A-pn	243	4	5	cop		
+изложени	izloženi	izloži	изложи	Vmp--se	A-pn	243	5	0	root		
+во	vo	vo	во	S		243	6	7	case		
+турско	tursko	turski	турски	Ansn		243	7	8	amod		
+време	vreme	vreme	време	Nsnnn		243	8	5	obl		
+.	.	.	.	Z		243	9	5	punct		
+											
+светител+	svetitel+	svetitel+	светител+	Nmsny		244	1	5	appos		The holy man Saint Sava he was one of the Nemanici, from the ? of Nemanici.
+от	ot	toј	тој	Pd-msn		244	2	1	det	p_nom	
+свети	sveti	cveti	cвети	Amsny		244	3	4	amod		
+сава	sava	Sava	Сава	Nmsny		244	4	1	flat		
+тој	toј	toј	тој	Pp3msn		244	5	6	nsubj		
+бил	bil	e	е	Vmp--si	Amsn	244	6	0	root		
+од	od	od	од	S		244	7	8	case		
+овие	ovie	ovoј	овој	Pd--pn		244	8	9	det		
+немајничи	nemaјniči	Nemaniќ	Неманиќ	Nmpny		244	9	6	obl		
+,	,	,	,	Z		244	10	6	punct		
+од	od	od	од	S		244	11	12	case		
+красп+	krasp+	krasp+	красп+	Nmsnn		244	12	6	obl		
+от	ot	toј	тој	Pd-msn		244	13	12	det	p_nom	
+на	na	na	на	S		244	14	15	case		
+немајничи	nemaјniči	Nemaniќ	Неманиќ	Nmpny		244	15	12	nmod		
+,	,	,	,	Z		244	16	12	punct		
+											
+свети	sveti	cveti	cвети	Amsny		245	1	2	amod		Saint Sava was the son of Saint Simeon the peacemaker.
+сава	sava	Sava	Сава	Nmsny		245	2	4	nsubj		
+бил	bil	e	е	Vmp--si	Amsn	245	3	4	cop		
+син	sin	sin	син	Nmsny		245	4	0	root		
+на	na	na	на	S		245	5	6	case		
+свети	sveti	cveti	cвети	Amsny		245	6	7	amod		
+симеон	simeon	Simeon	Симеон	Nmsny		245	7	4	nmod		
+мироточив	mirotočiv	mirotočiv	мироточив	Amsn		245	8	7	amod		
+.	.	.	.	Z		245	9	3	punct		
+											
+татко	tatko	tatko	татко	Nmsny		246	1	5	appos		His father the same, he also became a monk on Saint Gora here, you know.
+му	mu	toј	тој	Pp3msa		246	2	1	expl	poss	
+исто	isto	isto	исто	R		246	3	7	advmod		
+и	i	i	и	C		246	4	5	cc		
+тој	toј	toј	тој	Pp3msn		246	5	7	nsubj		
+се	se	se	се	Px---a		246	6	7	expl		
+замонашил	zamonašil	zamonaši	замонаши	Vmp--se	Amsn	246	7	0	root		
+на	na	na	на	S		246	8	9	case		
+света	sveta	Sveta	Света	Afsn		246	9	10	amod		
+гора	gora	Gora	Гора	Nfsnn		246	10	7	obl		
+ваму	vamu	vamu	ваму	R		246	11	7	advmod		
+знаеш	znaeš	znae	знае	Vmip2si		246	12	7	xcomp		
+.	.	.	.	Z		246	13	12	punct		
+											
+таму	tamu	tamu	таму	R		247	1	3	advmod		There became monk his father and Saint Sava.
+се	se	se	се	Px---a		247	2	3	expl		
+замонашил	zamonašil	zamonaši	замонаши	Vmp--se	Amsn	247	3	0	root		
+и	i	i	и	C		247	4	5	cc		
+татко	tatko	tatko	татко	Nmsny		247	5	3	nsubj		
+му	mu	toј	тој	Pp3msd		247	6	5	expl	poss	
+и	i	i	и	C		247	7	9	cc		
+свети	sveti	cveti	cвети	Amsny		247	8	9	amod		
+сава	sava	Sava	Сава	Nmsny		247	9	6	nmod		
+											
+и	i	i	и	C		248	1	2	cc		And now Saint Sava, his remains were brought in this temple Saint Sava that is the temple.
+сега	sega	sega	сега	R		248	2	9	advmod		
+свети	sveti	cveti	cвети	Amsny		248	3	4	amod		
+сава	sava	Sava	Сава	Nmsny		248	4	5	appos		
+негови+	negovi+	negov+	негов+	A-pn		248	5	7	amod		
+те	te	toј	тој	Pd--pn		248	6	5	det	p_nom	
+мошти	mošti	mošti	мошти	N-pnn		248	7	9	nsubj		
+биле	bile	e	е	Vmp--pi	A-pn	248	8	9	cop		
+донесени	doneseni	donese	донесе	Vmp--pe	A-pn	248	9	0	root		
+во	vo	vo	во	S		248	10	11	case		
+овај	ovaј	ovoј	овој	Pd-msn		248	11	12	det		
+храм+	xram+	xram+	храм+	Nmsnn		248	12	9	obl		
+от	ot	toј	тој	Pd-msn		248	13	12	det	p_nom	
+свети	sveti	cveti	cвети	Amsny		248	14	15	amod		
+сава	sava	Sava	Сава	Nmsny		248	15	12	flat		
+шо	šo	što	што	Pr		248	16	17	mark		
+е	e	e	е	Vmip3si		248	17	9	advcl		
+храм+	xram+	xram+	храм+	Nmsnn		248	18	17	nsubj		
+от	ot	toј	тој	Pd-msn		248	19	18	det	p_nom	
+											
+ама	ama	ama	ама	C		249	1	5	cc		But the Turks burned it and now the remains of Saint Sava don't exist.
+турци+	turci+	Turčin+	Турчин+	Nmpny		249	2	5	nsubj		
+те	te	toј	тој	Pd--pn		249	3	2	det	p_nom	
+го	go	toј	тој	Pp3msa		249	4	5	obj		
+запалиле	zapalile	zapali	запали	Vmp--pe	A-pn	249	5	0	root		
+и	i	i	и	C		249	6	8	cc		
+не	ne	ne	не	Qz		249	7	8	advmod		
+постоет	postoet	postoi	постои	Vmip3pi		249	8	5	conj		
+сега	sega	sega	сега	R		249	9	8	advmod		
+мошти+	mošti+	mošti+	мошти+	N-pnn		249	10	8	nsubj		
+те	te	toј	тој	Pd--pn		249	11	10	det	p_nom	
+на	na	na	на	S		249	12	13	case		
+свети	sveti	cveti	cвети	Amsny		249	13	14	amod		
+сава	sava	Sava	Сава	Nmsny		249	14	10	nmod		
+.	.	.	.	Z		249	15	10	punct		
+											
+а	a	a	а	C		250	1	2	cc		And the father of Saint Sava, Saint Simeon the peacemaker, he also was in the monastery Hilandar together wtih Saint Sava and them.
+татко+	tatko+	tatko+	татко+	Nmsny		250	2	12	appos		
+то	to	toј	тој	Pd-msn		250	3	2	det	p_nom	
+на	na	na	на	S		250	4	5	case		
+свети	sveti	cveti	cвети	Amsny		250	5	6	amod		
+сава	sava	Sava	Сава	Nmsny		250	6	2	nmod		
+,	,	,	,	Z		250	7	2	punct		
+свети	sveti	cveti	cвети	Amsny		250	8	9	amod		
+симеон	simeon	Simeon	Симеон	Nmsny		250	9	12	appos		
+мироточив	mirotočiv	mirotočiv	мироточив	Amsn		250	10	9	amod		
+и	i	i	и	C		250	11	12	cc		
+тој	toј	toј	тој	Pp3msn		250	12	13	nsubj		
+бил	bil	e	е	Vmp--si	Amsn	250	13	0	root		
+во	vo	vo	во	S		250	14	15	case		
+манастир+	manastir+	manastir+	манастир+	Nmsnn		250	15	13	obl		
+от	ot	toј	тој	Pd-msn		250	16	15	det	p_nom	
+хиландар	xilandar	Xilandar	Хиландар	Nmsnn		250	17	15	flat		
+заедно	zaedno	zaedno	заедно	R		250	18	13	advmod		
+со	so	so	со	S		250	19	20	case		
+свети	sveti	cveti	cвети	Amsny		250	20	21	amod		
+сава	sava	Sava	Сава	Nmsny		250	21	13	obl		
+и	i	i	и	C		250	22	23	cc		
+тие	tie	tie	тие	Pp3-pn		250	23	21	conj		
+,	,	,	,	Z		250	24	13	punct		
+											
+кога	koga	koga	кога	C		251	1	2	mark		When Saint Simeon the peacemaker died he left the monks, he left.
+умрел	umrel	umre	умре	Vmp--se	Amsn	251	2	7	advcl		
+свети	sveti	cveti	cвети	Amsny		251	3	4	amod		
+симеон	simeon	Simeon	Симеон	Nmsny		251	4	2	nsubj		
+мироточив	mirotočiv	mirotočiv	мироточив	Amsn		251	5	4	amod		
+му	mu	toј	тој	Pp3-pd		251	6	7	expl		
+оставил	ostavil	ostavi	остави	Vmp--se	Amsn	251	7	0	root		
+на	na	na	на	S		251	8	9	case		
+монаси+	monasi+	monax	монах	Nmpny		251	9	7	obl	iobj	
+те	te	toј	тој	Pd--pn		251	10	9	det	p_nom	
+,	,	,	,	Z		251	11	7	punct		
+му	mu	toј	тој	Pp3-pd		251	12	13	obl	iobj	
+оставил	ostavil	ostavi	остави	Vmp--se	Amsn	251	13	7	xcomp		
+.	.	.	.	Z		251	14	13	punct		
+											
+сакал	sakal	saka	сака	Vmp--si	Amsn	252	1	3	appos		He wanted, actually he wanted his remains to be taken in Studenica the monastery in Serbia.
+всупност	vsupnost	vsušnost	всушност	Qo		252	2	9	discourse		
+сакал	sakal	saka	сака	Vap--si	Amsn	252	3	9	aux		
+негови+	negovi+	negov+	негов+	A-pn		252	4	6	amod		
+те	te	toј	тој	Pd--pn		252	5	4	det	p_nom	
+мошти	mošti	mošti	мошти	N-pnn		252	6	9	nsubj		
+да	da	da	да	C		252	7	8	fixed	inf	
+бидат	bidat	bide	биде	Vmip3pe		252	8	9	cop		
+однесени	odneseni	odnese	однесе	Vmp--pe	A-pn	252	9	0	root		
+во	vo	vo	во	S		252	10	11	case		
+студеница	studenica	Studenica	Студеница	Nfsnn		252	11	9	obl		
+манастир+	manastir+	manastir+	манастир+	Nmsnn		252	12	11	flat		
+от	ot	toј	тој	Pd-msn		252	13	12	det	p_nom	
+во	vo	vo	во	S		252	14	15	case		
+србија	srbiјa	Srbiјa	Србија	Nfsnn		252	15	12	nmod		
+.	.	.	.	Z		252	16	9	punct		
+											
+значи	znači	znači	значи	Qo		253	1	5	discourse		So to be buried there.
+таму	tamu	tamu	таму	R		253	2	5	advmod		
+да	da	da	да	C		253	3	5	fixed	inf	
+го	go	toј	тој	Pp3msa		253	4	5	obj		
+закопат	zakopat	zakopa	закопа	Vmip3pe		253	5	0	root		
+.	.	.	.	Z		253	6	5	punct		
+											
+и	i	i	и	C		254	1	4	cc		And they buried him there in Studenica.
+тие	tie	tie	тие	Pp3-pn		254	2	4	nsubj		
+го	go	toј	тој	Pp3msa		254	3	4	obj		
+закопале	zakopale	zakopa	закопа	Vmp--pe	A-pn	254	4	0	root		
+таму	tamu	tamu	таму	R		254	5	4	advmod		
+во	vo	vo	во	S		254	6	7	case		
+студеница	studenica	Studenica	Студеница	Nfsnn		254	7	4	obl		
+											
+го	go	toј	тој	Pp3msa		255	1	2	obj		They carried him away.
+занесле	zanesle	zanese	занесе	Vmp--pe	A-pn	255	2	0	root		
+											
+ама	ama	ama	ама	C		256	1	5	cc		But the monks cried a lot for Saint Simeon the peacemaker, the father of Saint Sava.
+монаси+	monasi+	monax+	монах+	Nmpny		256	2	5	nsubj		
+те	te	toј	тој	Pd--pn		256	3	2	det	p_nom	
+многу	mnogu	mnogu	многу	R		256	4	5	advmod		
+плачеле	plačele	plače	плаче	Vmp--pi	A-pn	256	5	0	root		
+за	za	za	за	S		256	6	7	case		
+свети	sveti	cveti	cвети	Amsny		256	7	8	amod		
+симеон	simeon	Simeon	Симеон	Nmsny		256	8	5	obl		
+мироточив	mirotočiv	mirotočiv	мироточив	Amsn		256	9	8	amod		
+татко+	tatko+	tatko+	татко+	Nmsny		256	10	8	appos		
+то	to	toј	тој	Pd-msn		256	11	10	det	p_nom	
+на	na	na	на	S		256	12	13	case		
+свети	sveti	cveti	cвети	Amsny		256	13	14	amod		
+сава	sava	Sava	Сава	Nmsny		256	14	10	nmod		
+,	,	,	,	Z		256	15	5	punct		
+											
+плачеле	plačele	plače	плаче	Vmp--pi	A-pn	257	1	0	root		The cried a lot and as a consolation he left them a vine, vine.
+многу	mnogu	mnogu	многу	R		257	2	1	advmod		
+и	i	i	и	C		257	3	8	cc		
+тој	toј	toј	тој	Pp3msn		257	4	8	nsubj		
+како	kako	kako	како	S		257	5	6	case		
+утеха	utexa	utexa	утеха	Nfsnn		257	6	8	obl		
+му	mu	toј	тој	Pp3-pd		257	7	8	obl	iobj	
+оставил	ostavil	ostavi	остави	Vmp--se	Amsn	257	8	1	conj		
+една	edna	eden	еден	Pi-fsn		257	9	10	det	indf	
+лоза	loza	loza	лоза	Nfsnn		257	10	8	obj		
+,	,	,	,	Z		257	11	8	punct		
+лоза	loza	loza	лоза	Nfsnn		257	12	10	appos		
+											
+винова	vinova	vinov	винов	Afsn		258	1	2	amod		Grapevine grew from where he was burried before in the monastery Hilandar.
+лоза	loza	loza	лоза	Nfsnn		258	2	4	nsubj		
+,	,	,	,	Z		258	3	2	punct		
+пораснала	porasnala	porasne	порасне	Vmp--se	Afsn	258	4	0	root		
+од	od	od	од	S		258	5	6	case		
+кај	kaј	kade	каде	Pr		258	6	7	mark		
+шо	šo	što	што	Pr		258	7	11	mark		
+бил	bil	e	е	Vmp--si	Amsn	258	8	11	cop		
+по+	po+	po+	по+	Qc		258	9	10	amod		
+рано	rano	rano	рано	R		258	10	11	advmod		
+закопан	zakopan	zakopa	закопа	Vmp--se	Amsn	258	11	4	advcl		
+во	vo	vo	во	S		258	12	13	case		
+манастир+	manastir+	manastir+	манастир+	Nmsnn		258	13	11	obl		
+от	ot	toј	тој	Pd-msn		258	14	13	det	p_nom	
+хиландар	xilandar	Xilandar	Хиландар	Nmsnn		258	15	13	flat		
+											
+на	na	na	на	S		259	1	2	case		On the place where they took him out of the grave.
+место+	mesto+	mesto+	место+	Nnsnn		259	2	7	obl		
+то	to	toј	тој	Pd-nsn		259	3	2	det	p_nom	
+кај	kaј	kade	каде	Pr		259	4	5	mark		
+шо	šo	što	што	Pr		259	5	7	mark		
+го	go	toј	тој	Pp3msa		259	6	7	obj		
+извадија	izvadiјa	izvadi	извади	Vmia3pe		259	7	0	root		
+сега	sega	sega	сега	R		259	8	7	advmod		
+од	od	od	од	S		259	9	10	case		
+гроб+	grob+	grob+	гроб+	Nmsnn		259	10	7	obl		
+от	ot	toј	тој	Pd-msn		259	11	10	det	p_nom	
+,	,	,	,	Z		259	12	7	punct		
+											
+гроб+	grob+	grob+	гроб+	Nmsnn		260	1	4	nsubj		The grave is empty but grapevine grew and that grapevine produces grapes. Do you understaned me, grapes.
+от	ot	toј	тој	Pd-msn		260	2	1	det	p_nom	
+е	e	e	е	Vmip3si		260	3	4	cop		
+празен	prazen	prazen	празен	Amsn		260	4	0	root		
+ама	ama	ama	ама	C		260	5	6	cc		
+порасна	porasna	porasne	порасне	Vmia3se		260	6	4	conj		
+винова	vinova	vinov	винов	Afsn		260	7	8	amod		
+лоза	loza	loza	лоза	Nfsnn		260	8	6	nsubj		
+и	i	i	и	C		260	9	15	cc		
+таа	taa	taa	таа	Pd-fsn		260	10	11	det		
+винова	vinova	vinov	винов	Afsn		260	11	12	amod		
+лоза	loza	loza	лоза	Nfsnn		260	12	15	nsubj		
+да	da	da	да	C		260	13	15	fixed	inf	
+ми	mi	јas	јас	Pp1-sd		260	14	15	expl		
+раѓат	raѓat	raѓa	раѓа	Vmip3si		260	15	6	conj		
+грозје	grozјe	grozјe	грозје	Nnsnn		260	16	15	obj		
+.	.	.	.	Z		260	17	15	punct		
+ме	me	јas	јас	Pp1-sa		260	18	19	obj		
+разбираш	razbiraš	razbira	разбира	Vmip2si		260	19	15	xcomp		
+грозје	grozјe	grozјe	грозје	Nnsnn		260	20	16	appos		
+,	,	,	,	Z		260	21	19	punct		
+											
+то	to	toa	тоа	Pd-nsn		261	1	2	det		The monks dry the grapes.
+грозје+	grozјe+	grozјe+	грозје+	Nnsnn		261	2	5	obj		
+то	to	toј	тој	Pd-nsn		261	3	2	det	p_nom	
+го	go	toј	тој	Pp3nsa		261	4	5	expl		
+сушат	sušat	suši	суши	Vmip3pi		261	5	0	root		
+монаси+	monasi+	monax+	монах+	Nmpny		261	6	5	nsubj		
+те	te	toј	тој	Pd--pn		261	7	6	det	p_nom	
+											
+и	i	i	и	C		262	1	2	cc		And from all orthodox countries also from Russia women who don't bear children, they take from that, from the grapes and with pray with.
+од	od	od	од	S		262	2	3	case		
+сиве	sive	siot	сиот	A-pn		262	3	4	amod		
+православни	pravoslavni	pravoslaven	православен	A-pn		262	4	4	amod		
+земји	zemјi	zemјa	земја	Nfpnn		262	5	13	obl		
+исто	isto	isto	исто	R		262	6	13	advmod		
+и	i	i	и	C		262	7	8	cc		
+од	od	od	од	S		262	8	9	case		
+русија	rusiјa	rusiјa	русија	Nfsnn		262	9	5	conj		
+жени	ženi	žena	жена	Nfpny		262	10	13	nsubj		
+шо	šo	što	што	Pr		262	11	13	mark		
+не	ne	ne	не	Qz		262	12	13	advmod		
+раѓаат	raѓaat	raѓa	раѓа	Vmip3pi		262	13	17	advcl		
+деца	deca	dete	дете	Nnpny		262	14	13	obj		
+,	,	,	,	Z		262	15	13	punct		
+тие	tie	tie	тие	Pp3-pn		262	16	17	nsubj		
+земаат	zemaat	zema	зема	Vmip3pi		262	17	0	root		
+од	od	od	од	S		262	18	19	case		
+то	to	toa	тоа	Pd-nsn		262	19	17	obl		
+од	od	od	од	S		262	20	21	case		
+грозје+	grozјe+	grozјe+	грозје+	Nnsnn		262	21	19	appos		
+то	to	toј	тој	Pd-nsn		262	22	21	det	p_nom	
+и	i	i	и	C		262	23	24	cc		
+со	so	so	со	S		262	24	25	case		
+молитва	molitva	molitva	молитва	Nfsnn		262	25	17	obl		
+со	so	so	со	S		262	26	25	case		
+.	.	.	.	Z		262	27	17	punct		
+											
+си	si	si	си	Px---d		263	1	2	expl		They have some rule there and many women became pregnant.
+имаат	imaat	ima	има	Vmip3pi		263	2	0	root		
+некое	nekoe	nekoј	некој	Pi-nsn		263	3	4	det	indf	
+правило	pravilo	pravilo	правило	Nnsnn		263	4	2	obj		
+таму	tamu	tamu	таму	R		263	5	2	advmod		
+и	i	i	и	C		263	6	10	cc		
+многу	mnogu	mnogu	многу	R		263	7	8	amod		
+жени	ženi	žena	жена	Nfpny		263	8	10	nsubj		
+останале	ostanale	ostane	остане	Vmp--pe	A-pn	263	9	10	cop		
+трудни	trudni	truden	труден	A-pn		263	10	2	conj		
+											
+мислам	mislam	misli	мисли	Vmip1si		264	1	0	root		I mean, they gave birth to children.
+,	,	,	,	Z		264	2	1	punct		
+си	si	si	си	Px---d		264	3	4	expl		
+родиле	rodile	rodi	роди	Vmp--pe	A-pn	264	4	1	xcomp		
+деца	deca	dete	дете	Nnpny		264	5	4	obj		
+.	.	.	.	Z		264	6	4	punct		
+											
+исто	isto	isto	исто	R		265	1	5	advmod		The same happened to some bey.
+му	mu	toј	тој	Pp3msd		265	3	5	expl		
+се	se	se	се	Px---a		265	4	5	expl		
+случило	slučilo	sluči	случи	Vmp--se	Ansn	265	5	0	root		
+на	na	na	на	S		265	6	7	case		
+некој	nekoј	nekoј	некој	Pi-msn		265	7	8	det	indf	
+бег	beg	beg	бег	Nmsny		265	8	5	obl		
+,	,	,	,	Z		265	9	5	punct		
+											
+бил	bil	e	е	Vmp--si	Amsn	266	1	2	cop		He was Muslim, his wife didn't have children.
+муслиман	musliman	musliman	муслиман	Nmsny		266	2	0	root		
+тој	toј	toј	тој	Pp3msn		266	3	2	nsubj		
+,	,	,	,	Z		266	4	2	punct		
+жена+	žena+	žena+	жена+	Nfsny		266	5	8	nsubj		
+та	ta	toј	тој	Pd-fsn		266	6	5	det	p_nom	
+негова	negova	negov	негов	Afsn		266	7	5	amod		
+немала	nemala	nema	нема	Vmp--si	Afsn	266	8	2	conj		
+деца	deca	dete	дете	Nnpny		266	9	8	obj		
+											
+и	i	i	и	C		267	1	3	cc		And he also took from the grapes.
+тој	toј	toј	тој	Pp3msn		267	2	3	nsubj		
+зел	zel	zeme	земе	Vmp--se	Amsn	267	3	0	root		
+исто	isto	isto	исто	R		267	4	3	advmod		
+од	od	od	од	S		267	5	6	case		
+грозје+	grozјe+	grozјe+	грозје+	Nnsnn		267	6	3	obl		
+то	to	toј	тој	Pd-nsn		267	7	6	det	p_nom	
+,	,	,	,	Z		267	8	3	punct		
+											
+жена+	žena+	žena+	жена+	Nfsny		268	1	4	nsubj		The wife gave birth to a child.
+та	ta	toј	тој	Pd-fsn		268	2	1	det	p_nom	
+му	mu	toј	тој	Pp3msd		268	3	4	obl	iobj	
+родила	rodila	rodi	роди	Vmp--se	Afsn	268	4	0	root		
+дете	dete	dete	дете	Nnsny		268	5	4	obj		
+											
+и	i	i	и	C		269	1	2	cc		And his son became a monk later.
+негови+	negovi+	negov+	негов+	Amsny		269	2	4	amod		
+от	ot	toј	тој	Pd-msn		269	3	2	det	p_nom	
+син	sin	sin	син	Nmsny		269	4	7	nsubj		
+после	posle	posle	после	R		269	5	7	advmod		
+станал	stanal	stane	стане	Vmp--se	Amsn	269	6	7	cop		
+монах	monax	monax	монах	Nmsny		269	7	0	root		
+,	,	,	,	Z		269	8	7	punct		
+											
+станале	stanale	stane	стане	Vmp--pe	A-pn	270	1	3	cop		So they became orthodox, that Muslim family.
+значи	znači	znači	значи	Qo		270	2	3	discourse		
+христијани	xristiјani	xristiјanin	христијанин	Nmpny		270	3	0	root		
+тие	tie	tie	тие	Pp3-pn		270	4	3	nsubj		
+та	ta	taa	таа	Pd3fsn		270	5	6	det		
+фамилиа	familia	familiјa	фамилија	Nfsny		270	6	4	appos		
+муслимани	muslimani	musliman	муслиман	Nmpny		270	7	6	amod		
+,	,	,	,	Z		270	8	3	punct		
+											
+нешто	nešto	nešto	нешто	Pi-nsn		271	1	3	obj		Somethink I know in relation.
+шо	šo	što	што	Pr		271	2	3	mark		
+знам	znam	znae	знае	Vmip1si		271	3	0	root		
+во	vo	vo	во	S		271	4	5	case		
+врска	vrska	vrska	врска	Nfsnn		271	5	3	obl		
+											
+дека	deka	deka	дека	C		272	1	2	mark		Because we're talking about Saint Sava the temple.
+зборвиме	zborvime	zboruva	зборува	Vmip1pi		272	2	0	root		
+за	za	za	за	S		272	3	4	case		
+свети	sveti	cveti	cвети	Amsny		272	4	5	amod		
+сава	sava	Sava	Сава	Nmsny		272	5	2	obl		
+храм+	xram+	xram+	храм+	Nmsnn		272	6	5	flat		
+от	ot	toј	тој	Pd-msn		272	7	6	det	p_nom	
+											
+и	i	i	и	C		273	1	2	cc		And that's why I connected to say about Saint Sava and about his father Saint Simeon the peacemaker.
+зато	zato	zatoa	затоа	R		273	2	3	advmod		
+поврзав	povrzav	povrze	поврзе	Vmia1se		273	3	0	root		
+да	da	da	да	C		273	4	5	fixed	inf	
+кажам	kažam	kažuva	кажува	Vmip1se		273	5	3	xcomp		
+за	za	za	за	S		273	6	7	case		
+свети	sveti	cveti	cвети	Amsny		273	7	8	amod		
+сава	sava	Sava	Сава	Nmsny		273	8	5	obl		
+и	i	i	и	C		273	9	10	cc		
+за	za	za	за	S		273	10	11	case		
+негови+	negovi+	negov+	негов+	Amsny		273	11	13	amod		
+от	ot	toј	тој	Pd-msn		273	12	11	det	p_nom	
+татко	tatko	tatko	татко	Nmsny		273	13	8	conj		
+свети	sveti	cveti	cвети	Amsny		273	14	15	amod		
+симеон	simeon	Simeon	Симеон	Nmsny		273	15	13	appos		
+мироточив	mirotočiv	mirotočiv	мироточив	Amsn		273	16	15	amod		
+.	.	.	.	Z		273	17	5	punct		
+											
+е	e	e	е	I		274	1	4	discourse		So that is in my memory and so on.
+то	to	toa	тоа	Pp3nsn		274	2	4	nsubj		
+ми	mi	јas	јас	Pp1-sd		274	3	4	obl	iobj	
+е	e	e	е	Vmip3si		274	4	0	root		
+во	vo	vo	во	S		274	5	6	case		
+сеќавајне	seќavaјne	seќavanje	сеќавање	Nnsnn		274	6	4	obl		
+и	i	i	и	C		274	7	8	cc		
+така	taka	taka	така	R		274	8	4	advmod		
+.	.	.	.	Z		274	9	4	punct		

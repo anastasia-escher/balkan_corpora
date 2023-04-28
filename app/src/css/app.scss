@@ -1,0 +1,19 @@
+// app global css in SCSS form
+.index-doc-page {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 477px;
+  margin-bottom: 100px;
+}
+
+.doc-h2 {
+  margin: 40px auto 30px;
+  text-align: center;
+}
+
+.content-container {
+  max-width: 70%;
+  margin: 20px auto 0 auto;
+  box-sizing: content-box;
+}
